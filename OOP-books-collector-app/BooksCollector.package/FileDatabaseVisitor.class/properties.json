@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "vutungan 12/30/2017 19:36",
+	"super" : "Object",
+	"category" : "BooksCollector",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"rootPath"
+	],
+	"name" : "FileDatabaseVisitor",
+	"type" : "normal"
+}

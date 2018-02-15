@@ -1,0 +1,1 @@
+I represent tile that cannot be mined

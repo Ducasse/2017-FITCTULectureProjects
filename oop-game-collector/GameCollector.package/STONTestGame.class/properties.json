@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "MichaelRemes 1/1/2018 23:24",
+	"super" : "TestCase",
+	"category" : "GameCollector-STONTests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"title",
+		"description",
+		"enabled"
+	],
+	"name" : "STONTestGame",
+	"type" : "normal"
+}

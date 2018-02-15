@@ -1,0 +1,3 @@
+pathfinding
+passable
+	^ false

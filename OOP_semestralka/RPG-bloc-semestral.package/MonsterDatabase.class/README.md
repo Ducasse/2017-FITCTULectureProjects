@@ -1,0 +1,1 @@
+This class holds a Dictionary of original instances of all the types of monsters that exist and  spawns next monsters by copying these original instances of Monsters.

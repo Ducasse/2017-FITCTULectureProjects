@@ -1,0 +1,1 @@
+Main class for Sokoban UI elements.

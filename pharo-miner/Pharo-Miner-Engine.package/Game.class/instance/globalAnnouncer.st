@@ -1,0 +1,3 @@
+accessing
+globalAnnouncer
+	^ self announcer

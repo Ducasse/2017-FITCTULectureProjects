@@ -1,0 +1,3 @@
+states
+want
+	^ self 

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "MartinKamenik 12/18/2017 13:19",
+	"super" : "BlElement",
+	"category" : "FireEmblamRPG-Menu-Elements",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"menuGameModel"
+	],
+	"name" : "ChCClassListElement",
+	"type" : "normal"
+}

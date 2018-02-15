@@ -1,0 +1,3 @@
+initialization
+isSomeCardSelected
+	^ selectedCard notNil

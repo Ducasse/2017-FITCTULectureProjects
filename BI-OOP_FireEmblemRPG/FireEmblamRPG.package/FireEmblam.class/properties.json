@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "MartinKamenik 1/3/2018 14:03",
+	"super" : "Object",
+	"category" : "FireEmblamRPG-GameManager",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "FireEmblam",
+	"type" : "normal"
+}

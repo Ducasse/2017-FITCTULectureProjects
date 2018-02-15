@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "sochomi4 12/20/2017 13:46",
+	"super" : "Announcement",
+	"category" : "Pharo-Miner-Engine-Announcements",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DestroySelfEvent",
+	"type" : "normal"
+}

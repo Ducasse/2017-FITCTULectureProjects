@@ -1,0 +1,3 @@
+operations
+clearTextstrip
+	textstrip changeText: ' '

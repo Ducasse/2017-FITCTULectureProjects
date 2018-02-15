@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "gajdijan 11/29/2017 00:27",
+	"super" : "Object",
+	"category" : "BooksCollector",
+	"classinstvars" : [
+		"storage"
+	],
+	"pools" : [ ],
+	"classvars" : [
+		"Storage"
+	],
+	"instvars" : [ ],
+	"name" : "Persister",
+	"type" : "normal"
+}

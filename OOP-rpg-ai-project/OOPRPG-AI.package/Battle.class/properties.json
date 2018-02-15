@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "OOPRPG-AI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"ui",
+		"units",
+		"turn",
+		"team1",
+		"team2",
+		"currentUnit"
+	],
+	"name" : "Battle",
+	"type" : "normal"
+}

@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "JakubRathousky 11/26/2017 16:53",
+	"super" : "BlElement",
+	"category" : "DarknessAwaitsUIElements",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"list",
+		"gameLog",
+		"source"
+	],
+	"name" : "GameLogElement",
+	"type" : "normal"
+}

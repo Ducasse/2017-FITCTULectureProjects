@@ -1,0 +1,3 @@
+properties
+healthMax
+	^healthMax

@@ -1,0 +1,1 @@
+This folder contains all the clone of the students project of the OOP lecture held at Prague in 2017-2018.The projects were hosted at 	https://gitlab.fit.cvut.cz	Current evaluation.- Does it load?- Create an image.- worth investigating.

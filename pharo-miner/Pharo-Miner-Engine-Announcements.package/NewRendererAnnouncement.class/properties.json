@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "sochomi4 12/20/2017 13:45",
+	"super" : "Announcement",
+	"category" : "Pharo-Miner-Engine-Announcements",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"renderer"
+	],
+	"name" : "NewRendererAnnouncement",
+	"type" : "normal"
+}

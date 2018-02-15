@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "StephanKrtecek 11/23/2017 01:20",
+	"super" : "Object",
+	"category" : "FireEmblamRPG-UI-Elements",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"wall",
+		"road",
+		"forest",
+		"hole",
+		"enemy",
+		"me",
+		"teammate"
+	],
+	"name" : "Enum",
+	"type" : "normal"
+}

@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.2">
+  <zoom_level>9</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>387</x>
+      <y>171</y>
+      <w>189</w>
+      <h>144</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Kind&gt;&gt;
+Map
+--
+-data
+--
++initialize: aData
++printOn: aStream
++clone
+--
+Responsibilities
+-- Tile containment and ordering</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1116</x>
+      <y>279</y>
+      <w>198</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Subkind&gt;&gt;
+Input
+--
+--
++initialize: aPath
++load ^map
+--
+Responsibilities
+-- Reading data from file into map</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>864</x>
+      <y>279</y>
+      <w>198</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Subkind&gt;&gt;
+Output
+--
+--
++initialize: aPath
++write: aMap
+--
+Responsibilities
+-- Writing data from map into file</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>990</x>
+      <y>36</y>
+      <w>198</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Kind&gt;&gt;
+/IOInterface/
+--
+-filePath
+--
++initialize: aPath
+--
+Responsibilities
+-- IO inteface</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1080</x>
+      <y>135</y>
+      <w>153</w>
+      <h>162</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;80.0;150.0;80.0;150.0;160.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>954</x>
+      <y>135</y>
+      <w>153</w>
+      <h>162</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+{complete, disjoint}</panel_attributes>
+    <additional_attributes>150.0;10.0;150.0;80.0;10.0;80.0;10.0;160.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>477</x>
+      <y>585</y>
+      <w>198</w>
+      <h>153</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Kind&gt;&gt;
+/Algorithm/
+--
+-map
+-steps
+--
++initialize: aMap
++steps
+/+solve/
+--
+Responsibilities
+-- Algorithm inteface</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1017</x>
+      <y>810</y>
+      <w>198</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Subkind&gt;&gt;
+BFS
+--
+--
++initialize: aMap
++solve
+--
+Responsibilities
+-- Solves using BFS</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1017</x>
+      <y>684</y>
+      <w>198</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Subkind&gt;&gt;
+DFS
+--
+--
++initialize: aMap
++solve
+--
+Responsibilities
+-- Solves using DFS</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1017</x>
+      <y>549</y>
+      <w>198</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Subkind&gt;&gt;
+AStar
+--
+--
++initialize: aMap
++solve
+--
+Responsibilities
+-- Solves using AStar</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>666</x>
+      <y>585</y>
+      <w>369</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;100.0;220.0;100.0;220.0;10.0;390.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>666</x>
+      <y>666</y>
+      <w>369</w>
+      <h>207</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;220.0;10.0;220.0;210.0;390.0;210.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>666</x>
+      <y>666</y>
+      <w>369</w>
+      <h>81</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+{complete, disjoint}</panel_attributes>
+    <additional_attributes>10.0;10.0;220.0;10.0;220.0;70.0;390.0;70.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>648</x>
+      <y>396</y>
+      <w>189</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Kind&gt;&gt;
+Launcher
+--
+--
++startGUI
++solve: aPath
+--
+Responsibilities
+-- Initializing application
+-- Launching algorithms</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>54</x>
+      <y>171</y>
+      <w>189</w>
+      <h>144</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Kind&gt;&gt;
+Tile
+--
+-type
+--
++initialize: aType
++printOn: aStream
++isVisitable
+--
+Responsibilities
+-- Terrain reprezentation</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>567</x>
+      <y>90</y>
+      <w>441</w>
+      <h>144</h>
+    </coordinates>
+    <panel_attributes>lt=-
+&lt;&lt;material&gt;&gt;
+writes or loads v</panel_attributes>
+    <additional_attributes>10.0;140.0;210.0;140.0;210.0;10.0;470.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>234</x>
+      <y>207</y>
+      <w>171</w>
+      <h>45</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=12..*
+m2=1
+&lt; consists of</panel_attributes>
+    <additional_attributes>10.0;20.0;170.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>495</x>
+      <y>306</y>
+      <w>81</w>
+      <h>297</h>
+    </coordinates>
+    <panel_attributes>lt=-
+&lt;&lt;material&gt;&gt;
+solves ^</panel_attributes>
+    <additional_attributes>10.0;310.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>522</x>
+      <y>0</y>
+      <w>774</w>
+      <h>297</h>
+    </coordinates>
+    <panel_attributes>lt=-
+&lt;&lt;material&gt;&gt;
+&lt; initializes</panel_attributes>
+    <additional_attributes>840.0;310.0;840.0;20.0;10.0;20.0;10.0;190.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>828</x>
+      <y>378</y>
+      <w>387</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>lt=-
+&lt;&lt;material&gt;&gt;
+loads map via &gt;</panel_attributes>
+    <additional_attributes>10.0;70.0;410.0;70.0;410.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>666</x>
+      <y>495</y>
+      <w>162</w>
+      <h>144</h>
+    </coordinates>
+    <panel_attributes>lt=-
+&lt;&lt;material&gt;&gt;
+launches v</panel_attributes>
+    <additional_attributes>90.0;10.0;90.0;140.0;10.0;140.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>738</x>
+      <y>315</y>
+      <w>144</w>
+      <h>99</h>
+    </coordinates>
+    <panel_attributes>lt=-
+&lt;&lt;material&gt;&gt;
+writes map via ^</panel_attributes>
+    <additional_attributes>10.0;90.0;10.0;10.0;140.0;10.0</additional_attributes>
+  </element>
+</diagram>

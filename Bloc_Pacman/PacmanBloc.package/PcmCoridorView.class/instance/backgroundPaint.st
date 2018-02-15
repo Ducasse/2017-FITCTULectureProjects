@@ -1,0 +1,3 @@
+accessing
+backgroundPaint
+	^ Color black

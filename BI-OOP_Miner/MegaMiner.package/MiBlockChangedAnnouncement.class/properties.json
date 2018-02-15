@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "AliakseiSyrel 12/12/2017 19:54",
+	"super" : "Announcement",
+	"category" : "MegaMiner-Game-Events",
+	"classinstvars" : [ ],
+	"pools" : [
+		"MiConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MiBlockChangedAnnouncement",
+	"type" : "normal"
+}

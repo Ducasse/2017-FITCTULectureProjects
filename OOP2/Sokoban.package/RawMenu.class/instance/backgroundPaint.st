@@ -1,0 +1,3 @@
+drawing
+backgroundPaint
+	^ Color yellow.

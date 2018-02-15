@@ -1,0 +1,1 @@
+Caster takes all damage instead of the damage target would take.

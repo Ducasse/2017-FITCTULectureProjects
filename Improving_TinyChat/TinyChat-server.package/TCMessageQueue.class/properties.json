@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "TomasBohuslav 1/19/2018 16:38",
+	"super" : "Object",
+	"category" : "TinyChat-server",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"messages"
+	],
+	"name" : "TCMessageQueue",
+	"type" : "normal"
+}

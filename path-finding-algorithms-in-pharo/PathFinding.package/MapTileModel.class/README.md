@@ -1,0 +1,10 @@
+Instance Variables
+	blocked:		<Object>
+	ending:		<Object>
+	found:		<Object>
+	mapTile:		<Object>
+	onPath:		<Object>
+	slow:		<Object>
+	starting:		<Object>
+	x:			<Object>
+	y:			<Object>

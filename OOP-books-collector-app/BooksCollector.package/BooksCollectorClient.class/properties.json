@@ -1,0 +1,23 @@
+{
+	"commentStamp" : "vutungan 12/30/2017 19:34",
+	"super" : "ComposableModel",
+	"category" : "BooksCollector",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"booksButton",
+		"addBookButton",
+		"readersButton",
+		"addReaderButton",
+		"borrowingsButton",
+		"addBorrowingButton",
+		"url",
+		"urlTextField",
+		"urlButton",
+		"initialized",
+		"UIs"
+	],
+	"name" : "BooksCollectorClient",
+	"type" : "normal"
+}

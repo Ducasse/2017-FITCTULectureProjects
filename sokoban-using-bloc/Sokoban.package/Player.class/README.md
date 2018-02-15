@@ -1,0 +1,1 @@
+The Sokoban player. A single instance will live through the whole game.

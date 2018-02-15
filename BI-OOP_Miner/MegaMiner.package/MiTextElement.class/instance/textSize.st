@@ -1,0 +1,3 @@
+drawing
+textSize
+	self subclassResponsibility 

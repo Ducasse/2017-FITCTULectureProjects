@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "SergeyDunaevskiy 12/2/2017 20:09",
+	"super" : "Object",
+	"category" : "MineSweeperLogic",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"board",
+		"x",
+		"y",
+		"mines",
+		"initialized",
+		"won",
+		"finished"
+	],
+	"name" : "Board",
+	"type" : "normal"
+}

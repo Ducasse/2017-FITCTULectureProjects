@@ -1,0 +1,1 @@
+Abstract base class for the tiles that comprise a Sokoban playing field.

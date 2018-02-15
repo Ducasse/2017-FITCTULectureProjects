@@ -1,0 +1,1 @@
+I am the miner's tank.  The miner 's movements consumes fuel, hence the fuel must be stored somewhere. And that's actually my  job.  If the miner runs out of the fuel, he needs to be rescued. So be aware of it and always check your fuel status!

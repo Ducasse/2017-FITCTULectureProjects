@@ -1,0 +1,23 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ComposableModel",
+	"category" : "OOPRPG-AI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"btnAttack",
+		"btnGuard",
+		"btnSpell",
+		"btnTurn",
+		"myTeamOverview",
+		"enemyTeamOverview",
+		"gameOutput",
+		"txtMyTeam",
+		"txtEnemyTeam",
+		"txtCurrentPlayer",
+		"ui"
+	],
+	"name" : "GameUIMainWindow",
+	"type" : "normal"
+}

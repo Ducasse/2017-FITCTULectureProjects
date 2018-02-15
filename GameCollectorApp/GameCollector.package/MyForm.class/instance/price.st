@@ -1,0 +1,3 @@
+initialization
+price
+ ^ price

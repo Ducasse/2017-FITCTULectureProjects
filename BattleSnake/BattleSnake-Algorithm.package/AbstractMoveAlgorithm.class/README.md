@@ -1,0 +1,1 @@
+Abstract move calculation algorithm

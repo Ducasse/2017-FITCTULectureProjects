@@ -1,0 +1,1 @@
+I represent miner's plate that protects the machine from damage. The higher level am I, the higher protection is provided.

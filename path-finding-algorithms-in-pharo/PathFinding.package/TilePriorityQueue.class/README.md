@@ -1,0 +1,1 @@
+Priority queue for Dijkstra, AStar and GreedySearch implementation.

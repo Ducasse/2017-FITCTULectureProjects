@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "rodlukas 12/7/2017 22:27",
+	"super" : "Object",
+	"category" : "MegaMiner-Model",
+	"classinstvars" : [ ],
+	"pools" : [
+		"MiConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [
+		"text"
+	],
+	"name" : "MiMenuButtonModel",
+	"type" : "normal"
+}

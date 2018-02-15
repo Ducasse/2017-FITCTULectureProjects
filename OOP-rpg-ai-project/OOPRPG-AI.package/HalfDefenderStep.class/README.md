@@ -1,0 +1,1 @@
+AI behaviour class. Alternates between Vanguard and Tryhard traits.

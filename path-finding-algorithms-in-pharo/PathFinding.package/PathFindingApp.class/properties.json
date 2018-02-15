@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "MarekErben 1/2/2018 11:13",
+	"super" : "Object",
+	"category" : "PathFinding-App",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PathFindingApp",
+	"type" : "normal"
+}

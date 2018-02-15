@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "BlElement",
+	"category" : "Miniworld-Tiles",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"state",
+		"position",
+		"image",
+		"distance",
+		"heuristicDist"
+	],
+	"name" : "Tile",
+	"type" : "normal"
+}

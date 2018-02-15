@@ -1,0 +1,1 @@
+I represent a SokobanOnTarget source image.

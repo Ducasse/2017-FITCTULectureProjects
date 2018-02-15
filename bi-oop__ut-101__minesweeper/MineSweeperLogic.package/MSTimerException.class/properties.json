@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "Dawnflash 11/16/2017 12:29",
+	"super" : "Exception",
+	"category" : "MineSweeperLogic",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MSTimerException",
+	"type" : "normal"
+}

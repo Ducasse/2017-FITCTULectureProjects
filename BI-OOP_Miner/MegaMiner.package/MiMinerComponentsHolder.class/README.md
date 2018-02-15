@@ -1,0 +1,1 @@
+I contain all parts of miner machine - backpack, coolingunit, drill, plate and tank and provide access to them.

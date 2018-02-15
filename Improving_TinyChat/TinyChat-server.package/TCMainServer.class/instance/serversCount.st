@@ -1,0 +1,3 @@
+initialization
+serversCount
+	^servers size.

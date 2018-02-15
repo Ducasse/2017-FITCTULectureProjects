@@ -1,0 +1,1 @@
+Announce when user click on the home button.

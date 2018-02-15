@@ -1,0 +1,3 @@
+properties
+fuelConsumption
+	^ 1

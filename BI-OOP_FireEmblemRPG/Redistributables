@@ -1,0 +1,8 @@
+Bloc:
+--------------------------------------------------------------
+Metacello new
+   baseline: 'Bloc';
+   repository: 'github://pharo-graphics/Bloc:pharo6.1/src';
+   load: #core
+--------------------------------------------------------------
+

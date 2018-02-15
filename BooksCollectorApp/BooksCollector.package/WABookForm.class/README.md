@@ -1,0 +1,1 @@
+Seaside component for adding a book using html forms.

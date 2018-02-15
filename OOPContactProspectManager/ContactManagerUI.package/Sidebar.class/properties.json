@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "tokarvit 12/3/2017 15:38",
+	"super" : "ComposableModel",
+	"category" : "ContactManagerUI-Widgets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"profile",
+		"contactList",
+		"myAnnouncer"
+	],
+	"name" : "Sidebar",
+	"type" : "normal"
+}

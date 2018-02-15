@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "tokarvit 12/30/2017 18:17",
+	"super" : "ComposableModel",
+	"category" : "ContactManagerUI-Widgets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"listLabel",
+		"sessionList",
+		"dateLabel",
+		"dateField",
+		"addSessionButton",
+		"deleteSessionButton",
+		"myAnnouncer"
+	],
+	"name" : "ContactSessionLog",
+	"type" : "normal"
+}

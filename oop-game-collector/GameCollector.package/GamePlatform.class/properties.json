@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "Anonymous 11/27/2017 15:44",
+	"super" : "Object",
+	"category" : "GameCollector-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"platformName",
+		"logo",
+		"devicePicture"
+	],
+	"name" : "GamePlatform",
+	"type" : "normal"
+}

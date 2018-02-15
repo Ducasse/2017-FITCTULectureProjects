@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "TestCase",
+	"category" : "MegaMiner-Tests",
+	"classinstvars" : [ ],
+	"pools" : [
+		"MiConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MiBackpackTest",
+	"type" : "normal"
+}

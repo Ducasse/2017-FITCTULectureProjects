@@ -1,0 +1,3 @@
+operations
+reverse
+	^ Left new

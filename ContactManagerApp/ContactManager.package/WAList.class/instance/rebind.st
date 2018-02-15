@@ -1,0 +1,3 @@
+binding
+rebind
+	^ self subclassResponsibility 

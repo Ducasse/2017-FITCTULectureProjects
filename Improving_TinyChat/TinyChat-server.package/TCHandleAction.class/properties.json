@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "TomasBohuslav 1/20/2018 22:17",
+	"super" : "Object",
+	"category" : "TinyChat-server",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"aServer"
+	],
+	"name" : "TCHandleAction",
+	"type" : "normal"
+}

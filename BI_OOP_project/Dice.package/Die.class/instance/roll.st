@@ -1,0 +1,3 @@
+actions
+roll
+	^ faces atRandom.

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "tokarvit 12/29/2017 22:21",
+	"super" : "Announcement",
+	"category" : "ContactManagerUI-Announcements",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "LogOutButtonPressed",
+	"type" : "normal"
+}

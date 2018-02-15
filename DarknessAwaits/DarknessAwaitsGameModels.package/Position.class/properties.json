@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "JakubRathousky 11/26/2017 16:33",
+	"super" : "Object",
+	"category" : "DarknessAwaitsGameModels",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"posX",
+		"posY"
+	],
+	"name" : "Position",
+	"type" : "normal"
+}

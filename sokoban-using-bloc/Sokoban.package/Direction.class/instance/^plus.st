@@ -1,0 +1,3 @@
+operations
++ position
+	self subclassResponsibility

@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "StephaneDucasse 3/18/2015 19:08",
+	"super" : "Object",
+	"category" : "TinyChat",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"sender",
+		"text",
+		"separator"
+	],
+	"name" : "TCMessage",
+	"type" : "normal"
+}

@@ -1,0 +1,1 @@
+I represent tests of the game window element.

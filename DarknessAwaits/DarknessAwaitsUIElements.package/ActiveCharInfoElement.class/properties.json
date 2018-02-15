@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "JakubRathousky 11/26/2017 16:41",
+	"super" : "BlElement",
+	"category" : "DarknessAwaitsUIElements",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"queue",
+		"hasChanged"
+	],
+	"name" : "ActiveCharInfoElement",
+	"type" : "normal"
+}

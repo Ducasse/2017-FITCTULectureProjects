@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "sochomi4 1/1/2018 16:41",
+	"super" : "Renderer",
+	"category" : "Pharo-Miner-Engine",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"image",
+		"announcer"
+	],
+	"name" : "SpriteRenderer",
+	"type" : "normal"
+}

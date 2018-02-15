@@ -1,0 +1,29 @@
+{
+	"commentStamp" : "LiborPlisek 11/29/2017 01:21",
+	"super" : "Object",
+	"category" : "Sokoban-Round",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"sizeX",
+		"sizeY",
+		"playerX",
+		"playerY",
+		"receivedMap",
+		"map",
+		"graphicInstance",
+		"menuInstance",
+		"mapInstance",
+		"sokoMoveCnt",
+		"boxMoveCnt",
+		"boxCnt",
+		"boxOnTargetCnt",
+		"moves",
+		"stackOfMoves",
+		"level",
+		"win"
+	],
+	"name" : "SRound",
+	"type" : "normal"
+}

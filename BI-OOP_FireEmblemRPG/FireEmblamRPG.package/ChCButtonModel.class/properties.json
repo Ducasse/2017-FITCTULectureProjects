@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "FireEmblamRPG-Menu-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"text",
+		"actionNum",
+		"announcer",
+		"selected"
+	],
+	"name" : "ChCButtonModel",
+	"type" : "normal"
+}

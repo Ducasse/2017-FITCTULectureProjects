@@ -1,0 +1,1 @@
+Class holds data of incoming request /start

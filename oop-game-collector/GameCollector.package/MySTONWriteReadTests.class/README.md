@@ -1,0 +1,1 @@
+Similar class to STONWriteReadTests in STON-Tests package

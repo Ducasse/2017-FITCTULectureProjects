@@ -1,0 +1,1 @@
+Class representing our Snake.

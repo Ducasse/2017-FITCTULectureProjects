@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "TomasBohuslav 1/20/2018 17:46",
+	"super" : "TCUsers",
+	"category" : "TinyChat-server",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TCAdmin",
+	"type" : "normal"
+}

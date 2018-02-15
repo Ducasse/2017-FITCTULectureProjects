@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "BichPhuongPhamova 12/18/2017 21:33",
+	"super" : "RESTWrapper",
+	"category" : "BooksCollector",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"books",
+		"teapot",
+		"destFilename"
+	],
+	"name" : "BookREST",
+	"type" : "normal"
+}

@@ -1,0 +1,1 @@
+I cry when a game starts (first click).

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "MariaKarzhenkova 12/6/2017 23:47",
+	"super" : "RawElement",
+	"category" : "Sokoban-View",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"info"
+	],
+	"name" : "RawInfoElement",
+	"type" : "normal"
+}

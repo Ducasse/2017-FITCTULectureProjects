@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "Anonymous 12/5/2017 15:34",
+	"super" : "Object",
+	"category" : "OOPRPG-AI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"unit",
+		"target",
+		"damage",
+		"spell",
+		"guard",
+		"duration",
+		"newRound",
+		"crit"
+	],
+	"name" : "Move",
+	"type" : "normal"
+}

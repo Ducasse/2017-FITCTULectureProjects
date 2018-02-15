@@ -1,0 +1,1 @@
+I am a graphical element representing an image version of a box on a floor tile.

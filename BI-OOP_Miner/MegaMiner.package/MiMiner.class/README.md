@@ -1,0 +1,1 @@
+I represent the user in game - the miner machine that is able to mineout some blocks in underground. I have money, temperature, health. My parts (backpack, coolingunit, drill, plate, tank) are in components.

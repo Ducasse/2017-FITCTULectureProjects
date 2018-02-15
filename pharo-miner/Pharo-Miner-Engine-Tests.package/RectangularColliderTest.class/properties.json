@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ColliderTest",
+	"category" : "Pharo-Miner-Engine-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RectangularColliderTest",
+	"type" : "normal"
+}

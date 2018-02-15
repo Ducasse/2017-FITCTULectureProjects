@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "Sergey 11/5/2017 02:52",
+	"super" : "Object",
+	"category" : "MineSweeperLogic",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"coordinate",
+		"opened",
+		"marked"
+	],
+	"name" : "Tile",
+	"type" : "normal"
+}

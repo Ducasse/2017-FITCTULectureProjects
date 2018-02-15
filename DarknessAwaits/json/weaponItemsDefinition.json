@@ -1,0 +1,30 @@
+{
+	"w001" : {
+		"name" : "Huricane sword",
+		"affectedAttributes" : {
+			"agility" : 5,
+			"vitality" : -3
+		},
+		"description" : "Super sharp sword",
+		"type" : "weapon",
+		"equipBodyPart" : "righthand",
+		"damage" : 5,
+		"mainAttribute" : "strenght",
+		"weaponType" : "onehanded",
+		"attackRange" : 1
+	},
+	"w002" : {
+		"name" : "Staff of masters",
+		"affectedAttributes" : {
+			"strenght" : 5,
+			"agility" : -3
+		},
+		"description" : "Heavy staff",
+		"type" : "weapon",
+		"equipBodyPart" : "righthand",
+		"damage" : 10,
+		"mainAttribute" : "strenght",
+		"weaponType" : "onehanded",
+		"attackRange" : 1
+	}
+}

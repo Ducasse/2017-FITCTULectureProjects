@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "BrackenSpencer 7/8/2017 17:40",
+	"super" : "TestCase",
+	"category" : "TwitterSDK-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TwitterSDKTest",
+	"type" : "normal"
+}

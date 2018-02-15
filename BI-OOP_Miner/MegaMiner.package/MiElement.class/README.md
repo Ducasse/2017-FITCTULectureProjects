@@ -1,0 +1,1 @@
+I am a parent of each graphical element in game

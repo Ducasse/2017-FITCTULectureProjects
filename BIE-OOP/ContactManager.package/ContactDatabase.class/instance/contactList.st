@@ -1,0 +1,3 @@
+enumerating
+contactList
+	^ database asOrderedCollection.

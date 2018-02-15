@@ -1,0 +1,1 @@
+I represent an announcement that image of renderer was changed.

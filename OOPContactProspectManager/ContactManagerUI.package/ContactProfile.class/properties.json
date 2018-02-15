@@ -1,0 +1,22 @@
+{
+	"commentStamp" : "tokarvit 12/30/2017 18:12",
+	"super" : "ComposableModel",
+	"category" : "ContactManagerUI-Widgets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"contact",
+		"nameLabel",
+		"emailLabel",
+		"phoneNumberLabel",
+		"roleInCompanyLabel",
+		"companyLabel",
+		"addReminderButton",
+		"reminderDateLabel",
+		"reminderDateField",
+		"myAnnouncer"
+	],
+	"name" : "ContactProfile",
+	"type" : "normal"
+}

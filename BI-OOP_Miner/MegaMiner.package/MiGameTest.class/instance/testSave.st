@@ -1,0 +1,4 @@
+tests
+testSave
+	
+	self testSaveLoad .

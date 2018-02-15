@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "JakubRathousky 11/9/2017 19:23",
+	"super" : "Object",
+	"category" : "DarknessAwaitsEnums",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "WeaponTypeEnum",
+	"type" : "normal"
+}

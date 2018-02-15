@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "MichalCerny 12/30/2017 09:21",
+	"super" : "BlElement",
+	"category" : "Sokoban-Menu",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"menuModel"
+	],
+	"name" : "SMMenuElement",
+	"type" : "normal"
+}

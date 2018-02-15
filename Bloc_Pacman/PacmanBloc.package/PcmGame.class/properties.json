@@ -1,0 +1,26 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "PacmanBloc",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"map",
+		"pacman",
+		"ghosts",
+		"ticker",
+		"space",
+		"points",
+		"announcer",
+		"gameView",
+		"isHunting",
+		"activeBigDots",
+		"dots",
+		"lifes",
+		"state",
+		"totalDots"
+	],
+	"name" : "PcmGame",
+	"type" : "normal"
+}

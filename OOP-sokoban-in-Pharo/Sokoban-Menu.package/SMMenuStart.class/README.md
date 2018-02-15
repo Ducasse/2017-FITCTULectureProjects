@@ -1,0 +1,1 @@
+Class part:  It was used before the menu was implemented to the game window.

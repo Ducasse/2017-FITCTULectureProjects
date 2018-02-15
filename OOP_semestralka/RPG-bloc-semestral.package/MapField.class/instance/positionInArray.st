@@ -1,0 +1,4 @@
+accessing
+positionInArray
+	^positionInArray
+	

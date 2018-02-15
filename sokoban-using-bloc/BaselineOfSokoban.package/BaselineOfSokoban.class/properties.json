@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "PetrNespurek 12/16/2017 16:29",
+	"super" : "BaselineOf",
+	"category" : "BaselineOfSokoban",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BaselineOfSokoban",
+	"type" : "normal"
+}

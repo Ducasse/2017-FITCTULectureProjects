@@ -1,0 +1,33 @@
+{
+	"commentStamp" : "brychon1 12/16/2017 19:37",
+	"super" : "ComposableModel",
+	"category" : "TwitterAnalyzer",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"tweets",
+		"labelText",
+		"buttonSearch",
+		"textFieldOut",
+		"radioButtonMixed",
+		"radioButtonRecent",
+		"radioButtonPopular",
+		"labelTweetType",
+		"textInputText",
+		"labelRetrievedTweetsCnt",
+		"dropListCnt",
+		"labelCount",
+		"labelLatitude",
+		"labelLongitude",
+		"labelRadius",
+		"textInputLatitude",
+		"textInputLongitude",
+		"dropDownRadius",
+		"radioButtonIncludeGeoInfo",
+		"analysisOutputWindow",
+		"goToUserSearchButton"
+	],
+	"name" : "TwitterAnalyzerGUISearchTweets",
+	"type" : "normal"
+}

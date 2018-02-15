@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "MartinTaibr 12/10/2017 23:08",
+	"super" : "Object",
+	"category" : "Sokoban-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"levelPos"
+	],
+	"name" : "LevelObject",
+	"type" : "normal"
+}

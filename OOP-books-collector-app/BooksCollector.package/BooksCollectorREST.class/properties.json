@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "vutungan 12/30/2017 19:34",
+	"super" : "Object",
+	"category" : "BooksCollector",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Instance"
+	],
+	"instvars" : [
+		"bookRest",
+		"readerRest",
+		"isRunning",
+		"teapot",
+		"rests"
+	],
+	"name" : "BooksCollectorREST",
+	"type" : "normal"
+}

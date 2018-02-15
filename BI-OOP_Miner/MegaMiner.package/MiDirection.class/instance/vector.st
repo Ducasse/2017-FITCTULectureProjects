@@ -1,0 +1,3 @@
+actions
+vector
+	self subclassResponsibility

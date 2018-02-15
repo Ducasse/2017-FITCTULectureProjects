@@ -1,0 +1,26 @@
+{
+	"commentStamp" : "brychon1 12/16/2017 19:38",
+	"super" : "ComposableModel",
+	"category" : "TwitterAnalyzer",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"userObj",
+		"labelRetrievedTweetsCnt",
+		"dropListCnt",
+		"buttonSearch",
+		"textFieldUser",
+		"labelUser",
+		"textFieldUserInfo",
+		"textFieldTweets",
+		"radioButtonDetailedView",
+		"labelCount",
+		"timelineObj",
+		"goToTweetSearchButton",
+		"analysisWindow",
+		"analysis"
+	],
+	"name" : "TwitterAnalyzerGUISearchUsers",
+	"type" : "normal"
+}

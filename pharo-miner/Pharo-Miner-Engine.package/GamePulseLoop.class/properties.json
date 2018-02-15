@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "sochomi4 12/13/2017 23:33",
+	"super" : "Object",
+	"category" : "Pharo-Miner-Engine",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"pulseblock",
+		"pulsestarttime",
+		"deltatime",
+		"loopprocess",
+		"waittime",
+		"processid"
+	],
+	"name" : "GamePulseLoop",
+	"type" : "normal"
+}

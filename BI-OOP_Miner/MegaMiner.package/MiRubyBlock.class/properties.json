@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "MiProfitableBlock",
+	"category" : "MegaMiner-Game-Blocks",
+	"classinstvars" : [ ],
+	"pools" : [
+		"MiConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MiRubyBlock",
+	"type" : "normal"
+}

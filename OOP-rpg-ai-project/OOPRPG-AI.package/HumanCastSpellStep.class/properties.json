@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "UnitStep",
+	"category" : "OOPRPG-AI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"targetPlayer",
+		"spell"
+	],
+	"name" : "HumanCastSpellStep",
+	"type" : "normal"
+}

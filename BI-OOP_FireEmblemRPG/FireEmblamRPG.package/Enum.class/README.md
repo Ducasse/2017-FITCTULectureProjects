@@ -1,0 +1,1 @@
+Enum for types of card elements

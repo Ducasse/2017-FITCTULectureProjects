@@ -1,0 +1,1 @@
+Graphical element representing a wall.

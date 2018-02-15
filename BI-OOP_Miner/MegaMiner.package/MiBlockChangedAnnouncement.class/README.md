@@ -1,0 +1,1 @@
+I announce when block changes in block holder

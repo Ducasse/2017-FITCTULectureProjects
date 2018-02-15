@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "rodlukas 12/8/2017 09:40",
+	"super" : "MiBlock",
+	"category" : "MegaMiner-Game-Blocks",
+	"classinstvars" : [ ],
+	"pools" : [
+		"MiConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MiNotPassableBlock",
+	"type" : "normal"
+}

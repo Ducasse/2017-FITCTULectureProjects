@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Shape2D",
+	"category" : "Pharo-Miner-Engine-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"test1",
+		"test2"
+	],
+	"name" : "Shape2DTestChild",
+	"type" : "normal"
+}

@@ -1,0 +1,1 @@
+AI behaviour class. Every time attack random enemy, but has one third of a change to attack himself.

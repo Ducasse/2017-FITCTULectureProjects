@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "sochomi4 12/28/2017 19:40",
+	"super" : "Behaviour",
+	"category" : "Pharo-Miner-Engine",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"pressedqueue",
+		"downqueue",
+		"upqueue",
+		"cleanupblock"
+	],
+	"name" : "Controller",
+	"type" : "normal"
+}

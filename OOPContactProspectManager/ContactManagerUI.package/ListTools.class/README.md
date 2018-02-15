@@ -1,0 +1,1 @@
+The panel holds order methods, categories of contacts to show.

@@ -1,0 +1,3 @@
+initialization
+printTranscript
+	currentLevel printTranscript.

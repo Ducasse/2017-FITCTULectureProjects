@@ -1,0 +1,3 @@
+getSet
+variables
+ 	^gameBoard variables

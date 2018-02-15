@@ -1,0 +1,6 @@
+10 5 95
+w f f f f t f f f w
+w f b w w b w w f w
+f p b t f t f t b w
+f f f w w b w w f f
+w w f f f t f f f f

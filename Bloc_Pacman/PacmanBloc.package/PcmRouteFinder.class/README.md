@@ -1,0 +1,1 @@
+Is used to find way from ghost to pacman using BFS

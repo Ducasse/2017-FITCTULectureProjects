@@ -1,0 +1,1 @@
+Casts a Karma effect on a target. Any damage taken by  the caster will be taken by the Karma target instead.

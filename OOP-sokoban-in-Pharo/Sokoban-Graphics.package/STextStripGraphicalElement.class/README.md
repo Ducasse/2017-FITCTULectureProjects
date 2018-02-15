@@ -1,0 +1,1 @@
+I represent the text strip in the bottom of the screen, which can be used to print various data to the player.

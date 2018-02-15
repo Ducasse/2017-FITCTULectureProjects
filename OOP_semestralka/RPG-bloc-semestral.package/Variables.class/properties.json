@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "RPG-bloc-semestral",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"squareSize",
+		"TextDatabase",
+		"MonsterDatabase"
+	],
+	"name" : "Variables",
+	"type" : "normal"
+}

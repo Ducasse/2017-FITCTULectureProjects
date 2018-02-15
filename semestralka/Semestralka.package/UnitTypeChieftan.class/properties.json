@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "UnitType",
+	"category" : "Semestralka-UnitType",
+	"classinstvars" : [
+		"terrainCostList"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "UnitTypeChieftan",
+	"type" : "normal"
+}

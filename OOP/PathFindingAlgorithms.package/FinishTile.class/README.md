@@ -1,0 +1,1 @@
+Finished tile that will be default for graph representation

@@ -1,0 +1,3 @@
+accessing
+maxHp
+	^40.

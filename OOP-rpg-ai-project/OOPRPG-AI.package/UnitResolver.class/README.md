@@ -1,0 +1,1 @@
+This is an engine that can determine basic information about the enemy team's units, by processing everyhing that the enemy units did in one round.

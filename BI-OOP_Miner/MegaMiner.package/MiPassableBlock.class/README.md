@@ -1,0 +1,1 @@
+I represent block that can be passed with miner without any requirements. I contain interactive block models (miner can interact with each of the block there - i.e. sell mineouted blocks from cargoholder..) and static block models that don't provide any way of interaction.

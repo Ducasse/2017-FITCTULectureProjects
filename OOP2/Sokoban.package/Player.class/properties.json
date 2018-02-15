@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "MariaKarzhenkova 11/14/2017 21:05",
+	"super" : "Movable",
+	"category" : "Sokoban-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Player",
+	"type" : "normal"
+}

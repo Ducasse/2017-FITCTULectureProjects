@@ -1,0 +1,1 @@
+Generates a random grid.

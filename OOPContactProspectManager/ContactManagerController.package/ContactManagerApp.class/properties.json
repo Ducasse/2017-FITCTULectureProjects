@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "tokarvit 1/3/2018 16:48",
+	"super" : "Object",
+	"category" : "ContactManagerController",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"logInForm",
+		"signUpForm",
+		"appWindow",
+		"addContactForm",
+		"user"
+	],
+	"name" : "ContactManagerApp",
+	"type" : "normal"
+}

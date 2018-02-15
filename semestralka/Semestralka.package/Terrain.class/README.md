@@ -1,0 +1,1 @@
+An class for blocks of terrain which can exist in a square of the game board, which have a game altering effect, for example a unit can't walk through them in the case of impassable terrain.

@@ -1,0 +1,1 @@
+I am a mediator between the Map and Blocks. The Map stores my instances and I hold a single instance of the Block. I am able to forward messages such as #interact: or #moveOn: , but my main goal is to provide a simple way how to mine out the Block.  

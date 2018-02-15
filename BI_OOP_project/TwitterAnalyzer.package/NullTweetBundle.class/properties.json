@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "brychon1 12/16/2017 19:40",
+	"super" : "TweetBundle",
+	"category" : "TwitterAnalyzer",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "NullTweetBundle",
+	"type" : "normal"
+}

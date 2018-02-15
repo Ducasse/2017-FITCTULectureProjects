@@ -1,0 +1,3 @@
+accessing
+size
+	^ database size.

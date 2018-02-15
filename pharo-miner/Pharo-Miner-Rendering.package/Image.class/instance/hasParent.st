@@ -1,0 +1,3 @@
+accessing
+hasParent
+	^ blElement hasParent

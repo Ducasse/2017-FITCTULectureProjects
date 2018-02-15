@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "nymsapet 12/28/2017 15:25",
+	"super" : "Object",
+	"category" : "BattleSnake",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"food",
+		"game_id",
+		"height",
+		"snakes",
+		"turn",
+		"width",
+		"you",
+		"dead_snakes"
+	],
+	"name" : "MoveRequest",
+	"type" : "normal"
+}

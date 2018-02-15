@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "MartinHron 12/19/2017 21:50",
+	"super" : "Object",
+	"category" : "Sokoban-Utilities",
+	"classinstvars" : [
+		"instance"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"resourceDir",
+		"resources"
+	],
+	"name" : "ResourceManager",
+	"type" : "normal"
+}

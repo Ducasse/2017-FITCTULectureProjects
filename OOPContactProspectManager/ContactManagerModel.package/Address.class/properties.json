@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "rurabori 1/2/2018 22:58",
+	"super" : "Object",
+	"category" : "ContactManagerModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"Country",
+		"City",
+		"Street",
+		"PostalCode"
+	],
+	"name" : "Address",
+	"type" : "normal"
+}

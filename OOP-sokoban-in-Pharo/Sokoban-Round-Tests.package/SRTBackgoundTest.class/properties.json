@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "LiborPlisek 11/29/2017 17:11",
+	"super" : "TestCase",
+	"category" : "Sokoban-Round-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SRTBackgoundTest",
+	"type" : "normal"
+}

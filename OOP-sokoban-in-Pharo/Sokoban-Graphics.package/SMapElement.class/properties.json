@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "MichalCvach 11/18/2017 22:22",
+	"super" : "BlElement",
+	"category" : "Sokoban-Graphics-View",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"tiles",
+		"xMapSize",
+		"yMapSize"
+	],
+	"name" : "SMapElement",
+	"type" : "normal"
+}

@@ -1,0 +1,1 @@
+Subtype of path cell, the goals where boxes should be put to win the level. Interacts with Boxes to increment or decrement the level's goal counter.

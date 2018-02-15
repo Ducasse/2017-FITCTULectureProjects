@@ -1,0 +1,1 @@
+I'm a simple message. I identify my sender and my text.

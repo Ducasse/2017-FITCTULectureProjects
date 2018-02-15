@@ -1,0 +1,1 @@
+I am a graphical element representing a Bloc shape version of a Sokoban on a floor tile.

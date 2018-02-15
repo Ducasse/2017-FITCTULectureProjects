@@ -1,0 +1,1 @@
+I represent an event of GameObject changing location

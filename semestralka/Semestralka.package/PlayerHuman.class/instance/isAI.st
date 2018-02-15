@@ -1,0 +1,4 @@
+gameLogic
+isAI
+^(-1)
+

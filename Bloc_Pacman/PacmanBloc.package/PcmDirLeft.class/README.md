@@ -1,0 +1,1 @@
+This class represents direction left in our game

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "StephanKrtecek 12/21/2017 13:25",
+	"super" : "BlElement",
+	"category" : "FireEmblamRPG-UI-Elements",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"card"
+	],
+	"name" : "MyCardElement",
+	"type" : "normal"
+}

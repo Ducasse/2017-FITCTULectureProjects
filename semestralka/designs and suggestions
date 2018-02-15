@@ -1,0 +1,76 @@
+GameBoard
+    - Square
+        - Terrain
+            //something something
+        - Unit
+            - UnitType
+                //attacks, BaseStats, etc.
+            - Race/Side
+            - stats
+        -methods:
+            - AIValue
+                //returns number based on unit allegiance, hp, xp, etc. to provide some info for AI
+            
+    - Units
+        //linkedList of Units that determines the order in which they are accessed/when they are on turn
+        -is linked in circle as to provide continuous 
+    - currentUnit
+        //unit that is on turn
+    - numberOrcs
+    - numberHumans
+        // numbers to determine victory of one side
+        
+    -methods:
+        - move(destination) - returns new GameBoard with actualised location of unit
+        - attack(destination) - returns new GameBoard with actualised HP bars of Units
+                // if unit dies, it is removed from list Units and from GameTile where it stood and corresponding numberOrcs/numberHumans is decreased
+        // problem is that Unit can move and then attack, how to implement?? 
+        // Solution:    first Unit moves (note, it can move to a Tile where it was = not move) 
+        //              but after UnitMoves, game should check, if there is attackable target on neighboring Tile   
+        //              if there is, game provides option for all attackable targets.
+        
+        
+
+
+
+
+Game
+    - ActualGameboard
+        // actual state of the gameboard
+    - PlayerOrc,PlayerHuman
+        // two instances of subclasses of class Player - PlayerAI,PlayerBrian
+    - humanOnTurn
+        // boolean indicating whether to accept incoming messages
+    -methods:
+        - run: (textfile) playerHumanAI: (boolean) playerOrcAI: (boolean)
+            // creates an instance of Game with data from textfile, indicating whether Human or Orc players are ai.
+            // runs the cycle of the game until victory is achieved by one side
+            
+        -some other game logic methods...
+       
+            
+Player
+    methods:
+        move: (aGame)
+            // subclass responsibility
+        attackMove: (aGame)
+            // subclass responsibility
+    subclasses:
+        PlayerAI
+            target
+                // when AI calculates its move, it stores its atttack target here, to return it later when asked for attack target
+            IQ
+                // depth to which AI searches for its move
+            methods:
+                recursionMOVEOn:(gameboard)Depth:(IQ-depth) // recursion for minimax, return value indicates quality of move.
+                    // if Depth: == 0 calculate Quality of board and return, else return highest of recursionATTACKOn:(gameboardNew)Depth:(IQ-depth-1)
+                recursionATTACKOn:(gameboard)Depth:(IQ-Depth) // recursion for minimax, return value is quality of move.
+                move: (aGame)
+                    // calculates somehow where to move - MINIMAX, and stores attack target in target and makes a move, calls next method in aGame
+                attackMove: (aGame)
+                    // makes attack and calls next method in aGame.
+        PlayerBrian
+            methods:
+                // returns methods from GUI
+            
+        

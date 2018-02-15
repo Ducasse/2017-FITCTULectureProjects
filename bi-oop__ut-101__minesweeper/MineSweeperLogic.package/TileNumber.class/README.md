@@ -1,0 +1,1 @@
+- contains a value represents a quantity of mines around this tile

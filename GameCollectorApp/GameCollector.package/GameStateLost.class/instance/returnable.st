@@ -1,0 +1,3 @@
+initialization
+returnable
+	^ true

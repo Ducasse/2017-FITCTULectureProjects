@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "TimedEffect",
+	"category" : "OOPRPG-AI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"caster",
+		"target",
+		"damage"
+	],
+	"name" : "PoisonEffect",
+	"type" : "normal"
+}

@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "Dawnflash 12/19/2017 20:01",
+	"super" : "Object",
+	"category" : "MineSweeperUI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"size",
+		"position",
+		"color"
+	],
+	"name" : "UINumberSegment",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+getSet
+size
+	^variables squareSizeAsPoint

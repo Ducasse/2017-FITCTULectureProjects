@@ -1,0 +1,3 @@
+states
+name
+	^self subclassResponsibility

@@ -1,0 +1,1 @@
+Class representing a bag of dice.

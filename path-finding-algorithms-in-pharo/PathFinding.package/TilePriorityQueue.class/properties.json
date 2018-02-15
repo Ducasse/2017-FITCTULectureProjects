@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "MarekAnda 1/3/2018 19:45",
+	"super" : "AbstractDequeue",
+	"category" : "PathFinding-Dequeue",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"distances"
+	],
+	"name" : "TilePriorityQueue",
+	"type" : "normal"
+}

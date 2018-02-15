@@ -1,0 +1,3 @@
+instance creation
+newFromDirection: aDirection
+	self subclassResponsibility

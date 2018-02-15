@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "polivpe3 12/21/2017 15:25",
+	"super" : "Object",
+	"category" : "FireEmblamRPG",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"level",
+		"class",
+		"team",
+		"actualHP",
+		"img",
+		"imgLogo",
+		"played"
+	],
+	"name" : "Champion",
+	"type" : "normal"
+}

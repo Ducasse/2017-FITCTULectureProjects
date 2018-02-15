@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "BaseRepositoryService",
+	"category" : "ContactManager-Services",
+	"classinstvars" : [
+		"prospectStates"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ProspectStateService",
+	"type" : "normal"
+}

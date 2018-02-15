@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "DarknessAwaitsGameModels",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"queue",
+		"announcer"
+	],
+	"name" : "FightOrderQueue",
+	"type" : "normal"
+}

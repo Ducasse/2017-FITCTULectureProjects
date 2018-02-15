@@ -1,0 +1,1 @@
+I take care of repairing of miners machine in repairshop.

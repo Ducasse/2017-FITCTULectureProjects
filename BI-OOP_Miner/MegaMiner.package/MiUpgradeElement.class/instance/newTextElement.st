@@ -1,0 +1,3 @@
+initialization
+newTextElement
+	^ MiUpgradeTextElement new

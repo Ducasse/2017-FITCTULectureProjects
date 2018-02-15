@@ -1,0 +1,3 @@
+getSet
+gameBoard
+	^gameBoard.

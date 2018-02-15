@@ -1,0 +1,1 @@
+Main window class holding main aplication screens such as Home screen or Search screen.

@@ -1,0 +1,1 @@
+Stuns a target for 1 turn/

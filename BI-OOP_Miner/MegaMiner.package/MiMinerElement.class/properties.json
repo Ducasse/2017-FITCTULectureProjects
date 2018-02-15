@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "rodlukas 12/5/2017 01:30",
+	"super" : "MiElement",
+	"category" : "MegaMiner-View",
+	"classinstvars" : [ ],
+	"pools" : [
+		"MiConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [
+		"translationAnimation",
+		"oldRelativePosition",
+		"lock"
+	],
+	"name" : "MiMinerElement",
+	"type" : "normal"
+}

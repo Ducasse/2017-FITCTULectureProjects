@@ -1,0 +1,1 @@
+Collection of all behavior traits for AI oponents.

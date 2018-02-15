@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "bobotjan 12/19/2017 15:01",
+	"super" : "Announcement",
+	"category" : "Sokoban-Events",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "VictoryAnnouncement",
+	"type" : "normal"
+}

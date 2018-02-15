@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "MarekAnda 12/30/2017 19:02",
+	"super" : "Object",
+	"category" : "PathFinding-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"tiles",
+		"start",
+		"end",
+		"algorithm"
+	],
+	"name" : "MapModel",
+	"type" : "normal"
+}

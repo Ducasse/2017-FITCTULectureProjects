@@ -1,0 +1,1 @@
+Ve me jsou ulozeny vsechny barvy

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "FK 12/27/2017 23:34",
+	"super" : "BlElement",
+	"category" : "PacmanBloc",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"number"
+	],
+	"name" : "PcmNumberView",
+	"type" : "normal"
+}

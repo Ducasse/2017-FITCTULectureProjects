@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "brychon1 12/16/2017 19:40",
+	"super" : "Object",
+	"category" : "TwitterAnalyzer",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"tweets"
+	],
+	"name" : "Timeline",
+	"type" : "normal"
+}

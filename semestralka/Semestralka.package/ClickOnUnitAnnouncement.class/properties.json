@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Announcement",
+	"category" : "Semestralka-Announcements",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"clickedSquare"
+	],
+	"name" : "ClickOnUnitAnnouncement",
+	"type" : "normal"
+}

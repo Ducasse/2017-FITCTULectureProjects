@@ -1,0 +1,1 @@
+This is a representerof a game object "monster". In game it is represented by a colored square.

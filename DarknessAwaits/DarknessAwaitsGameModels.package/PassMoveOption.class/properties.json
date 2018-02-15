@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "GameOption",
+	"category" : "DarknessAwaitsGameModels",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PassMoveOption",
+	"type" : "normal"
+}

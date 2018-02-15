@@ -1,0 +1,3 @@
+accessing
+warningIcon
+	^ warningIcon

@@ -1,0 +1,1 @@
+This class represents a state when the player can move in whished direction. Response tells Game, the miner should be moved. 

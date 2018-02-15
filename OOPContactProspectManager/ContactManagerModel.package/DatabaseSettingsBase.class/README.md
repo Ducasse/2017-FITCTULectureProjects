@@ -1,0 +1,1 @@
+Base interface definition for database constants holder class.

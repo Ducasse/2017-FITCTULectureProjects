@@ -1,0 +1,1 @@
+test whether manager contains correct default values

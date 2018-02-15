@@ -1,0 +1,21 @@
+{
+	"commentStamp" : "Anonymous 12/5/2017 14:49",
+	"super" : "Object",
+	"category" : "OOPRPG-AI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"hp",
+		"magePts",
+		"healerPts",
+		"tankPts",
+		"dpsPts",
+		"spdBelow",
+		"ap",
+		"nickname",
+		"moves"
+	],
+	"name" : "GenericUnit",
+	"type" : "normal"
+}

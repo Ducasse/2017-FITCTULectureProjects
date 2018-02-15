@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "gajdijan 12/7/2017 21:12",
+	"super" : "WAComponent",
+	"category" : "BooksCollector",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"book"
+	],
+	"name" : "WABookComponent",
+	"type" : "normal"
+}

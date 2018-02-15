@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "JakubRathousky 11/26/2017 16:20",
+	"super" : "Object",
+	"category" : "DarknessAwaitsGameModels",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"affectedAttributes",
+		"description",
+		"type"
+	],
+	"name" : "Item",
+	"type" : "normal"
+}

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "TBScreenComponent",
+	"category" : "GameCollector",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"game",
+		"action"
+	],
+	"name" : "GameWebComponentGameEdit",
+	"type" : "normal"
+}

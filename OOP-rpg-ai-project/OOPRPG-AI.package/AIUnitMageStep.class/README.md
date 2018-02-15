@@ -1,0 +1,1 @@
+Subclass of AIUnitStep. Got methods with code for AI that needs to cast spells.

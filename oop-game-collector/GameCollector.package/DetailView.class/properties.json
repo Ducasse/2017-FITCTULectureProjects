@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "Anonymous 11/27/2017 16:51",
+	"super" : "ComposableModel",
+	"category" : "GameCollector",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"titleText",
+		"yearText",
+		"descriptionText",
+		"genreSelect",
+		"posterImage",
+		"game",
+		"detailChangedBlock"
+	],
+	"name" : "DetailView",
+	"type" : "normal"
+}

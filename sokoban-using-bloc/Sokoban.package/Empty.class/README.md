@@ -1,0 +1,1 @@
+Empty space onto which a player can step or push a box. New instances are created when a field becomes empty.

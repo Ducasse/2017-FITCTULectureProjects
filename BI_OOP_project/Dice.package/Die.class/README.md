@@ -1,0 +1,1 @@
+Simple class representing playng die with user defined number of faces

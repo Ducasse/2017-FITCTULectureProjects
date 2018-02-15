@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "MarekBelohoubek 12/31/2017 17:41",
+	"super" : "TestCase",
+	"category" : "PathFinding-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TileEventListenerTest",
+	"type" : "normal"
+}

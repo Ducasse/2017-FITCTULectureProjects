@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "brychon1 10/24/2017 22:53",
+	"super" : "Object",
+	"category" : "Dice",
+	"classinstvars" : [
+		"faces"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"faces"
+	],
+	"name" : "Die",
+	"type" : "normal"
+}

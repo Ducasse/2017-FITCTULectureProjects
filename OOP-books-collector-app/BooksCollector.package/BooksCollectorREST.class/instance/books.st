@@ -1,0 +1,3 @@
+accessing
+books
+	^ bookRest books.

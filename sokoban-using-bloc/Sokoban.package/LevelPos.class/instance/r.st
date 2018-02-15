@@ -1,0 +1,3 @@
+accessing
+r
+	^ point x

@@ -1,0 +1,1 @@
+Umim kreslit stiny z bodu A do bodu B.

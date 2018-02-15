@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "WAList",
+	"category" : "ContactManager-WAComponent",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"persons",
+		"companyFilter",
+		"isInner"
+	],
+	"name" : "WAPersonList",
+	"type" : "normal"
+}

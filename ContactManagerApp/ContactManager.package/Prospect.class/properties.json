@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "",
+	"super" : "BaseEntity",
+	"category" : "ContactManager-Entities",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"pname",
+		"revenue",
+		"mandays",
+		"state",
+		"description",
+		"company",
+		"probability"
+	],
+	"name" : "Prospect",
+	"type" : "normal"
+}

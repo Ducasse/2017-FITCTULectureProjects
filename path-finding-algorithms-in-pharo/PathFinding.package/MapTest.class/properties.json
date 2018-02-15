@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "MarekAnda 1/3/2018 19:34",
+	"super" : "TestCase",
+	"category" : "PathFinding-View",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MapTest",
+	"type" : "normal"
+}

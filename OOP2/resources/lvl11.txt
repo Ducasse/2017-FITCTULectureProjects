@@ -1,0 +1,6 @@
+6 5 20
+f f f f f f
+f b f f f t
+f t b f f f
+t b w w w w
+w p w w w w

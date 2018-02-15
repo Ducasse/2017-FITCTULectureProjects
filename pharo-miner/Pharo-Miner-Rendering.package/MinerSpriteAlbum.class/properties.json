@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "SpriteAlbum",
+	"category" : "Pharo-Miner-Rendering",
+	"classinstvars" : [
+		"uniqueinstance"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MinerSpriteAlbum",
+	"type" : "normal"
+}

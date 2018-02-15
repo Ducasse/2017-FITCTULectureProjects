@@ -1,0 +1,1 @@
+An exception with settable message to be used when MineSweeper is used incorrectly

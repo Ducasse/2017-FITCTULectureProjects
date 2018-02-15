@@ -1,0 +1,1 @@
+Bar which stores the amount of max value reached as a level and increases the value of max and min each time the level is increased.

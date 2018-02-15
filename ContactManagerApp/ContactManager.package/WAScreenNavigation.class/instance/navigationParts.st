@@ -1,0 +1,3 @@
+navigation
+navigationParts
+	^ NavigationManager mainNavigation

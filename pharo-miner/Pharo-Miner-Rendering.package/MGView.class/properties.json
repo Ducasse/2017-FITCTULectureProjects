@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "sochomi4 1/1/2018 16:34",
+	"super" : "Object",
+	"category" : "Pharo-Miner-Rendering",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"container",
+		"space",
+		"model"
+	],
+	"name" : "MGView",
+	"type" : "normal"
+}

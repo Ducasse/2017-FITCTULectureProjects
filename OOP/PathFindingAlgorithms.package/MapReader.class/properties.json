@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "PetrFiedler 12/7/2017 21:06",
+	"super" : "IOInterface",
+	"category" : "PathFindingAlgorithms",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"mapping"
+	],
+	"instvars" : [ ],
+	"name" : "MapReader",
+	"type" : "normal"
+}

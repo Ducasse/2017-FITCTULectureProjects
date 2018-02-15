@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "tokarvit 1/3/2018 15:37",
+	"super" : "ComposableModel",
+	"category" : "ContactManagerUI-Widgets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"userList",
+		"executeBlock"
+	],
+	"name" : "AddContact",
+	"type" : "normal"
+}

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "JanUhlik 1/3/2018 17:43",
+	"super" : "Object",
+	"category" : "Pharo-Miner-Rendering",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"blElement",
+		"hasParent"
+	],
+	"name" : "Image",
+	"type" : "normal"
+}

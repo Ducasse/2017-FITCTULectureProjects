@@ -1,0 +1,3 @@
+accessing
+selectAll
+	^ self subclassResponsibility

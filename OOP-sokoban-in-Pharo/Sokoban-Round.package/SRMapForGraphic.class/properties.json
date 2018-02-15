@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "LiborPlisek 11/29/2017 01:16",
+	"super" : "Object",
+	"category" : "Sokoban-Round",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"map",
+		"size"
+	],
+	"name" : "SRMapForGraphic",
+	"type" : "normal"
+}

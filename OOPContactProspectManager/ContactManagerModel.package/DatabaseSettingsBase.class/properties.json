@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "rurabori 12/31/2017 13:14",
+	"super" : "Object",
+	"category" : "ContactManagerModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DatabaseSettingsBase",
+	"type" : "normal"
+}

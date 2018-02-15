@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "kartol 11/16/2017 13:53",
+	"super" : "WAComponent",
+	"category" : "GameCollector",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GameState",
+	"type" : "normal"
+}

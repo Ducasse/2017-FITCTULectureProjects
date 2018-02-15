@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "SergeyDunaevskiy 11/15/2017 19:45",
+	"super" : "Object",
+	"category" : "MineSweeperLogic",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"x",
+		"y"
+	],
+	"name" : "Coordinate",
+	"type" : "normal"
+}

@@ -1,0 +1,1 @@
+I am the miner's drill. Miner uses me for mining out the Blocks. The higher Block's durability, the more mining power is needed for cracking the Block. If the drill is not powerful enough, the miner will not be able to mine out some blocks. My mining power can be increased by upgrades.   

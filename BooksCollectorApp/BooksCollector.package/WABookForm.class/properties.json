@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "gajdijan 12/25/2017 23:28",
+	"super" : "WARootComponent",
+	"category" : "BooksCollector",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"book"
+	],
+	"name" : "WABookForm",
+	"type" : "normal"
+}

@@ -1,0 +1,1 @@
+Class holding a notification for an user.

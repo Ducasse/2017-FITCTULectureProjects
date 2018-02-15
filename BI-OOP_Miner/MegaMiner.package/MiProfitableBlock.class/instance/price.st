@@ -1,0 +1,3 @@
+properties
+price
+	self subclassResponsibility

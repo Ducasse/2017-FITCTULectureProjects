@@ -1,0 +1,3 @@
+GameRPG
+moveWithoutClickOnGameboard: aGameboard
+	self subclassResponsibility.

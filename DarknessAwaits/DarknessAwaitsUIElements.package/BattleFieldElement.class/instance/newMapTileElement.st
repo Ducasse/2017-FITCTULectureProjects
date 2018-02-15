@@ -1,0 +1,3 @@
+accessing
+newMapTileElement
+	^ MapTileElement new.

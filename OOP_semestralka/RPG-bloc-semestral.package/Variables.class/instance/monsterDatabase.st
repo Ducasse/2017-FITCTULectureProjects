@@ -1,0 +1,3 @@
+getSet
+monsterDatabase
+	^MonsterDatabase

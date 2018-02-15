@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "MarekAnda 12/30/2017 17:12",
+	"super" : "BlElementEventListener",
+	"category" : "PathFinding-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"mapTileModel",
+		"mapModel"
+	],
+	"name" : "TileEventListener",
+	"type" : "normal"
+}

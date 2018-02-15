@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "TinyChat-tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"messagesQueue"
+	],
+	"name" : "TCMessagesQueueTests",
+	"type" : "normal"
+}

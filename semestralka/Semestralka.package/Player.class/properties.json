@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Semestralka-Player",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"playerName",
+		"announcer",
+		"race"
+	],
+	"name" : "Player",
+	"type" : "normal"
+}

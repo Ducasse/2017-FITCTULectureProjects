@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "Anonymous 1/3/2018 21:29",
+	"super" : "TestCase",
+	"category" : "Sokoban-Map",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"mapLoader"
+	],
+	"name" : "MapLoaderTest",
+	"type" : "normal"
+}

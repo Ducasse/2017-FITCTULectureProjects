@@ -1,0 +1,3 @@
+testing
+view
+	^ PcmSmallDotView new

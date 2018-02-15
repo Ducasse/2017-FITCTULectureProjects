@@ -1,0 +1,3 @@
+initialization
+show
+	window show.

@@ -1,0 +1,1 @@
+This class represents direction up in our game

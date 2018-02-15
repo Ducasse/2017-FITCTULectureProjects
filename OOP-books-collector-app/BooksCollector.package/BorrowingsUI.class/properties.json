@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "vutungan 12/30/2017 19:34",
+	"super" : "ComposableModel",
+	"category" : "BooksCollector",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"readersList",
+		"borrowingsList",
+		"refreshReadersButton",
+		"returnBookButton",
+		"url",
+		"opened"
+	],
+	"name" : "BorrowingsUI",
+	"type" : "normal"
+}

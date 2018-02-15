@@ -1,0 +1,1 @@
+Slows the player, reducing AP to 1 for the duration of the effect.

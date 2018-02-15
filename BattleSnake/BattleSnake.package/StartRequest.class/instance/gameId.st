@@ -1,0 +1,3 @@
+accessing
+gameId
+	^ gameId .

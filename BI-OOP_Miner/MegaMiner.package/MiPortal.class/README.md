@@ -1,0 +1,2 @@
+My goal is very simple - I just store a position of the Portal building (base) and portal target (the actual block, where the miner should be teleported).
+You can create me by using #base: method at my class side. This will create a new instantion, where target is same as base. 

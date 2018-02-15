@@ -1,0 +1,1 @@
+Vampire is a special type of Monster with its own special abilities.

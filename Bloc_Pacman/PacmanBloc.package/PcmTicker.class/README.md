@@ -1,0 +1,1 @@
+This object is used to shedule events of our game

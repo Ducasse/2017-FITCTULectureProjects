@@ -1,0 +1,3 @@
+accessing
+minimalTemperature
+	^ 20

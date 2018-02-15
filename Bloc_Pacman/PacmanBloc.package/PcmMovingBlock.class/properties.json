@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "",
+	"super" : "PcmBlock",
+	"category" : "PacmanBloc",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"x",
+		"y",
+		"coordinate",
+		"directionChangeRequest",
+		"direction",
+		"velocity",
+		"stdVelocity",
+		"velocityChangeRequest"
+	],
+	"name" : "PcmMovingBlock",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "MichalCvach 12/21/2017 00:30",
+	"super" : "SRawTargetGraphicalElement",
+	"category" : "Sokoban-Graphics-View",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SRawBoxOnTargetGraphicalElement",
+	"type" : "normal"
+}

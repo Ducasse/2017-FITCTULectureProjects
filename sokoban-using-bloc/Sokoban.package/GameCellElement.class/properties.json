@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "MartinHron 12/19/2017 21:50",
+	"super" : "BlElement",
+	"category" : "Sokoban-Elements",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"cell",
+		"displaySize"
+	],
+	"name" : "GameCellElement",
+	"type" : "normal"
+}

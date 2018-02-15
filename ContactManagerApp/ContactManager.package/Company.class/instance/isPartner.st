@@ -1,0 +1,3 @@
+accessing
+isPartner
+	^ isPartner

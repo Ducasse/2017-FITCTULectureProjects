@@ -1,0 +1,1 @@
+I am a parent class of all responses that relates to interacting with buildings & teleports.

@@ -1,0 +1,3 @@
+accessing
+detailString
+	^ self subclassResponsibility

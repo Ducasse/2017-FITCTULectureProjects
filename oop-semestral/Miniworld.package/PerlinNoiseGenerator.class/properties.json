@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Miniworld-Utility",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"gradient",
+		"permutation"
+	],
+	"name" : "PerlinNoiseGenerator",
+	"type" : "normal"
+}

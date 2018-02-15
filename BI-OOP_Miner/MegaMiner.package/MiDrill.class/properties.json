@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "JanTomanek 12/9/2017 18:20",
+	"super" : "MiMinerComponent",
+	"category" : "MegaMiner-Game-Miner",
+	"classinstvars" : [ ],
+	"pools" : [
+		"MiConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [
+		"miningPower"
+	],
+	"name" : "MiDrill",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "CircleList",
+	"category" : "Semestralka",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"playerList"
+	],
+	"name" : "UnitCircleList",
+	"type" : "normal"
+}

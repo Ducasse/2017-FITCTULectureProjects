@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "rodlukas 12/9/2017 22:47",
+	"super" : "MiMinerComponent",
+	"category" : "MegaMiner-Game-Miner",
+	"classinstvars" : [ ],
+	"pools" : [
+		"MiConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [
+		"absorption"
+	],
+	"name" : "MiPlate",
+	"type" : "normal"
+}

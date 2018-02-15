@@ -1,0 +1,3 @@
+properties
+mechanicalDamage
+	self subclassResponsibility

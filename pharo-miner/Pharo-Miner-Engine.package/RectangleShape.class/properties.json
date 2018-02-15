@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "sochomi4 12/10/2017 23:53",
+	"super" : "Shape2D",
+	"category" : "Pharo-Miner-Engine",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"width",
+		"height"
+	],
+	"name" : "RectangleShape",
+	"type" : "normal"
+}

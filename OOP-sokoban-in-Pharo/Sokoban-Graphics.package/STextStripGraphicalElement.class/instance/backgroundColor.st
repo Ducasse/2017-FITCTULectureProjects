@@ -1,0 +1,3 @@
+drawing
+backgroundColor
+	^ Color gray

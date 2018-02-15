@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "JakubRathousky 11/26/2017 14:54",
+	"super" : "Object",
+	"category" : "DarknessAwaitsGameModels",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"attributes",
+		"movementSpeed",
+		"isAlive",
+		"isActive",
+		"position",
+		"health",
+		"picturePath"
+	],
+	"name" : "GameCharacter",
+	"type" : "normal"
+}

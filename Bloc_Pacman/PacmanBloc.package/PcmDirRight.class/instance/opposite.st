@@ -1,0 +1,3 @@
+accessing
+opposite
+	^ PcmDirLeft uniqueInstance 

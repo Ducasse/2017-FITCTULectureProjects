@@ -1,0 +1,1 @@
+I define messages that BookDB should implement. BookDB being connection to database of books.

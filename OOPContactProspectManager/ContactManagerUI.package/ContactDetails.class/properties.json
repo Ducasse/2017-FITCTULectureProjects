@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "tokarvit 12/3/2017 15:37",
+	"super" : "ComposableModel",
+	"category" : "ContactManagerUI-Widgets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"contactProfile",
+		"userProfile",
+		"callHistory",
+		"reminderList",
+		"myAnnouncer"
+	],
+	"name" : "ContactDetails",
+	"type" : "normal"
+}

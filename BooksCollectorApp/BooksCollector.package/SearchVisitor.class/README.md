@@ -1,0 +1,1 @@
+I'm the abstract visitor - ancestor of all search visitors

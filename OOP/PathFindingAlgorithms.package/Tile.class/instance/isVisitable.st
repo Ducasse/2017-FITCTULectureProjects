@@ -1,0 +1,3 @@
+testing
+isVisitable
+	^self subclassResponsibility 

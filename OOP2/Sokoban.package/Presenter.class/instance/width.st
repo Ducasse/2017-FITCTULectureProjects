@@ -1,0 +1,3 @@
+canvas methods
+width
+	^width

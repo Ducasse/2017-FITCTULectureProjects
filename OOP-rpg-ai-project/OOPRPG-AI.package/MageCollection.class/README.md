@@ -1,0 +1,1 @@
+Collection of Traits of Support class characters.

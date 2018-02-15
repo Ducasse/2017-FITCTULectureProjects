@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "BlSpace",
+	"category" : "Miniworld",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"dimensions",
+		"miniworld"
+	],
+	"name" : "SizeWindow",
+	"type" : "normal"
+}

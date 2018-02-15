@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "sochomi4 1/1/2018 23:11",
+	"super" : "Behaviour",
+	"category" : "Pharo-Miner",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"drillingspeed",
+		"target"
+	],
+	"name" : "MiningDrill",
+	"type" : "normal"
+}

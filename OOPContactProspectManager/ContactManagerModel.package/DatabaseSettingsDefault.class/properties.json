@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "rurabori 1/4/2018 01:12",
+	"super" : "DatabaseSettingsBase",
+	"category" : "ContactManagerModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"host",
+		"port",
+		"database"
+	],
+	"name" : "DatabaseSettingsDefault",
+	"type" : "normal"
+}

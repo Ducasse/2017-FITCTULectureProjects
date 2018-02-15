@@ -1,0 +1,3 @@
+accessing
+coolingPower
+	^ coolingPower

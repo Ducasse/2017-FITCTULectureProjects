@@ -1,0 +1,1 @@
+AI behaviour class. Defends all the time friendly unit with highest mpwr. Attack only when it is last one standing on his own team.

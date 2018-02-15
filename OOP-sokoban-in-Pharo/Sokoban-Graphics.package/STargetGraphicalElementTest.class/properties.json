@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "MichalCvach 12/30/2017 20:19",
+	"super" : "TestCase",
+	"category" : "Sokoban-Graphics-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "STargetGraphicalElementTest",
+	"type" : "normal"
+}

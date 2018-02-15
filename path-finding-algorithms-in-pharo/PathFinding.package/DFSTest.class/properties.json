@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "MarekAnda 12/30/2017 16:57",
+	"super" : "TestCase",
+	"category" : "PathFinding-Algorithms",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DFSTest",
+	"type" : "normal"
+}

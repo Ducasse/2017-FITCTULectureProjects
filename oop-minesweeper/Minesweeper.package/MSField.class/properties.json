@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "MarekReimer 12/11/2017 14:22",
+	"super" : "Object",
+	"category" : "Minesweeper-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"covered",
+		"marked",
+		"coordinates",
+		"announcer",
+		"neighbours"
+	],
+	"name" : "MSField",
+	"type" : "normal"
+}

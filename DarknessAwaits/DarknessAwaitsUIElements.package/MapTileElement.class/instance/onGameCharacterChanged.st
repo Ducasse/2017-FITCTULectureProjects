@@ -1,0 +1,3 @@
+initialization
+onGameCharacterChanged
+	self invalidate

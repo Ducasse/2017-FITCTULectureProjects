@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "JanTomanek 11/25/2017 23:07",
+	"super" : "MiResponse",
+	"category" : "MegaMiner-Game-Events",
+	"classinstvars" : [ ],
+	"pools" : [
+		"MiConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MiBlockMoveOnResponse",
+	"type" : "normal"
+}

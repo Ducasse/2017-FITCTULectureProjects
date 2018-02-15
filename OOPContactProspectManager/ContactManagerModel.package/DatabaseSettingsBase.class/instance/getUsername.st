@@ -1,0 +1,4 @@
+api
+getUsername
+	self subclassResponsibility.
+	

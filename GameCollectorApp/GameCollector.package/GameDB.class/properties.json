@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "TomasLederer 12/1/2017 13:35",
+	"super" : "Object",
+	"category" : "GameCollector",
+	"classinstvars" : [
+		"uniqueInstance"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"data"
+	],
+	"name" : "GameDB",
+	"type" : "normal"
+}

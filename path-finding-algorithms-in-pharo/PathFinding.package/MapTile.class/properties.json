@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "MarekAnda 12/30/2017 17:14",
+	"super" : "BlElement",
+	"category" : "PathFinding-View",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"imageFileName",
+		"map",
+		"found",
+		"onPath",
+		"selected",
+		"x",
+		"y"
+	],
+	"name" : "MapTile",
+	"type" : "normal"
+}

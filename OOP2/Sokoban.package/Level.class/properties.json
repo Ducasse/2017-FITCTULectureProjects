@@ -1,0 +1,22 @@
+{
+	"commentStamp" : "MariaKarzhenkova 11/14/2017 21:26",
+	"super" : "Object",
+	"category" : "Sokoban-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"UniqueInstance"
+	],
+	"instvars" : [
+		"boxes",
+		"player",
+		"board",
+		"filename",
+		"moveCount",
+		"optimalScore",
+		"bestScore",
+		"currentScore"
+	],
+	"name" : "Level",
+	"type" : "normal"
+}

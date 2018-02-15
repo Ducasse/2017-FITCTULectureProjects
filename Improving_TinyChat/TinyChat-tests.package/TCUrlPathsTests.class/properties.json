@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "TomasBohuslav 1/22/2018 03:03",
+	"super" : "TestCase",
+	"category" : "TinyChat-tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"messagesQueue"
+	],
+	"name" : "TCUrlPathsTests",
+	"type" : "normal"
+}

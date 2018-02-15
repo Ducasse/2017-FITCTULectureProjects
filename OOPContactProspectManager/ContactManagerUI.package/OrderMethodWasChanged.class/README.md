@@ -1,0 +1,1 @@
+Announce when user select new order method from methods drop down list. It has one variable for new order method's name.

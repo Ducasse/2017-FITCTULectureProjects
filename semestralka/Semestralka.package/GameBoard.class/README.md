@@ -1,0 +1,1 @@
+The Game board is a Dictionary set of Squares. Only one Square of one position can be present there.  The position starts from (1@1) by default, NOT (0@0)!

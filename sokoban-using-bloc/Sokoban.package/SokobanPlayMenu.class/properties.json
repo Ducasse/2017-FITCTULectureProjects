@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "bobotjan 11/27/2017 23:02",
+	"super" : "ComposableModel",
+	"category" : "Sokoban-GUI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"buttonPlay",
+		"buttonBack",
+		"buttonClearScores",
+		"listLevels",
+		"listScores",
+		"labelLoad",
+		"labelScores"
+	],
+	"name" : "SokobanPlayMenu",
+	"type" : "normal"
+}

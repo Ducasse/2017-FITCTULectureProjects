@@ -1,0 +1,3 @@
+initialization
+announceChange
+	announcer announce: GameChangeAnnouncement new

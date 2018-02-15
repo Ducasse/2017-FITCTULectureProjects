@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "rodlukas 12/11/2017 01:36",
+	"super" : "BaselineOf",
+	"category" : "BaselineOfMegaMiner",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BaselineOfMegaMiner",
+	"type" : "normal"
+}

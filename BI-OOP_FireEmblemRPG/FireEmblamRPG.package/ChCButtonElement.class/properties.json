@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "BlElement",
+	"category" : "FireEmblamRPG-Menu-Elements",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"button",
+		"selState"
+	],
+	"name" : "ChCButtonElement",
+	"type" : "normal"
+}

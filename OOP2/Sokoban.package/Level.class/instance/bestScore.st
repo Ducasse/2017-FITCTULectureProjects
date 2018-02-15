@@ -1,0 +1,3 @@
+accessing
+bestScore
+	^bestScore

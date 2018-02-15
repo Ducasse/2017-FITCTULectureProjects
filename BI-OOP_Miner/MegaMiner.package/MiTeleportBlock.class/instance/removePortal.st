@@ -1,0 +1,3 @@
+interaction
+removePortal
+	^ MiUndergroundBlock new.

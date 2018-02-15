@@ -1,0 +1,3 @@
+getSet
+textDatabase
+ 	^variables textDatabase

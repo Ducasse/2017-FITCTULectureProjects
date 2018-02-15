@@ -1,0 +1,1 @@
+Represents the player pushing a box in a given direction as his move.

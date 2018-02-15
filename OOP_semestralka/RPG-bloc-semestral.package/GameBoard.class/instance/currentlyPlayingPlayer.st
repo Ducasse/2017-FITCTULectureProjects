@@ -1,0 +1,3 @@
+getSet
+currentlyPlayingPlayer
+	^currentlyPlayingPlayer 

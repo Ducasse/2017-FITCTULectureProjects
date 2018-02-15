@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "MartinHron 11/27/2017 18:53",
+	"super" : "GameCellElement",
+	"category" : "Sokoban-Elements",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PathCellElement",
+	"type" : "normal"
+}

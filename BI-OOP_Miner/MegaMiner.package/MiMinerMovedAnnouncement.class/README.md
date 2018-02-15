@@ -1,0 +1,1 @@
+I announce when some change in miner position occurs.

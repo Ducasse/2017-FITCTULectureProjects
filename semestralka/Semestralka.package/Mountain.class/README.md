@@ -1,0 +1,1 @@
+A class representing mountains as possible contents of a Square of the GameBoard.

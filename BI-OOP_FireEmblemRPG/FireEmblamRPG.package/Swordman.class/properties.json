@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "polivpe3 12/21/2017 15:23",
+	"super" : "Champion",
+	"category" : "FireEmblamRPG",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Swordman",
+	"type" : "normal"
+}

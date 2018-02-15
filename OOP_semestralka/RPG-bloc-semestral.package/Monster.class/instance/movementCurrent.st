@@ -1,0 +1,3 @@
+getSet
+movementCurrent
+	^movementCurrent

@@ -1,0 +1,1 @@
+Stores a location on a particular level. Allows traversing the level using Directions and accessing its cells.

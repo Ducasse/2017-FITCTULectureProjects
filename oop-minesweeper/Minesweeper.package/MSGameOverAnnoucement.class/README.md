@@ -1,0 +1,1 @@
+I cry when a game is lost (player uncovers a mine).

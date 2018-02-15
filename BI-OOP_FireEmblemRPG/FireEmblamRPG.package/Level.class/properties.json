@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "polivpe 11/22/2017 00:00",
+	"super" : "Object",
+	"category" : "FireEmblamRPG",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"level",
+		"experience",
+		"experienceToNextLevel",
+		"abilities"
+	],
+	"name" : "Level",
+	"type" : "normal"
+}

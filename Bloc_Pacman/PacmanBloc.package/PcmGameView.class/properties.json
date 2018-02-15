@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "BlElement",
+	"category" : "PacmanBloc",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"gameModel",
+		"mapView",
+		"pointsView",
+		"lifesView",
+		"gameOverView",
+		"gameWonView"
+	],
+	"name" : "PcmGameView",
+	"type" : "normal"
+}

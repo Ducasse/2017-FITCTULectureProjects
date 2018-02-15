@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "BaseRepositoryService",
+	"category" : "ContactManager-Services",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"persons"
+	],
+	"name" : "PersonService",
+	"type" : "normal"
+}

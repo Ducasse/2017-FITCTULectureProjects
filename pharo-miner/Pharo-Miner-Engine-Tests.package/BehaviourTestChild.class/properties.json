@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Behaviour",
+	"category" : "Pharo-Miner-Engine-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"test"
+	],
+	"name" : "BehaviourTestChild",
+	"type" : "normal"
+}

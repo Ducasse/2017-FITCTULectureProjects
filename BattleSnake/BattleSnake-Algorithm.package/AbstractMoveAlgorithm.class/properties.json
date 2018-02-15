@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "IvoStrejc 12/28/2017 14:12",
+	"super" : "Object",
+	"category" : "BattleSnake-Algorithm",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AbstractMoveAlgorithm",
+	"type" : "normal"
+}

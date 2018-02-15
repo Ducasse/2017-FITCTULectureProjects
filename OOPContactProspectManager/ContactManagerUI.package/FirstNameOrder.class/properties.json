@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "AbstractOrder",
+	"category" : "ContactManagerUI-Orders",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "FirstNameOrder",
+	"type" : "normal"
+}

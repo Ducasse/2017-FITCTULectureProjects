@@ -1,0 +1,3 @@
+actions
+leftClickOnField
+	self uncover.

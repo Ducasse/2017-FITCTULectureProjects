@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "brychon1 10/24/2017 23:11",
+	"super" : "Object",
+	"category" : "Dice",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"diceBag"
+	],
+	"name" : "DiceBag",
+	"type" : "normal"
+}

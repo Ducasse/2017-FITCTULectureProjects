@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Miniworld",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"grid",
+		"space",
+		"bottomBar",
+		"stateHolder",
+		"startTile",
+		"endTile",
+		"algorithm"
+	],
+	"name" : "Miniworld",
+	"type" : "normal"
+}

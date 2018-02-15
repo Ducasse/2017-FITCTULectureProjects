@@ -1,0 +1,1 @@
+I take care saving game in save building.

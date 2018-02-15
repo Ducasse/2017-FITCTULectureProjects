@@ -1,0 +1,21 @@
+{
+	"commentStamp" : "rodlukas 12/9/2017 22:53",
+	"super" : "Object",
+	"category" : "MegaMiner-Game-Miner",
+	"classinstvars" : [ ],
+	"pools" : [
+		"MiConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [
+		"money",
+		"health",
+		"announcer",
+		"direction",
+		"position",
+		"components",
+		"facing"
+	],
+	"name" : "MiMiner",
+	"type" : "normal"
+}

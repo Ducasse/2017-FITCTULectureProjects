@@ -1,0 +1,1 @@
+Take damage delegate implementation for Karma.

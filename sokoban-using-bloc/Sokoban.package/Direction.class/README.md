@@ -1,0 +1,1 @@
+Abstract class representing one of the 4 directions a player can move in Sokoban. Allows traversing the level together with LevelPos.

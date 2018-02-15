@@ -1,0 +1,3 @@
+initialization
+baseMovementSpeed
+	^ 2

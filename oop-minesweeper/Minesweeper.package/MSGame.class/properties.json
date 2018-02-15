@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "davidmokos 11/10/2017 12:44",
+	"super" : "Object",
+	"category" : "Minesweeper-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"grid",
+		"gameProps",
+		"announcer"
+	],
+	"name" : "MSGame",
+	"type" : "normal"
+}

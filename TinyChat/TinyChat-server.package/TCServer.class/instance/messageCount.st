@@ -1,0 +1,3 @@
+action
+messageCount
+	^ messagesQueue size

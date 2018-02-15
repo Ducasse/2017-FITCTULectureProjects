@@ -1,0 +1,3 @@
+getter
+x
+	^ x.

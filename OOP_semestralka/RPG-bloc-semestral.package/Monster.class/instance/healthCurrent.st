@@ -1,0 +1,3 @@
+properties
+healthCurrent
+	^healthCurrent

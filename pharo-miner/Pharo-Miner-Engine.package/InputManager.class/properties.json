@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "FirstLast 11/20/2017 16:47",
+	"super" : "Object",
+	"category" : "Pharo-Miner-Engine",
+	"classinstvars" : [
+		"keys"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"keys"
+	],
+	"name" : "InputManager",
+	"type" : "normal"
+}

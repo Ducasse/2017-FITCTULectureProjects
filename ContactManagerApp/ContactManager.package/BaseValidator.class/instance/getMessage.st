@@ -1,0 +1,3 @@
+validation
+getMessage
+	^self subclassResponsibility.

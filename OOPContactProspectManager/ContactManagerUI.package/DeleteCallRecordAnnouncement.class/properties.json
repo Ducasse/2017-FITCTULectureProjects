@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Announcement",
+	"category" : "ContactManagerUI-Announcements",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"callRecord"
+	],
+	"name" : "DeleteCallRecordAnnouncement",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+drawing
+textColor
+	^ Color blue

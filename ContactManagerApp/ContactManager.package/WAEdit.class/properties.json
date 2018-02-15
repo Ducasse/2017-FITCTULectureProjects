@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "WAScreenCurrent",
+	"category" : "ContactManager-WAComponent",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"isNew",
+		"isValidated",
+		"tmpEntity"
+	],
+	"name" : "WAEdit",
+	"type" : "normal"
+}

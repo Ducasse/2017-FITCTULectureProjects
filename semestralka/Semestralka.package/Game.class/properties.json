@@ -1,0 +1,21 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Semestralka",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"instance"
+	],
+	"instvars" : [
+		"activeGameBoard",
+		"activePlayer",
+		"playerOrc",
+		"playerHuman",
+		"humanOnTurn",
+		"attackBoolean",
+		"highlighSquares"
+	],
+	"name" : "Game",
+	"type" : "normal"
+}

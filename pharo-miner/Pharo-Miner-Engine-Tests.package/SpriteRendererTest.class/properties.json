@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RendererTest",
+	"category" : "Pharo-Miner-Engine-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SpriteRendererTest",
+	"type" : "normal"
+}

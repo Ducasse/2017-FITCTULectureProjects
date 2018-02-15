@@ -1,0 +1,3 @@
+accessing
+diceCount
+	^ diceBag size.

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "JanHolan 12/8/2017 00:42",
+	"super" : "AIUnitStep",
+	"category" : "OOPRPG-AI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"bro"
+	],
+	"name" : "BroDefenderStep",
+	"type" : "normal"
+}

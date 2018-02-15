@@ -1,0 +1,4 @@
+accessing
+height
+
+^matrix rowCount .

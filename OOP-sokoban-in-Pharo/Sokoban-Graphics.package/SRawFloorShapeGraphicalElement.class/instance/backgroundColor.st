@@ -1,0 +1,4 @@
+drawing
+backgroundColor
+
+	^ self subclassResponsibility 

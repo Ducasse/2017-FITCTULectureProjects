@@ -1,0 +1,3 @@
+states
+lose
+	^ self 

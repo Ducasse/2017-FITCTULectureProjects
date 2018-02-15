@@ -1,0 +1,3 @@
+controlling
+stop
+	^ self stop

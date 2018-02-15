@@ -1,0 +1,3 @@
+arithmetic
++ direction
+	^ direction + self

@@ -1,0 +1,1 @@
+I am active if user wants to buy the game

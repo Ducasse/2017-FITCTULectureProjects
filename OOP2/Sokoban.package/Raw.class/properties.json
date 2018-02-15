@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "BlElement",
+	"category" : "Sokoban-View",
+	"classinstvars" : [
+		"resourcesPath"
+	],
+	"pools" : [ ],
+	"classvars" : [
+		"resourcesPath"
+	],
+	"instvars" : [ ],
+	"name" : "Raw",
+	"type" : "normal"
+}

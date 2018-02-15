@@ -1,0 +1,3 @@
+accesing
+xMapSize
+	^ xMapSize 

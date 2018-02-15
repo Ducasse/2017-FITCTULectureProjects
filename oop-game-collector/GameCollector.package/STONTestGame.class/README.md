@@ -1,0 +1,1 @@
+Class representing one  game for testing STON

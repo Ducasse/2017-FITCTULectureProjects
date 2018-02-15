@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "sochomi4 1/1/2018 22:36",
+	"super" : "MinerObject",
+	"category" : "Pharo-Miner",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"movementspeed",
+		"touchingtiles",
+		"keybind",
+		"flying",
+		"score"
+	],
+	"name" : "MiningMachine",
+	"type" : "normal"
+}

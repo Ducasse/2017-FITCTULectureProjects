@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "ComposableModel",
+	"category" : "GameCollector-View",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"gameList",
+		"addGameButton",
+		"remGameButton",
+		"editGameButton",
+		"if"
+	],
+	"name" : "MainGameCollectorWindow",
+	"type" : "normal"
+}

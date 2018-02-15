@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "JanHolan 12/15/2017 20:56",
+	"super" : "AIUnitStep",
+	"category" : "OOPRPG-AI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GolemMakerStep",
+	"type" : "normal"
+}

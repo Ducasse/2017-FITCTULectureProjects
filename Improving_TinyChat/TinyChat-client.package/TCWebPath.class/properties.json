@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "TomasBohuslav 1/22/2018 02:23",
+	"super" : "Object",
+	"category" : "TinyChat-client",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"url"
+	],
+	"name" : "TCWebPath",
+	"type" : "normal"
+}

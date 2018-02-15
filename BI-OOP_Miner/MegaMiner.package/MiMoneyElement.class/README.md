@@ -1,0 +1,1 @@
+I am text element with money of miner modelled by ==Miner==

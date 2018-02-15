@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "sochomi4 1/3/2018 20:39",
+	"super" : "Object",
+	"category" : "Pharo-Miner-Engine",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"state"
+	],
+	"name" : "KeyState",
+	"type" : "normal"
+}

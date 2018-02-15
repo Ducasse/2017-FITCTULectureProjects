@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "MartinTaibr 12/10/2017 22:57",
+	"super" : "GameCell",
+	"category" : "Sokoban-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"contents"
+	],
+	"name" : "PathCell",
+	"type" : "normal"
+}

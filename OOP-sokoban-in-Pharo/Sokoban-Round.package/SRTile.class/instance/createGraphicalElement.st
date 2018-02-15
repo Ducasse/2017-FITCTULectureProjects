@@ -1,0 +1,3 @@
+adding
+createGraphicalElement
+	^ self subclassResponsibility 

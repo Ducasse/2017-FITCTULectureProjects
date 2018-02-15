@@ -1,0 +1,3 @@
+initialization
+newButtonElement
+	^ MiMenuButtonElement new

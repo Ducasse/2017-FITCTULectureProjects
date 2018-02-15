@@ -1,0 +1,1 @@
+Enumeration  with specified  character body parts.

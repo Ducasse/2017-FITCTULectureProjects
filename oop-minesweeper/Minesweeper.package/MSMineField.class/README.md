@@ -1,0 +1,1 @@
+A class representing a field that contains a mine in a game grid

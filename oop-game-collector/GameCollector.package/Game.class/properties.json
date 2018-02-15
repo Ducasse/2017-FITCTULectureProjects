@@ -1,0 +1,22 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "GameCollector-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"title",
+		"rating",
+		"releaseYear",
+		"description",
+		"completed",
+		"price",
+		"platform",
+		"genre",
+		"state",
+		"posterUrl"
+	],
+	"name" : "Game",
+	"type" : "normal"
+}

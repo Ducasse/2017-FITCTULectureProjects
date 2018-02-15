@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "rodlukas 12/7/2017 22:13",
+	"super" : "MiTextElement",
+	"category" : "MegaMiner-View",
+	"classinstvars" : [ ],
+	"pools" : [
+		"MiConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MiUpgradeTextElement",
+	"type" : "normal"
+}

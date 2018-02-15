@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Attack",
+	"category" : "Semestralka-Unused",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MeleeAttack",
+	"type" : "normal"
+}

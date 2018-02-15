@@ -1,0 +1,1 @@
+AI behaviour trait class for mage that only cast Karma and  Protect spell. Is not able to meditate, but will guard himself instead when out of mana.

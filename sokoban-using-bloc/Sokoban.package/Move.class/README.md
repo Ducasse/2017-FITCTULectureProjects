@@ -1,0 +1,1 @@
+Abstract class representing one *valid* action in the game for saving, undoing and redoing.

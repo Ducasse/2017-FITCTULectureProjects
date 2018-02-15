@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "UnitMasterClass",
+	"category" : "Semestralka-UnitMasterClass",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"health",
+		"experience",
+		"unitType",
+		"square",
+		"playerOwner",
+		"moveAnnouncer"
+	],
+	"name" : "Unit",
+	"type" : "normal"
+}

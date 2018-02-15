@@ -1,0 +1,3 @@
+accessing
+booksCount
+	^ books size

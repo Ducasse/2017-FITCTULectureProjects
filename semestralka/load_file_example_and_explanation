@@ -1,0 +1,39 @@
+4 5 7
+WSSGM
+GGGSW
+GGFFG
+SSGGS
+0 0 O 4 40 0
+0 3 O 5 30 0
+1 5 H 5 30 0
+1 4 H 6 20 0
+2 4 H 4 40 0
+1 1 O 5 30 0
+3 3 O 6 20 0
+
+
+
+----------------
+Explanation:
+    -- first row is number of:
+ROWS COLUMNS UNITS
+    -- then follows ROWS number of rows of COLUMN number of characters representing terrain in each square
+    W - water
+    S - sand
+    G - grass
+    H - hill
+    M - mountain
+    F - forest
+    -- then follows UNITS number of rows, each representing ONE unit with its parameters
+    ROW COLUMN RACE UNITTYPE HP XP
+    ROW integer 0 to ROWS
+    COLUMN integer 0 to COLUMNS
+    RACE character O for orcs and H for humans
+    UNITTYPE number 4 for WARRIOR, 5 for ARCHER and 6 for MAGE 
+                    /other numbers being reserved for lower and higher levels of those units, leveling system unimplemented as of yet/
+    HP integer actual amount of HP - !!!NOT MAXHP!!!
+    XP integer actual amount of XP   !!!NOT MAXXP!!!
+    
+
+
+

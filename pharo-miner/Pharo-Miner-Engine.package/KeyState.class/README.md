@@ -1,0 +1,1 @@
+I represent abstract notion of keys stroke states

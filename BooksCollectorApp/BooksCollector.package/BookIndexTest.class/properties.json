@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "gajdijan 11/30/2017 20:41",
+	"super" : "TestCase",
+	"category" : "BooksCollector",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BookIndexTest",
+	"type" : "normal"
+}

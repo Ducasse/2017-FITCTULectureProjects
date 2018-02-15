@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "Anonymous 11/27/2017 16:32",
+	"super" : "Object",
+	"category" : "GameCollector-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"StateStrings"
+	],
+	"instvars" : [
+		"state"
+	],
+	"name" : "GameState",
+	"type" : "normal"
+}

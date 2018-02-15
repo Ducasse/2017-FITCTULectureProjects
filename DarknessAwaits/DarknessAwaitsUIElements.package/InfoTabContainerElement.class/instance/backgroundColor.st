@@ -1,0 +1,3 @@
+initialization
+backgroundColor
+	^ Color blue

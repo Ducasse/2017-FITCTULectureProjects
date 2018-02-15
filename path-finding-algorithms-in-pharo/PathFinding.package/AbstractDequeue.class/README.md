@@ -1,0 +1,1 @@
+An abstract collection, base of our queue and stack.

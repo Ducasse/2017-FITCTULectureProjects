@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "MichalCvach 12/21/2017 00:28",
+	"super" : "STileGraphicalElement",
+	"category" : "Sokoban-Graphics-View",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"empty",
+		"withSoko",
+		"withBox"
+	],
+	"name" : "STargetShapeGraphicalElement",
+	"type" : "normal"
+}

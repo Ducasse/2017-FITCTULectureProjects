@@ -1,0 +1,3 @@
+accessing
+targetTeam
+	^ 1

@@ -1,0 +1,1 @@
+Monk is a type of a Monster with its special abilities.

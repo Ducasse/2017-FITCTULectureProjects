@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "WAComponent",
+	"category" : "ContactManager-WAComponent",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"header",
+		"nav",
+		"current"
+	],
+	"name" : "WAScreenPart",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+accessing text
+textCargo
+	^ 'Cargo: '

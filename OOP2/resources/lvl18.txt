@@ -1,0 +1,7 @@
+8 6 134
+w f f w w f f f
+w f f f b b b f
+t f t w b p b f
+t t t w f f f f
+f f f w w w w w
+f f f w w w w w

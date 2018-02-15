@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "nymsapet 12/29/2017 10:38",
+	"super" : "Object",
+	"category" : "BattleSnake",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"teapot",
+		"serverConfig",
+		"moveHandler",
+		"startResponse",
+		"algorithm"
+	],
+	"name" : "ServerCommunicator",
+	"type" : "normal"
+}

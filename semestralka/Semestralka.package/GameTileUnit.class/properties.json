@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "GameTile",
+	"category" : "Semestralka-SemBlElement",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"phase"
+	],
+	"name" : "GameTileUnit",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+events
+clicked
+	MiMegaMiner openGame 

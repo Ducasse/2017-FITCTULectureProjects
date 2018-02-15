@@ -1,0 +1,1 @@
+Up Direction. Allows traversing the level together with LevelPos.

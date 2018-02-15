@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "MartinTaibr 12/16/2017 02:13",
+	"super" : "Object",
+	"category" : "Sokoban-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"moves",
+		"current"
+	],
+	"name" : "History",
+	"type" : "normal"
+}

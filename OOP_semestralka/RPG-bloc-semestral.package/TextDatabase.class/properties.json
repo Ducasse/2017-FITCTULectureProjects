@@ -1,0 +1,24 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "RPG-bloc-semestral",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"UniqueInstance"
+	],
+	"instvars" : [
+		"monsterNamesEN",
+		"monsterNamesES",
+		"languageSelected",
+		"loaded",
+		"messageAboutDamageEN",
+		"messageAboutDamageSPA",
+		"messagePerishEN",
+		"messagePerishSPA",
+		"gameMessagesEN",
+		"gameMessagesES"
+	],
+	"name" : "TextDatabase",
+	"type" : "normal"
+}

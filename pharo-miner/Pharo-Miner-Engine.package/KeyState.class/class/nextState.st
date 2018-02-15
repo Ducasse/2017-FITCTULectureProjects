@@ -1,0 +1,3 @@
+changing state
+nextState
+	^self

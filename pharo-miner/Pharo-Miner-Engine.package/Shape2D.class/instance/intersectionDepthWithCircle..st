@@ -1,0 +1,3 @@
+intersection
+intersectionDepthWithCircle: aCircle
+	^ self subclassResponsibility

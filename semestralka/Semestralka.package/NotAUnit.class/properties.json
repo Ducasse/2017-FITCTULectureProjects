@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "UnitMasterClass",
+	"category" : "Semestralka-UnitMasterClass",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "NotAUnit",
+	"type" : "normal"
+}

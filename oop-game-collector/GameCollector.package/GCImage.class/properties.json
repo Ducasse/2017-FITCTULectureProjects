@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "ImageModel",
+	"category" : "GameCollector-View",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"url",
+		"defaultImage"
+	],
+	"name" : "GCImage",
+	"type" : "normal"
+}

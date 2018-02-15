@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "rodlukas 12/9/2017 22:44",
+	"super" : "Object",
+	"category" : "MegaMiner-Game-Miner",
+	"classinstvars" : [ ],
+	"pools" : [
+		"MiConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [
+		"current"
+	],
+	"name" : "MiHealth",
+	"type" : "normal"
+}

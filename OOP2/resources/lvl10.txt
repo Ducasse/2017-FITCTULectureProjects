@@ -1,0 +1,8 @@
+10 7 40
+w w w t t t f t f w
+w w p b w t w f f w
+w w b f f f b f f w
+w w f w w b w f f f
+f f b f f f f f f f
+f f f f f f f f w w
+f f w w w w w w w w

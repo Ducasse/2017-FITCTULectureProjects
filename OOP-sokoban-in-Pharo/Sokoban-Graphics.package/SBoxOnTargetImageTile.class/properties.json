@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "MichalCvach 12/21/2017 00:26",
+	"super" : "SImageTile",
+	"category" : "Sokoban-Graphics-View",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Instance"
+	],
+	"instvars" : [ ],
+	"name" : "SBoxOnTargetImageTile",
+	"type" : "normal"
+}

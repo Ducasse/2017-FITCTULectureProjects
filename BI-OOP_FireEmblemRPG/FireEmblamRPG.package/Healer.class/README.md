@@ -1,0 +1,1 @@
+Class healer represents child of class Champion with class healer

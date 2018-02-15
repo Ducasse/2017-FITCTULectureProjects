@@ -1,0 +1,1 @@
+A class displayng a single game field

@@ -1,0 +1,3 @@
+accessing
+maxXp
+	^self subclassResponsibility.

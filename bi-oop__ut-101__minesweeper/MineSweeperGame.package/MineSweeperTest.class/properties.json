@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "Dawnflash 12/12/2017 12:42",
+	"super" : "TestCase",
+	"category" : "MineSweeperGame",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MineSweeperTest",
+	"type" : "normal"
+}

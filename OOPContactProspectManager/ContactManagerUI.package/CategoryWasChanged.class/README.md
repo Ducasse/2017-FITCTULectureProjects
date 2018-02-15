@@ -1,0 +1,1 @@
+Announce when user select new category from category drop down list. It has one variable for new category name.

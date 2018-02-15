@@ -1,0 +1,1 @@
+Generates a random grid by a trivial algorithm where each grid is passable with probability 0.75.

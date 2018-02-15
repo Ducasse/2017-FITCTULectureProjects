@@ -1,0 +1,21 @@
+{
+	"commentStamp" : "bobotjan 11/28/2017 22:43",
+	"super" : "ComposableModel",
+	"category" : "Sokoban-GUI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"labelMoves",
+		"playGrid",
+		"exitButton",
+		"undoButton",
+		"redoButton",
+		"resetButton",
+		"currentLevelPath",
+		"level",
+		"currentSize"
+	],
+	"name" : "SokobanPlayScreen",
+	"type" : "normal"
+}

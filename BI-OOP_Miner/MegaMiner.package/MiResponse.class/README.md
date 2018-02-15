@@ -1,0 +1,2 @@
+I am class that provides functionalities for game. My responsibility is taking care of miners movement and interacting logic so that move is performed or not and I can provide some additional functionalities if desired.
+My subclasses have method "response:" that contains code to perform.

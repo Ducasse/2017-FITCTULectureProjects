@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "sochomi4 1/1/2018 16:36",
+	"super" : "BlElement",
+	"category" : "Pharo-Miner-Rendering",
+	"classinstvars" : [
+		"renderer"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"renderer"
+	],
+	"name" : "MGBlockElement",
+	"type" : "normal"
+}

@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "StephaneDucasse 3/21/2015 13:40",
+	"super" : "Object",
+	"category" : "TinyChat-client",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"url",
+		"login",
+		"exit",
+		"messages",
+		"console",
+		"lastMessageIndex"
+	],
+	"name" : "TinyChat",
+	"type" : "normal"
+}

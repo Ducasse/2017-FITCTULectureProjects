@@ -1,0 +1,1 @@
+Parent class for algorithms without cost to cross - DFS, BFS and Greedy search.

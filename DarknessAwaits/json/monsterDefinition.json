@@ -1,0 +1,69 @@
+{
+	"1" : {
+		"name" : "Goblin swordsman",
+		"health" : 12,
+		"damage" : 5,
+		"picturePath" : "pharo-local/iceberg/rathojak/DarknessAwaits/pic/goblin_swordsman.png",
+		"loot" : [
+			{
+				"percent" : 10,
+				"itemId" : 1
+			},
+			{
+				"percent" : 15,
+				"itemId" : 2
+			}
+		],
+		"attributes" : {
+			"agility" : 5,
+			"dexterity" : 20
+		},
+		"attackRange" : 1,
+		"movementSpeed" : 1	
+	},
+	"2" : {
+		"name" : "Goblin archer",
+		"health" : 10,
+		"damage" : 3,
+		"picturePath" : "pharo-local/iceberg/rathojak/DarknessAwaits/pic/goblin_archer.png",
+		"loot" : [
+			{
+				"percent" : 10,
+				"itemId" : 2
+			},
+			{
+				"percent" : 15,
+				"itemId" : 3
+			}
+		],
+		"attributes" : {
+			"agility" : 11,
+			"dexterity" : 12
+		},
+		"attackRange" : 3,
+		"movementSpeed" : 2		
+	},
+	"3" :	{
+		"name" : "Skeleton mage",
+		"health" : 8,
+		"damage" : 2,
+		"picturePath" : "pharo-local/iceberg/rathojak/DarknessAwaits/pic/skeleton_mage.png",
+		"loot" : [
+			{
+				"percent" : 90,
+				"itemId" : 4
+			},
+			{
+				"percent" : 5,
+				"itemId" : 5
+			}
+		],
+		"attributes" : {
+			"agility" : 5,
+			"intelligence" : 20,
+			"vitality" : 8
+		},
+		"attackRange" : 2,
+		"movementSpeed" : 1		
+	}
+}

@@ -1,0 +1,1 @@
+The Sokoban game. Open it with `Sokoban play`.

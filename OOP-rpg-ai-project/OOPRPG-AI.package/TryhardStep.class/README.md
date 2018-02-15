@@ -1,0 +1,1 @@
+TODO AI behaviour class. Focus healers, then mages and then enemies with lowest hp left.

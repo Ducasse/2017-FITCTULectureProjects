@@ -1,0 +1,1 @@
+Effect that transfers damage from the caster to the target.

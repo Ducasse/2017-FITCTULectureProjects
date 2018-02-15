@@ -1,0 +1,3 @@
+accessing
+messageText
+	^ 'You win!'

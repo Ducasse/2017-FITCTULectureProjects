@@ -1,0 +1,3 @@
+getSet
+positionWithinArray
+	^positionWithinArray

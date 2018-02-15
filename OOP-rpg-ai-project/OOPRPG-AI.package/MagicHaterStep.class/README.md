@@ -1,0 +1,1 @@
+TODO AI behaviour class. Attack last enemy who casted spell.

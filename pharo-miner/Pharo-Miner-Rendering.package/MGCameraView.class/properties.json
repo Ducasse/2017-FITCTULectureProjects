@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "sochomi4 12/27/2017 22:47",
+	"super" : "BlElement",
+	"category" : "Pharo-Miner-Rendering",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"camera"
+	],
+	"name" : "MGCameraView",
+	"type" : "normal"
+}

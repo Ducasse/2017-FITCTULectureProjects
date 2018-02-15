@@ -1,0 +1,8 @@
+7 7 60
+f f f f f f f
+f t b t b t f
+f b t b t b f
+f t b p b t f
+f b t b t b f
+f t b t b t f
+f f f f f f f

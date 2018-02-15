@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "WAEdit",
+	"category" : "ContactManager-WAComponent",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"company",
+		"personList",
+		"prospectList"
+	],
+	"name" : "WACompany",
+	"type" : "normal"
+}

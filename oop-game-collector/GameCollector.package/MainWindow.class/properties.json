@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "vosictom 11/14/2017 15:09",
+	"super" : "ComposableModel",
+	"category" : "GameCollector",
+	"classinstvars" : [
+		"titleLabel"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"mainView"
+	],
+	"name" : "MainWindow",
+	"type" : "normal"
+}

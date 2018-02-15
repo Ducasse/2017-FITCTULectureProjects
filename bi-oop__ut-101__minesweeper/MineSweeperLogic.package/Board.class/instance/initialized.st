@@ -1,0 +1,3 @@
+getter
+initialized
+	^ initialized

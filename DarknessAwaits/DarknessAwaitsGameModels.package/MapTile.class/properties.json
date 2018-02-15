@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "JakubRathousky 11/26/2017 16:27",
+	"super" : "Object",
+	"category" : "DarknessAwaitsGameModels",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"position",
+		"gameCharacter",
+		"announcer"
+	],
+	"name" : "MapTile",
+	"type" : "normal"
+}

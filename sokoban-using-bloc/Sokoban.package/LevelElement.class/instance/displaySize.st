@@ -1,0 +1,3 @@
+accessing
+displaySize
+	^ displaySize

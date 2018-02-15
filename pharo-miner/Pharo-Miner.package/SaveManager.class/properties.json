@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "sochomi4 1/1/2018 22:46",
+	"super" : "Object",
+	"category" : "Pharo-Miner",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"stream"
+	],
+	"name" : "SaveManager",
+	"type" : "normal"
+}

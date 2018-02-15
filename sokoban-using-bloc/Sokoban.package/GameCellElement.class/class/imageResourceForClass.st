@@ -1,0 +1,3 @@
+accessing
+imageResourceForClass
+	^ self subclassResponsibility

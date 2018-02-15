@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "BaseRequiredValidator",
+	"category" : "ContactManager-Validation",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RequiredOidValidator",
+	"type" : "normal"
+}

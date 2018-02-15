@@ -1,0 +1,3 @@
+accessing
+distanceOfChampionNameFromTop
+	^60

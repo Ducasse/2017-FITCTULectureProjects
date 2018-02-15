@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "vutungan 12/30/2017 19:35",
+	"super" : "FileDatabaseVisitor",
+	"category" : "BooksCollector",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SaverVisitor",
+	"type" : "normal"
+}

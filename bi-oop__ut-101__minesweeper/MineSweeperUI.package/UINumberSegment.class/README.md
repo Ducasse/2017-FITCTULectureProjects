@@ -1,0 +1,1 @@
+A single segment on a digital "segment display" emulation

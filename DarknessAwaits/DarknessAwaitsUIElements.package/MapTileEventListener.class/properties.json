@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "JakubRathousky 11/26/2017 17:00",
+	"super" : "BlElementEventListener",
+	"category" : "DarknessAwaitsUIElements",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"gameManager"
+	],
+	"name" : "MapTileEventListener",
+	"type" : "normal"
+}

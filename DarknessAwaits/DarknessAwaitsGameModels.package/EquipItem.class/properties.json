@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "JakubRathousky 11/26/2017 16:23",
+	"super" : "Item",
+	"category" : "DarknessAwaitsGameModels",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"equipBodyPart",
+		"isEquiped"
+	],
+	"name" : "EquipItem",
+	"type" : "normal"
+}

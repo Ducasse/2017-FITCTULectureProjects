@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "BlElement",
+	"category" : "Minesweeper-View",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"grid",
+		"fieldMatrix",
+		"backgroundColor",
+		"spacing",
+		"gridSize",
+		"eventListener"
+	],
+	"name" : "MSGridView",
+	"type" : "normal"
+}

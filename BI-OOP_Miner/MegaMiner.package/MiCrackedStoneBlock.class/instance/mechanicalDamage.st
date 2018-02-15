@@ -1,0 +1,3 @@
+properties
+mechanicalDamage
+	^ 15

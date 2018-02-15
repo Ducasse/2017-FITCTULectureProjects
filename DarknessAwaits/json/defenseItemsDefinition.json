@@ -1,0 +1,46 @@
+{
+	"d001" : {
+		"name" : "Training Helmet",
+		"affectedAttributes" : {
+			"agility" : 5,
+			"vitality" : -3
+		},
+		"description" : "Basic Helmet for training",
+		"type" : "armor",
+		"equipBodyPart" : "head",
+		"defense" : 2
+	},
+	"d002" : {
+		"name" : "Training Chainmail",
+		"affectedAttributes" : {
+			"agility" : 5,
+			"vitality" : -3
+		},
+		"description" : "Basic chainmail for training",
+		"type" : "armor",
+		"equipBodyPart" : "body",
+		"defense" : 6		
+	},
+	"d003" : {
+		"name" : "Training Leggings",
+		"affectedAttributes" : {
+			"agility" : 5,
+			"vitality" : -3
+		},
+		"description" : "Basic leggings for training",
+		"type" : "armor",
+		"equipBodyPart" : "legs",
+		"defense" : 3		
+	},
+	"d004" : {
+		"name" : "Training Boots",
+		"affectedAttributes" : {
+			"agility" : 5,
+			"vitality" : -3
+		},
+		"description" : "Basic boots for training",
+		"type" : "armor",
+		"equipBodyPart" : "feet",
+		"defense" : 1		
+	}
+}

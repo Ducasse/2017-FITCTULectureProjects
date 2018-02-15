@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "ContactManager-Validation",
+	"classinstvars" : [
+		"errors",
+		"group"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ValidationManager",
+	"type" : "normal"
+}

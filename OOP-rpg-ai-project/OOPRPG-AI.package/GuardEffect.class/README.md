@@ -1,0 +1,1 @@
+Kdyz nekdo brani nekoho, prida to na jedno kolo jeho def.

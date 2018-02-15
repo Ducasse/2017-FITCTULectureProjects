@@ -1,0 +1,9 @@
+10 7 60
+w w w w w w w w w t
+p f f f f w f f f f
+f f f b f f f f f f
+w f w b f f f f f f
+w f w f f b b f w w
+f f f f f w f f t t
+f f t w w w w w w w
+

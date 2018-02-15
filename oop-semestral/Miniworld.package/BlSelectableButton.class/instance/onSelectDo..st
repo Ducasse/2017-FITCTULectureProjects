@@ -1,0 +1,3 @@
+accessing
+onSelectDo: anOnSelectListener
+	onSelectListener add: anOnSelectListener

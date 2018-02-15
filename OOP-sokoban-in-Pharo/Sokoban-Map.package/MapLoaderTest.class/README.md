@@ -1,0 +1,1 @@
+I am a class testing correctness of MapLoader class.

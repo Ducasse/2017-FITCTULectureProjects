@@ -1,0 +1,1 @@
+Visited tile that will be default for graph representation, so it will be visited no more

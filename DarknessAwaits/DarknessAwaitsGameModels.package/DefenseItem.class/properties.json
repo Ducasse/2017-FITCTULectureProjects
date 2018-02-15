@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "EquipItem",
+	"category" : "DarknessAwaitsGameModels",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"defense"
+	],
+	"name" : "DefenseItem",
+	"type" : "normal"
+}

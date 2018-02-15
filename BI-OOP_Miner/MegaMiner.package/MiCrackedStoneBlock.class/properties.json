@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "MiNotProfitableBlock",
+	"category" : "MegaMiner-Game-Blocks",
+	"classinstvars" : [ ],
+	"pools" : [
+		"MiConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MiCrackedStoneBlock",
+	"type" : "normal"
+}

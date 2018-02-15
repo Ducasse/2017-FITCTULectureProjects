@@ -1,0 +1,1 @@
+Class for main menu UI representation.

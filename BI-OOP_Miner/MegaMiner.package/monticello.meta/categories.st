@@ -1,0 +1,9 @@
+SystemOrganization addCategory: #MegaMiner!
+SystemOrganization addCategory: 'MegaMiner-Game-Blocks'!
+SystemOrganization addCategory: 'MegaMiner-Game-Core'!
+SystemOrganization addCategory: 'MegaMiner-Game-Events'!
+SystemOrganization addCategory: 'MegaMiner-Game-Miner'!
+SystemOrganization addCategory: 'MegaMiner-Model'!
+SystemOrganization addCategory: 'MegaMiner-Tests'!
+SystemOrganization addCategory: 'MegaMiner-View'!
+SystemOrganization addCategory: 'MegaMiner-View-Support'!

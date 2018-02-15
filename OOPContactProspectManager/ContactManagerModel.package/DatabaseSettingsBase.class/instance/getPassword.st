@@ -1,0 +1,3 @@
+api
+getPassword
+	self subclassResponsibility.

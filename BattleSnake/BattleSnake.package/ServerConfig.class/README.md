@@ -1,0 +1,1 @@
+Holds information about server host, e.g hostname and port

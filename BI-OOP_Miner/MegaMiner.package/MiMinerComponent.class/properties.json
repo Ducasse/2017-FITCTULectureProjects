@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "rodlukas 12/9/2017 23:04",
+	"super" : "Object",
+	"category" : "MegaMiner-Game-Miner",
+	"classinstvars" : [ ],
+	"pools" : [
+		"MiConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [
+		"tier",
+		"upgrades"
+	],
+	"name" : "MiMinerComponent",
+	"type" : "normal"
+}

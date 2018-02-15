@@ -1,0 +1,1 @@
+Neccessary variables for a game board.

@@ -1,0 +1,1 @@
+I am the miner's cooling unit. With increasing depth where the miner operates, the temperature raises as well. Though, the miner needs cooling unit, that is able to cool him down. High temperatures causes damage to the miner.  My cooling power can be increased by upgrades.

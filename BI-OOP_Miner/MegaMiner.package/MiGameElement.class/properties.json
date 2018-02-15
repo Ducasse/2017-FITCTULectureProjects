@@ -1,0 +1,22 @@
+{
+	"commentStamp" : "rodlukas 12/5/2017 01:30",
+	"super" : "MiElement",
+	"category" : "MegaMiner-View",
+	"classinstvars" : [ ],
+	"pools" : [
+		"MiConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [
+		"minerView",
+		"boardView",
+		"statsView",
+		"moneyView",
+		"upgradeView",
+		"upgradeIndex",
+		"portalButtonView",
+		"oldRelativeMinerDraw"
+	],
+	"name" : "MiGameElement",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "MarekReimer 12/11/2017 18:33",
+	"super" : "BlElement",
+	"category" : "Minesweeper-View",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"text"
+	],
+	"name" : "MSNewGameButton",
+	"type" : "normal"
+}

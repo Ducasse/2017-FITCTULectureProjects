@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "Async",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"timeLeft",
+		"callback",
+		"value",
+		"active",
+		"process",
+		"after"
+	],
+	"name" : "Timeout",
+	"type" : "normal"
+}

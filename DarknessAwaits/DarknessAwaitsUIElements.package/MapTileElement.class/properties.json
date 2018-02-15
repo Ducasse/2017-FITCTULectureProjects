@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "JakubRathousky 11/26/2017 16:56",
+	"super" : "BlElement",
+	"category" : "DarknessAwaitsUIElements",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"mapTile"
+	],
+	"name" : "MapTileElement",
+	"type" : "normal"
+}

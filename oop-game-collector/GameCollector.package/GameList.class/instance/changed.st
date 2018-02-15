@@ -1,0 +1,4 @@
+adding
+changed
+
+	self stonWriter

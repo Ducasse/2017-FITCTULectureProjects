@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "TabModel",
+	"category" : "GameCollector",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"grid",
+		"detail",
+		"menu",
+		"list",
+		"removeButton"
+	],
+	"name" : "SearchScreen",
+	"type" : "normal"
+}

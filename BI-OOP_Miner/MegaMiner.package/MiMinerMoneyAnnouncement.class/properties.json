@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "rodlukas 12/10/2017 23:51",
+	"super" : "Announcement",
+	"category" : "MegaMiner-Game-Events",
+	"classinstvars" : [ ],
+	"pools" : [
+		"MiConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MiMinerMoneyAnnouncement",
+	"type" : "normal"
+}

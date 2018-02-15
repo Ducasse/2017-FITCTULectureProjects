@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "MartinTaibr 12/10/2017 23:22",
+	"super" : "CellContents",
+	"category" : "Sokoban-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Box",
+	"type" : "normal"
+}

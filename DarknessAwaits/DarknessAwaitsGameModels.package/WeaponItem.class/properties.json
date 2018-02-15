@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "JakubRathousky 11/9/2017 19:20",
+	"super" : "EquipItem",
+	"category" : "DarknessAwaitsGameModels",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"damage",
+		"mainAttribute",
+		"weaponType",
+		"attackRange"
+	],
+	"name" : "WeaponItem",
+	"type" : "normal"
+}

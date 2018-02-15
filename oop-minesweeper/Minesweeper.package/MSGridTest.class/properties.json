@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "MarekReimer 12/13/2017 20:26",
+	"super" : "TestCase",
+	"category" : "Minesweeper-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MSGridTest",
+	"type" : "normal"
+}

@@ -1,0 +1,1 @@
+I take care of selling the mineouted blocks by miner.

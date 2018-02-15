@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "gajdijan 11/30/2017 19:40",
+	"super" : "Object",
+	"category" : "BooksCollector",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"byAuthor",
+		"byGenre",
+		"byTitle",
+		"byYear",
+		"byIsbn",
+		"innerCollectionType"
+	],
+	"name" : "BookIndex",
+	"type" : "normal"
+}

@@ -1,0 +1,26 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "BlElement",
+	"category" : "RPG-bloc-semestral",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"UniqueInstance"
+	],
+	"instvars" : [
+		"eventListener",
+		"theGameModel",
+		"mapFields",
+		"variables",
+		"upperLeftCorner",
+		"sizeX",
+		"sizeY",
+		"player1",
+		"player2",
+		"currentlyPlayingPlayer",
+		"graphicsCanvas",
+		"textureDatabase"
+	],
+	"name" : "GameBoard",
+	"type" : "normal"
+}

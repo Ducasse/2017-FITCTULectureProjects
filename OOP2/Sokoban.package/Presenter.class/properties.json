@@ -1,0 +1,25 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "Sokoban-View",
+	"classinstvars" : [
+		"resourcesPath"
+	],
+	"pools" : [ ],
+	"classvars" : [
+		"resourcesPath"
+	],
+	"instvars" : [
+		"level",
+		"space",
+		"menu",
+		"height",
+		"width",
+		"rawField",
+		"x",
+		"y",
+		"keyController"
+	],
+	"name" : "Presenter",
+	"type" : "normal"
+}

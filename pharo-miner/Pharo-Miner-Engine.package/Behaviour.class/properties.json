@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "FirstLast 11/26/2017 18:20",
+	"super" : "Object",
+	"category" : "Pharo-Miner-Engine",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"gameObject",
+		"active",
+		"coroutines"
+	],
+	"name" : "Behaviour",
+	"type" : "normal"
+}

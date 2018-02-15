@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "rodlukas 12/9/2017 22:56",
+	"super" : "Object",
+	"category" : "MegaMiner-Game-Miner",
+	"classinstvars" : [ ],
+	"pools" : [
+		"MiConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [
+		"backpack",
+		"plate",
+		"tank",
+		"coolingUnit",
+		"drill"
+	],
+	"name" : "MiMinerComponentsHolder",
+	"type" : "normal"
+}

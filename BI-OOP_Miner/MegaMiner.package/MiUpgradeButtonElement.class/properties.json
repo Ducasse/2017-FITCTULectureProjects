@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "rodlukas 12/7/2017 22:10",
+	"super" : "MiButtonElement",
+	"category" : "MegaMiner-View",
+	"classinstvars" : [ ],
+	"pools" : [
+		"MiConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [
+		"miner"
+	],
+	"name" : "MiUpgradeButtonElement",
+	"type" : "normal"
+}

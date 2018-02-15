@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "tokarvit 1/3/2018 18:17",
+	"super" : "Object",
+	"category" : "ContactManagerUI-Orders",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"orderBlock",
+		"orderName"
+	],
+	"name" : "AbstractOrder",
+	"type" : "normal"
+}

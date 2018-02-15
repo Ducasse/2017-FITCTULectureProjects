@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "MarekAnda 12/30/2017 17:14",
+	"super" : "BlElement",
+	"category" : "PathFinding-View",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"UniqueInstance"
+	],
+	"instvars" : [
+		"mapModel"
+	],
+	"name" : "Map",
+	"type" : "normal"
+}

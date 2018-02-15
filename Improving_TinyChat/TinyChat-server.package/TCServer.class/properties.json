@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "StephaneDucasse 3/21/2015 15:19",
+	"super" : "Object",
+	"category" : "TinyChat-server",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"teapotServer",
+		"messagesQueue",
+		"users"
+	],
+	"name" : "TCServer",
+	"type" : "normal"
+}

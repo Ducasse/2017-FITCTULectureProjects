@@ -1,0 +1,3 @@
+testing
+canBeAccessed
+	^ false

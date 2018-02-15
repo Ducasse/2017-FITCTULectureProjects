@@ -1,0 +1,1 @@
+AI behaviour class. On first turn choose random friendly unit as a Bro. Then defends Bro all the time. Attack only when it is last one standing on his own team.  He also avenges a dying bro.

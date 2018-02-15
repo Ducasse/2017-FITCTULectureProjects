@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "ContactManager",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"id"
+	],
+	"instvars" : [
+		"database"
+	],
+	"name" : "ContactDatabase",
+	"type" : "normal"
+}

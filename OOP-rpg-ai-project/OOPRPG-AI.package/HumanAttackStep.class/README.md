@@ -1,0 +1,1 @@
+Step used when human player attacks selected target.

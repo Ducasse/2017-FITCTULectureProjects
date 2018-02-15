@@ -1,0 +1,7 @@
+Input Spec
+
+"F" - finish
+"S" - Start
+"0" - Obstacle
+"." - Wall
+"V" - Visited

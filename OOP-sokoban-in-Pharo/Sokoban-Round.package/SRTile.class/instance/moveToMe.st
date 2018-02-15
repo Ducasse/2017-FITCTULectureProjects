@@ -1,0 +1,3 @@
+adding
+moveToMe
+	^ self subclassResponsibility 

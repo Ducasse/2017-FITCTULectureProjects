@@ -1,0 +1,3 @@
+actuallyNeededMethods
+attackMove: aGame
+	self subclassResponsibility 

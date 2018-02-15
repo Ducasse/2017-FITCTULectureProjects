@@ -1,0 +1,3 @@
+states
+buyFrom: aPlace
+	^ self 

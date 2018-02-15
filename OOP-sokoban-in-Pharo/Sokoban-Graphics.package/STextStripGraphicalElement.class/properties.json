@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "MichalCvach 12/5/2017 18:25",
+	"super" : "BlElement",
+	"category" : "Sokoban-Graphics-View",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"content"
+	],
+	"name" : "STextStripGraphicalElement",
+	"type" : "normal"
+}

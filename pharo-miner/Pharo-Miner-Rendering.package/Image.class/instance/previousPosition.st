@@ -1,0 +1,3 @@
+accessing
+previousPosition
+	^ blElement position

@@ -1,0 +1,1 @@
+Effect that handles buffing the attack value.

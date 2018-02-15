@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "JanTomanek 12/9/2017 12:56",
+	"super" : "Object",
+	"category" : "MegaMiner-Game-Core",
+	"classinstvars" : [ ],
+	"pools" : [
+		"MiConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [
+		"base",
+		"target"
+	],
+	"name" : "MiPortal",
+	"type" : "normal"
+}

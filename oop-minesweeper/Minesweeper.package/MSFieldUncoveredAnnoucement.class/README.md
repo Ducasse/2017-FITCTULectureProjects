@@ -1,0 +1,1 @@
+I cry when the number field is uncovered. Used for announce the grid that a field is uncovered, so grid knows how many should be uncovered to win the game.

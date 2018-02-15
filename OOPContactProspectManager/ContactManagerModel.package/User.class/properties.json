@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "rurabori 1/2/2018 20:13",
+	"super" : "Contact",
+	"category" : "ContactManagerModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"username",
+		"password",
+		"associatedContacts",
+		"callHistory",
+		"notifications"
+	],
+	"name" : "User",
+	"type" : "normal"
+}

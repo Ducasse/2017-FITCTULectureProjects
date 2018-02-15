@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "tokarvit 12/3/2017 15:38",
+	"super" : "ComposableModel",
+	"category" : "ContactManagerUI-Widgets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"photo",
+		"userNameLabel",
+		"homeButton",
+		"myAnnouncer",
+		"logOutButton",
+		"user"
+	],
+	"name" : "UserProfile",
+	"type" : "normal"
+}

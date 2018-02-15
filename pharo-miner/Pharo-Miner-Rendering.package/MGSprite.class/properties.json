@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "sochomi4 1/1/2018 16:36",
+	"super" : "MGBlockElement",
+	"category" : "Pharo-Miner-Rendering",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"image"
+	],
+	"name" : "MGSprite",
+	"type" : "normal"
+}

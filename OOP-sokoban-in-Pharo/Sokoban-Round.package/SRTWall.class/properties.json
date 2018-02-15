@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "LiborPlisek 11/29/2017 01:23",
+	"super" : "SRTile",
+	"category" : "Sokoban-Round",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SRTWall",
+	"type" : "normal"
+}

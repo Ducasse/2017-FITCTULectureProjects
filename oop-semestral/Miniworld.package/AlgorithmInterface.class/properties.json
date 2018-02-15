@@ -1,0 +1,21 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Miniworld-Algorithms",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"tilemap",
+		"isRunning",
+		"targetRow",
+		"targetColumn",
+		"startRow",
+		"startColumn",
+		"pathMatrix",
+		"found",
+		"isSetEnd"
+	],
+	"name" : "AlgorithmInterface",
+	"type" : "normal"
+}

@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "Dawnflash 11/16/2017 13:26",
+	"super" : "Object",
+	"category" : "MineSweeperLogic",
+	"classinstvars" : [
+		"instance"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"enabled",
+		"process"
+	],
+	"name" : "MSTimer",
+	"type" : "normal"
+}

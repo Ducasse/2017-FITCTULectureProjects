@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "tokarvit 12/26/2017 19:47",
+	"super" : "Person",
+	"category" : "ContactManagerModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"email",
+		"phoneNumber",
+		"company",
+		"roleInCompany"
+	],
+	"name" : "Contact",
+	"type" : "normal"
+}

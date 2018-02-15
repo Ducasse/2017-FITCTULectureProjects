@@ -1,0 +1,1 @@
+This panel holds current user  name  and photo.

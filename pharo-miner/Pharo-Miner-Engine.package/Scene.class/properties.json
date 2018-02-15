@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "sochomi4 12/12/2017 12:43",
+	"super" : "Object",
+	"category" : "Pharo-Miner-Engine",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"game",
+		"gameobjects"
+	],
+	"name" : "Scene",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+accessing
+view
+	^ self subclassResponsibility

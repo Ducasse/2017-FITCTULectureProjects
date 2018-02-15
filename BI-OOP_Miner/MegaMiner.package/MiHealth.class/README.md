@@ -1,0 +1,1 @@
+I represent miner's health. The miners suffers damage from mining some blocks or from overheating. If the miner's health drops below zero, he needs to be rescued. 

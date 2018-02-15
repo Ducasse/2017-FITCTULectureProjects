@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "MichalCvach 12/30/2017 19:21",
+	"super" : "STileGraphicalElement",
+	"category" : "Sokoban-Graphics-View",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SEyeCandyGraphicalElement",
+	"type" : "normal"
+}

@@ -1,0 +1,1 @@
+Effects that take timer rounds before they are removed.

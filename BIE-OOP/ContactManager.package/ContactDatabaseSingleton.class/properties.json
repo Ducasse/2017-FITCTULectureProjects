@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "ContactManager",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"flag",
+		"instance"
+	],
+	"instvars" : [ ],
+	"name" : "ContactDatabaseSingleton",
+	"type" : "normal"
+}

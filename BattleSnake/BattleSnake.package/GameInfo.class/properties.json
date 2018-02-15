@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "IvoStrejc 11/28/2017 14:23",
+	"super" : "Object",
+	"category" : "BattleSnake",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"player",
+		"snakes",
+		"dead_snakes",
+		"food",
+		"height",
+		"turn",
+		"width"
+	],
+	"name" : "GameInfo",
+	"type" : "normal"
+}

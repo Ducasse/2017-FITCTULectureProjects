@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "StephanKrtecek 11/22/2017 20:35",
+	"super" : "BlElementEventListener",
+	"category" : "FireEmblamRPG-UI-Elements",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"gameMap",
+		"gameElement"
+	],
+	"name" : "MyEventListener",
+	"type" : "normal"
+}

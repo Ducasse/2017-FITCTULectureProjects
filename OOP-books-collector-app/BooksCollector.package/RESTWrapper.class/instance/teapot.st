@@ -1,0 +1,3 @@
+accessing
+teapot
+	^ self teapot

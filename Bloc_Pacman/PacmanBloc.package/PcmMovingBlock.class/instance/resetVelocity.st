@@ -1,0 +1,3 @@
+accessing
+resetVelocity
+	velocity := stdVelocity

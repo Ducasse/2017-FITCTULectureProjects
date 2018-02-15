@@ -1,0 +1,1 @@
+This panel holds all full user profile and provide possobility  to edit it.

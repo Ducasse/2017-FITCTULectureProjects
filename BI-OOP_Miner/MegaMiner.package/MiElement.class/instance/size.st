@@ -1,0 +1,3 @@
+drawing
+size
+	self subclassResponsibility

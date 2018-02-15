@@ -1,0 +1,1 @@
+I am a visual button in menu modelled by instances of ==MiMenuButtonModel==

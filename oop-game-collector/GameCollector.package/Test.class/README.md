@@ -1,0 +1,1 @@
+Class for testing Pharo features.

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "rurabori 1/3/2018 23:34",
+	"super" : "Object",
+	"category" : "ContactManagerModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"repository"
+	],
+	"name" : "DBConnector",
+	"type" : "normal"
+}

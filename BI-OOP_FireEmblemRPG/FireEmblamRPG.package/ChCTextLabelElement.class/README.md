@@ -1,0 +1,1 @@
+element with centered text and background

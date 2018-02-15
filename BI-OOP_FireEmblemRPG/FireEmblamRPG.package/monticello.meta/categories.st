@@ -1,0 +1,9 @@
+SystemOrganization addCategory: #FireEmblamRPG!
+SystemOrganization addCategory: 'FireEmblamRPG-GameManager'!
+SystemOrganization addCategory: 'FireEmblamRPG-Menu-Elements'!
+SystemOrganization addCategory: 'FireEmblamRPG-Menu-Model'!
+SystemOrganization addCategory: 'FireEmblamRPG-Menu-StartGame'!
+SystemOrganization addCategory: 'FireEmblamRPG-SideBar'!
+SystemOrganization addCategory: 'FireEmblamRPG-UI-Elements'!
+SystemOrganization addCategory: 'FireEmblamRPG-UI-Model'!
+SystemOrganization addCategory: 'FireEmblamRPG-example'!

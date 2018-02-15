@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "MarekReimer 12/9/2017 05:52",
+	"super" : "Announcement",
+	"category" : "Minesweeper-Announcements",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MSFieldMarkedAnnoucement",
+	"type" : "normal"
+}

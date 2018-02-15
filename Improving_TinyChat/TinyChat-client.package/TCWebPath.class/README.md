@@ -1,0 +1,1 @@
+Stores Paths to web server

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "JanHolan 11/27/2017 15:11",
+	"super" : "Object",
+	"category" : "OOPRPG-AI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"traits"
+	],
+	"name" : "TraitCollection",
+	"type" : "normal"
+}

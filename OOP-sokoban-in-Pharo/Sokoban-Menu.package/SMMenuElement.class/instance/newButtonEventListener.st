@@ -1,0 +1,3 @@
+initialization
+newButtonEventListener
+	^ SMButtonListener new

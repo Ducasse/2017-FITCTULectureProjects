@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "StephanKrtecek 11/23/2017 01:05",
+	"super" : "BlElement",
+	"category" : "FireEmblamRPG-UI-Elements",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"gameMap",
+		"size"
+	],
+	"name" : "MyGameElement",
+	"type" : "normal"
+}

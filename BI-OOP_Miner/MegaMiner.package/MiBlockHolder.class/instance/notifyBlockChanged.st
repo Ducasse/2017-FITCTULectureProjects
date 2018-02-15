@@ -1,0 +1,3 @@
+notifying
+notifyBlockChanged
+	self announcer announce: MiBlockChangedAnnouncement new

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "PetrFiedler 12/7/2017 21:06",
+	"super" : "Algorithm",
+	"category" : "PathFindingAlgorithms",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AStar",
+	"type" : "normal"
+}

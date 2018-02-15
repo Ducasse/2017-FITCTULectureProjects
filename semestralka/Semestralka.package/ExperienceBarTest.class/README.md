@@ -1,0 +1,1 @@
+An ExperienceBarTest is a test class for testing the behavior of ExperienceBar

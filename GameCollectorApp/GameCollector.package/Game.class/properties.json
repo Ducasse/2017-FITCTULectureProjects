@@ -1,0 +1,22 @@
+{
+	"commentStamp" : "kartol 11/16/2017 13:49",
+	"super" : "Object",
+	"category" : "GameCollector",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"price",
+		"platform",
+		"state",
+		"summary",
+		"rating",
+		"release",
+		"igdbid",
+		"iconUrl",
+		"customAttributes"
+	],
+	"name" : "Game",
+	"type" : "normal"
+}

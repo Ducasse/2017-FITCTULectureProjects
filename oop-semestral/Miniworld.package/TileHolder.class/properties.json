@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Holder",
+	"category" : "Miniworld",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TileHolder",
+	"type" : "normal"
+}

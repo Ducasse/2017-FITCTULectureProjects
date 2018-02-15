@@ -1,0 +1,1 @@
+Loads texts from a file and makes database of it. These texts are used for informing players about current state of the game.

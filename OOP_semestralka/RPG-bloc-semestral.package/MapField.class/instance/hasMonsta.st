@@ -1,0 +1,3 @@
+accessing
+hasMonsta
+	^monsta isNotNil

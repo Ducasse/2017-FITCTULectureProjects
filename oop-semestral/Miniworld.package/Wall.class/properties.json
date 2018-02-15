@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ObstacleTile",
+	"category" : "Miniworld-Tiles",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Wall",
+	"type" : "normal"
+}

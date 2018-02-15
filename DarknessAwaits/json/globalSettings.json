@@ -1,0 +1,6 @@
+{
+	"monsterDefinitionPath" : "pharo-local/iceberg/rathojak/DarknessAwaits/json/monsterDefinition.json",
+	"weaponItemsDefinitionPath" : "pharo-local/iceberg/rathojak/DarknessAwaits/json/weaponItemsDefinition.json",
+	"usableItemsDefinitionPath" : "pharo-local/iceberg/rathojak/DarknessAwaits/json/usableItemsDefinition.json",
+	"defenseItemsDefinitionPath" : "pharo-local/iceberg/rathojak/DarknessAwaits/json/defenseItemsDefinition.json"
+}

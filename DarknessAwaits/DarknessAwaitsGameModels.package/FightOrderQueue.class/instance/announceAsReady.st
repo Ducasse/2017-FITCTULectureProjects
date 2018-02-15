@@ -1,0 +1,3 @@
+initialization
+announceAsReady
+	self announcer announce: DrawCharacterOnTurnAnnouncement new.

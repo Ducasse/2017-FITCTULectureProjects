@@ -1,0 +1,3 @@
+initialization
+showLog
+	space show.

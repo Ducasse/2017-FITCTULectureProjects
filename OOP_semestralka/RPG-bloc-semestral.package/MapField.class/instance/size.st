@@ -1,0 +1,4 @@
+accessing
+size
+	^variables squareSizeAsPoint
+	

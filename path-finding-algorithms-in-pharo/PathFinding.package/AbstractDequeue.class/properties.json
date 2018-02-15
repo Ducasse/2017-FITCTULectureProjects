@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "MarekAnda 12/30/2017 16:53",
+	"super" : "DoubleLinkedList",
+	"category" : "PathFinding-Dequeue",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"endTile"
+	],
+	"name" : "AbstractDequeue",
+	"type" : "normal"
+}

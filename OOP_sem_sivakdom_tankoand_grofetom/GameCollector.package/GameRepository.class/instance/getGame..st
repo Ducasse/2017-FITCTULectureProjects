@@ -1,0 +1,2 @@
+accessing
+getGame: id

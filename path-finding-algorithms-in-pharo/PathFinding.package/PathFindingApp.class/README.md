@@ -1,0 +1,1 @@
+Class that shields the whole app.

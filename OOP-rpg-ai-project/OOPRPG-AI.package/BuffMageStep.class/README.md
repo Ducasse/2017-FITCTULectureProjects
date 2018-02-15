@@ -1,0 +1,1 @@
+AI behaviour trait class for mage that only uses buffAtk and buffDef. If out of mana, will meditate for more.

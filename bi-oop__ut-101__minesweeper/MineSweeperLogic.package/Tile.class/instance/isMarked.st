@@ -1,0 +1,3 @@
+testing
+isMarked
+	^ marked.

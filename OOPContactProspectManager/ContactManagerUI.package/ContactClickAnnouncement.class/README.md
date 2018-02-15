@@ -1,0 +1,1 @@
+Announce when user click on contact in contact list. This event contain id of contact that was clicked.

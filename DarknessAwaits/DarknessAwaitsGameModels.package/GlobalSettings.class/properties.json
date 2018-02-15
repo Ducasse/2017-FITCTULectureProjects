@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "JakubRathousky 11/26/2017 16:14",
+	"super" : "Object",
+	"category" : "DarknessAwaitsGameModels",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"monsterDefinitionPath",
+		"weaponItemsDefinitionPath",
+		"defenseItemsDefinitionPath",
+		"usableItemsDefinitionPath"
+	],
+	"name" : "GlobalSettings",
+	"type" : "normal"
+}

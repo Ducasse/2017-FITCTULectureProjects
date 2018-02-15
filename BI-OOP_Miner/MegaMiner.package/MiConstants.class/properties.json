@@ -1,0 +1,25 @@
+{
+	"commentStamp" : "rodlukas 12/7/2017 22:14",
+	"super" : "SharedPool",
+	"category" : "MegaMiner",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"MiBlockColumnCount",
+		"MiBlockRowCount",
+		"MiBlockSize",
+		"MiGameName",
+		"MiGameSize",
+		"MiLogo",
+		"MiMapSize",
+		"MiMinerMoveTime",
+		"MiMinerStartPosition",
+		"MiMinerTemperatureLimit",
+		"MiSaveFileReference",
+		"MiViewBorderX",
+		"MiViewBorderY"
+	],
+	"instvars" : [ ],
+	"name" : "MiConstants",
+	"type" : "normal"
+}

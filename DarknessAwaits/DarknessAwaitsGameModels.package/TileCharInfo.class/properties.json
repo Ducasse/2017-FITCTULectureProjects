@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "DarknessAwaitsGameModels",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"hasChanged",
+		"gameCharacter",
+		"announcer"
+	],
+	"name" : "TileCharInfo",
+	"type" : "normal"
+}

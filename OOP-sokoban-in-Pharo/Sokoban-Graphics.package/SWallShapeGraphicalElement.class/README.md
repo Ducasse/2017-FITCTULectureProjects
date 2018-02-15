@@ -1,0 +1,1 @@
+I am a Bloc Graphical Element representing a Bloc shape version of a wall tile in a Sokoban game.

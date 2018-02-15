@@ -1,0 +1,1 @@
+I am a graphical element for the Sokoban game. I carry mutual information that is common for all the graphical elements, such as size - every element will have a 48x48 pixel size right now.

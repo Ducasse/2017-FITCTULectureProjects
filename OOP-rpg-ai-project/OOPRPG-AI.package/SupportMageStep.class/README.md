@@ -1,0 +1,1 @@
+AI behaviour trait class for mage that only uses spells helping friends. If out of mana or last man standing, will attack enemy.

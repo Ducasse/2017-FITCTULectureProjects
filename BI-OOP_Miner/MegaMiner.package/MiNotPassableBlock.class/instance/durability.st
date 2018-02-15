@@ -1,0 +1,3 @@
+properties
+durability
+	self subclassResponsibility

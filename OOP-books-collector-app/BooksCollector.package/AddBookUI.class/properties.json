@@ -1,0 +1,22 @@
+{
+	"commentStamp" : "vutungan 12/30/2017 17:45",
+	"super" : "ComposableModel",
+	"category" : "BooksCollector",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"idTextField",
+		"titleTextField",
+		"genreTextField",
+		"yearTextField",
+		"writerTextField",
+		"publisherTextField",
+		"countTextField",
+		"addButton",
+		"url",
+		"opened"
+	],
+	"name" : "AddBookUI",
+	"type" : "normal"
+}

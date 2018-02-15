@@ -1,0 +1,1 @@
+Representative of a player. Holds neccessary information about player like his monsters, currently playing monster and his color.

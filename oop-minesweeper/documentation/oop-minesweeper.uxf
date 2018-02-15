@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.2">
+  <zoom_level>6</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>678</x>
+      <y>144</y>
+      <w>144</w>
+      <h>114</h>
+    </coordinates>
+    <panel_attributes>MSGame
+-
+MSGrid grid
+MSGameProperties gameProps
+Timer timer
+-
+initialization:
+- initialize
+-
+actions:
+- start
+- restart
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>774</x>
+      <y>306</y>
+      <w>102</w>
+      <h>48</h>
+    </coordinates>
+    <panel_attributes>/MSGameProperties/
+-
+Int size
+Int bombCount
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>918</x>
+      <y>360</y>
+      <w>126</w>
+      <h>48</h>
+    </coordinates>
+    <panel_attributes>MSModerateGameProperties
+-
+Int size
+Int bombCount
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>918</x>
+      <y>306</y>
+      <w>126</w>
+      <h>48</h>
+    </coordinates>
+    <panel_attributes>MSEasyGameProperties
+-
+Int size
+Int bombCount
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>918</x>
+      <y>414</y>
+      <w>126</w>
+      <h>48</h>
+    </coordinates>
+    <panel_attributes>MSHardGameProperties
+-
+Int size
+Int bombCount
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>870</x>
+      <y>324</y>
+      <w>60</w>
+      <h>18</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;80.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>894</x>
+      <y>324</y>
+      <w>36</w>
+      <h>132</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;10.0;10.0;200.0;40.0;200.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>894</x>
+      <y>372</y>
+      <w>36</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>40.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>468</x>
+      <y>306</y>
+      <w>126</w>
+      <h>150</h>
+    </coordinates>
+    <panel_attributes>/MSField/
+-
+bool covered
+bool marked
+-
+initialization:
+- initialize
+-
+accessing:
+isCovered: bool
+isMarked: bool
+-
+private:
+- cover
+- uncover
+- mark
+- unmark</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>474</x>
+      <y>144</y>
+      <w>144</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes>MSGrid
+-
+Matrix&lt;MSField&gt; fields
+MSGameProperties gameProps
+-
+instance creation
+withGameProperties
+-
+initialization:
+- initialize
+-
+actions:
+- placeBombs
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>636</x>
+      <y>306</y>
+      <w>114</w>
+      <h>66</h>
+    </coordinates>
+    <panel_attributes>MSBombField
+-
+initialization:
+- initialize
+-
+private:
+- uncover</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>588</x>
+      <y>342</y>
+      <w>60</w>
+      <h>18</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;80.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>612</x>
+      <y>342</y>
+      <w>36</w>
+      <h>186</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;10.0;10.0;290.0;40.0;290.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>612</x>
+      <y>420</y>
+      <w>36</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>40.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>636</x>
+      <y>396</y>
+      <w>114</w>
+      <h>66</h>
+    </coordinates>
+    <panel_attributes>MSZeroField
+-
+initialization:
+- initialize
+-
+private:
+- uncover</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>636</x>
+      <y>486</y>
+      <w>114</w>
+      <h>78</h>
+    </coordinates>
+    <panel_attributes>MSNumberField
+-
+Int surroundingMines
+-
+initialization:
+- initialize
+-
+private:
+- uncover</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>228</x>
+      <y>180</y>
+      <w>126</w>
+      <h>48</h>
+    </coordinates>
+    <panel_attributes>MSGameView
+-
+MSGame game
+MSGrdiView gridView
+
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>54</x>
+      <y>264</y>
+      <w>126</w>
+      <h>66</h>
+    </coordinates>
+    <panel_attributes>/MSFieldView/
+-
+MSField field
+-
+private:
+- leftClick
+- rightClick</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>54</x>
+      <y>180</y>
+      <w>144</w>
+      <h>54</h>
+    </coordinates>
+    <panel_attributes>MSGridView
+-
+MsGrid grid
+Matrix&lt;MSFieldView&gt; fieldViews
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>222</x>
+      <y>270</y>
+      <w>114</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>MSBombFieldView
+-
+MSBombField field</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>174</x>
+      <y>282</y>
+      <w>60</w>
+      <h>18</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;80.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>198</x>
+      <y>282</y>
+      <w>36</w>
+      <h>186</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;10.0;10.0;290.0;40.0;290.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>198</x>
+      <y>360</y>
+      <w>36</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>40.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>222</x>
+      <y>354</y>
+      <w>114</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>MSZeroFieldView
+-
+MSZeroField field</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>222</x>
+      <y>426</y>
+      <w>108</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>MSNumberFieldView
+-
+MSNumberField field</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>

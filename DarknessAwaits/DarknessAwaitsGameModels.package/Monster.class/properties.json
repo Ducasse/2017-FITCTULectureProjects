@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "JakubRathousky 11/26/2017 14:57",
+	"super" : "GameCharacter",
+	"category" : "DarknessAwaitsGameModels",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"loot",
+		"attackRange",
+		"damage"
+	],
+	"name" : "Monster",
+	"type" : "normal"
+}

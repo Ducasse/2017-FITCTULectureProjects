@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "SergeyDunaevskiy 11/28/2017 10:20",
+	"super" : "BaselineOf",
+	"category" : "BaselineOfMineSweeperGame",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BaselineOfMineSweeperGame",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+intersection
+intersectionDepth: aShape
+	self shouldBeImplemented

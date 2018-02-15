@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "JanHolan 12/15/2017 01:03",
+	"super" : "AIUnitStep",
+	"category" : "OOPRPG-AI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"defend"
+	],
+	"name" : "HalfDefenderStep",
+	"type" : "normal"
+}

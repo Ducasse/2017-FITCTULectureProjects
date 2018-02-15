@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Player",
+	"category" : "Semestralka-Player",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"attackTargetSquare"
+	],
+	"name" : "PlayerAI",
+	"type" : "normal"
+}

@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "PcmMovingBlock",
+	"category" : "PacmanBloc",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"finder",
+		"isBeingHunting",
+		"intelligence"
+	],
+	"name" : "PcmGhost",
+	"type" : "normal"
+}

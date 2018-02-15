@@ -1,0 +1,25 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "Sokoban-Model",
+	"classinstvars" : [
+		"UniqueInstance",
+		"resourcesPath"
+	],
+	"pools" : [ ],
+	"classvars" : [
+		"UniqueInstance",
+		"resourcesPath"
+	],
+	"instvars" : [
+		"levels",
+		"currentLevel",
+		"currentLevelNum",
+		"presenter",
+		"levelListPath",
+		"keyController",
+		"bestScores"
+	],
+	"name" : "Sokoban",
+	"type" : "normal"
+}

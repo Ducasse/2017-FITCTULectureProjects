@@ -1,0 +1,4 @@
+operations
+reverse
+
+	^ Right new.

@@ -1,0 +1,23 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "RPG-bloc-semestral",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"attack",
+		"count",
+		"healthCurrent",
+		"healthMax",
+		"variables",
+		"id",
+		"movementMax",
+		"movementCurrent",
+		"playerOwner",
+		"positionWithinArray",
+		"isRanged"
+	],
+	"name" : "Monster",
+	"type" : "normal"
+}

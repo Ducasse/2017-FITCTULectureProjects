@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "TimedEffect",
+	"category" : "OOPRPG-AI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"stat",
+		"statChange",
+		"caster",
+		"target"
+	],
+	"name" : "StatChangeEffect",
+	"type" : "normal"
+}

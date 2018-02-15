@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "MichalCvach 12/30/2017 19:16",
+	"super" : "BlElement",
+	"category" : "Sokoban-Graphics-View",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"gameview",
+		"textstrip",
+		"menu",
+		"roundInstance"
+	],
+	"name" : "SGameWindowElement",
+	"type" : "normal"
+}

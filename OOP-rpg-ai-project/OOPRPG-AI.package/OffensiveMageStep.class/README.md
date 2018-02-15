@@ -1,0 +1,1 @@
+AI behaviour trait class for mage that only uses spells attacking enemies. If out of mana, will meditate for more.

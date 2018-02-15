@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DominikSivak 11/14/2017 12:07",
+	"super" : "Object",
+	"category" : "GameCollector-Server",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GameRepository",
+	"type" : "normal"
+}

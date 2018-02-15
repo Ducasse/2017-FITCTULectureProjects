@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "BlElement",
+	"category" : "Minesweeper-View",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"game",
+		"gridView",
+		"startButtonListener",
+		"container"
+	],
+	"name" : "MSGameView",
+	"type" : "normal"
+}

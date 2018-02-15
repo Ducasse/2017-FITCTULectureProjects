@@ -1,0 +1,1 @@
+Meditation restores MP by mpwr skillcheck.

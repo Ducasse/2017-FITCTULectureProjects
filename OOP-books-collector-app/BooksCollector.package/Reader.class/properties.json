@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "BichPhuongPhamova 12/18/2017 21:34",
+	"super" : "Object",
+	"category" : "BooksCollector",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"id",
+		"firstName",
+		"lastName",
+		"nationality",
+		"birthYear",
+		"books"
+	],
+	"name" : "Reader",
+	"type" : "normal"
+}

@@ -1,0 +1,4 @@
+intersection
+intersectCircle: aCircle
+	self shouldBeImplemented 
+	

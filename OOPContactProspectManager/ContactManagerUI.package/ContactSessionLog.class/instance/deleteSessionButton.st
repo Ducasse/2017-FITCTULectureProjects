@@ -1,0 +1,3 @@
+accessing
+deleteSessionButton
+	^ deleteSessionButton

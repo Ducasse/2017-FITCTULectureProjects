@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "MartinKamenik 12/31/2017 15:53",
+	"super" : "Announcement",
+	"category" : "FireEmblamRPG-GameManager",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GMLevelShowAnnouncement",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+testing
+canGoThrough: aPcmMovingBlock
+	self subclassResponsibility

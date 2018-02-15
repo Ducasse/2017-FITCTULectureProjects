@@ -1,0 +1,1 @@
+I take care of teleporting miner to the teleport building.

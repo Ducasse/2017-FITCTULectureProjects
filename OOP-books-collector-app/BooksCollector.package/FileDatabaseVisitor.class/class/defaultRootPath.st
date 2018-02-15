@@ -1,0 +1,3 @@
+accessing
+defaultRootPath
+	^ FileSystem workingDirectory

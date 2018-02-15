@@ -1,0 +1,9 @@
+RPG: FireEmblem/Disgaea using Bloc
+Description: The goal of this project is to develop a turn-based RPG where a team of characters can attack a team of opponents on a 2D map in a Disgaea/Fire Emblem way.
+First Tasks: Check the Bloc booklet below, check the CTGrid package, 
+check some graphics from the opengame art database (https://opengameart.org/content/roguelikerpg-pack-1700-tiles),
+design a team and characters properties such as (Attack, Lifepoint, Magic points, Move distance), define objects responsible for the battle resolution.
+Possible contacts: Stéphane Ducasse and Clément Béra.
+Links and resources: Read the Bloc MemoryGame booklet http://books.pharo.org.    
+Characters can be imported from: http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator/.
+You can have a look at the Container/CTGrid datastructure available at: http://smalltalkhub.com/#!/~StephaneDucasse/Containers or 2DArray.

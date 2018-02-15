@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "Dawnflash 11/14/2017 10:56",
+	"super" : "Error",
+	"category" : "MineSweeperLogic",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"msg"
+	],
+	"name" : "BoardException",
+	"type" : "normal"
+}

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "TomasLederer 12/8/2017 12:52",
+	"super" : "Object",
+	"category" : "GameCollector",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"ApiKey",
+		"Url"
+	],
+	"instvars" : [ ],
+	"name" : "IGDBManager",
+	"type" : "normal"
+}

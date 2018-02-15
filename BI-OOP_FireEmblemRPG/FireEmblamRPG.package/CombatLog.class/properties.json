@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "FireEmblamRPG-SideBar",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"space",
+		"container",
+		"content"
+	],
+	"name" : "CombatLog",
+	"type" : "normal"
+}

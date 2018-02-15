@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Raw",
+	"category" : "Sokoban-View",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"levelNum"
+	],
+	"name" : "RawMenuButton",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+accessing
+defaultHeadType
+ ^ 'pixel'.

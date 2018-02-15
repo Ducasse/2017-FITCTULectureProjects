@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "JakubHynek 12/12/2017 10:24",
+	"super" : "BlElement",
+	"category" : "MineSweeperUI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"color",
+		"state"
+	],
+	"name" : "UIButton",
+	"type" : "normal"
+}

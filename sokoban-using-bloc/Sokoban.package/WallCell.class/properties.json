@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "PetrNespurek 11/11/2017 17:33",
+	"super" : "GameCell",
+	"category" : "Sokoban-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "WallCell",
+	"type" : "normal"
+}

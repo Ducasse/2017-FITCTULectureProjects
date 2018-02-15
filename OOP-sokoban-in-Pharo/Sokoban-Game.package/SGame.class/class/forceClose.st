@@ -1,0 +1,3 @@
+opening
+forceClose
+	Opened := false

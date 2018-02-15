@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "EffectApplySpell",
+	"category" : "OOPRPG-AI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Poison",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+testing
+isTileNumber
+	^ true.

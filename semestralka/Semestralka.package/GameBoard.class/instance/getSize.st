@@ -1,0 +1,3 @@
+accessing
+getSize
+	^ (width @ height).

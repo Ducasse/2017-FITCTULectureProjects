@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "StephanKrtecek 11/24/2017 13:58",
+	"super" : "Object",
+	"category" : "FireEmblamRPG-UI-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"x",
+		"y",
+		"type",
+		"champion",
+		"access"
+	],
+	"name" : "FieldStruct",
+	"type" : "normal"
+}

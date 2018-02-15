@@ -1,0 +1,7 @@
+6 6 70
+p f w t f f
+f f w f f f
+f f w f f f
+f b f w b f
+f b f f f f
+w w w t t f

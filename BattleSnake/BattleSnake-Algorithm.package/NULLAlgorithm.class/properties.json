@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "AbstractMoveAlgorithm",
+	"category" : "BattleSnake-Algorithm",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "NULLAlgorithm",
+	"type" : "normal"
+}

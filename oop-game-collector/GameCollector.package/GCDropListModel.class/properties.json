@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "DropListModel",
+	"category" : "GameCollector-View",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"lastSelected"
+	],
+	"name" : "GCDropListModel",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "JakubHynek 12/11/2017 01:08",
+	"super" : "BlElement",
+	"category" : "MineSweeperUI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"ext"
+	],
+	"name" : "UIBackground",
+	"type" : "normal"
+}

@@ -1,0 +1,1 @@
+I am a null object for all UI components.

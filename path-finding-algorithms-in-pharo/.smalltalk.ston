@@ -1,0 +1,9 @@
+SmalltalkCISpec {
+    #loading : [
+        SCIMetacelloLoadSpec {
+            #baseline : 'PathFinding',
+            #directory : '',
+            #platforms : [ #pharo ]
+        }
+    ]
+}

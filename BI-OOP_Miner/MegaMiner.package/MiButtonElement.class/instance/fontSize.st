@@ -1,0 +1,3 @@
+drawing
+fontSize
+	self subclassResponsibility 

@@ -1,0 +1,3 @@
+operations
+reverse
+	self subclassResponsibility.

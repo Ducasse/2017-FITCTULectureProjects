@@ -1,0 +1,3 @@
+actions
+fuelToMax
+	fuelAmount := capacity

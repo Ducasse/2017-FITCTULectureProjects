@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "BlButton",
+	"category" : "Miniworld-Utility",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"selected",
+		"selectObject",
+		"onSelectListener"
+	],
+	"name" : "BlSelectableButton",
+	"type" : "normal"
+}

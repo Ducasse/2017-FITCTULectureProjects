@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "MikulasDvorak 1/4/2018 20:03",
+	"super" : "GameState",
+	"category" : "GameCollector",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"time"
+	],
+	"name" : "GameStateCreated",
+	"type" : "normal"
+}

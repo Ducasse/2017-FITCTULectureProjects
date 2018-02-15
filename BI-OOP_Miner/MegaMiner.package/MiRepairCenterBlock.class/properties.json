@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "MiBuildingBlock",
+	"category" : "MegaMiner-Game-Blocks",
+	"classinstvars" : [ ],
+	"pools" : [
+		"MiConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MiRepairCenterBlock",
+	"type" : "normal"
+}

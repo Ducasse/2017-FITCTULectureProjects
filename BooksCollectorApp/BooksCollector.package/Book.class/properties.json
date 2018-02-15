@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "BooksCollector",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"title",
+		"author",
+		"genre",
+		"isbn",
+		"year"
+	],
+	"name" : "Book",
+	"type" : "normal"
+}

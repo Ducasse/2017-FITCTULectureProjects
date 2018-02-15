@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "tokarvit 12/30/2017 23:32",
+	"super" : "Announcement",
+	"category" : "ContactManagerUI-Announcements",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"user"
+	],
+	"name" : "HomeButtonPressed",
+	"type" : "normal"
+}

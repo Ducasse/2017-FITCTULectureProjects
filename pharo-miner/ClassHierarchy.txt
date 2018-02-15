@@ -1,0 +1,38 @@
+Game - object describing and creating game
+
+Grid - map of level, contains tiles
+
+GameObject - basic object capable of holding parts
+	VisualObject - composed of Transform and Renderer
+		MiningMachine - composed of RigidBody, Collider, Controller, OreContainer, AnimationRenderer is used instead of Renderer
+		Tile - level obstacle elements
+			AirTile - empty tile, not obstacle
+			MineableTile - can be mined
+				DirtTile - does nothing when mined
+				OreTile - gives something when mined
+					CoalTile - gives coal
+					DiamondTile - gives diamond
+					IronOreTile - gives iron
+					SilverOreTile - gives silver
+					GoldOreTile - gives gold
+			
+			SolidTile - cannot be mined
+				StoneTile
+		
+		Materials - mined object waiting to be sold, different names, prices, images...
+			Coal
+			Diamond
+			Iron
+			Silver
+			Gold
+
+Behaviour - part of object
+	Transform - position and orientation
+	RigidBody - 2D physics and movement
+	Collider - capable of detecting collisions
+		SquareCollider - has shape of square
+	Renderer - capable of displaying
+		SpriteRenderer - displays image
+			AnimationRenderer - capable of animations
+	Controller - handles input
+	OreContainer - holds ore

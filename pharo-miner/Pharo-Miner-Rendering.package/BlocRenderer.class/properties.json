@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "vboeign 11/19/2017 16:05",
+	"super" : "Object",
+	"category" : "Pharo-Miner-Rendering",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"container",
+		"window"
+	],
+	"instvars" : [ ],
+	"name" : "BlocRenderer",
+	"type" : "normal"
+}

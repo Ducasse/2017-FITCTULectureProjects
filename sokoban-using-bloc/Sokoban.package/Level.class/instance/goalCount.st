@@ -1,0 +1,3 @@
+goal-counting
+goalCount
+	^ goalCount

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "sochomi4 1/1/2018 22:43",
+	"super" : "MineableTile",
+	"category" : "Pharo-Miner",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "IronTile",
+	"type" : "normal"
+}

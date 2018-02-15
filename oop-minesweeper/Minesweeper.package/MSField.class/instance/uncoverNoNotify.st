@@ -1,0 +1,3 @@
+actions
+uncoverNoNotify
+	covered := false.

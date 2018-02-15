@@ -1,0 +1,1 @@
+Object for displaying single digit of game score

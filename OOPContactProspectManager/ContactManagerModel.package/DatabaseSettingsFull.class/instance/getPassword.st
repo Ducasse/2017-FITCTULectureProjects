@@ -1,0 +1,3 @@
+initialization
+getPassword
+	^password

@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "BaseEntity",
+	"category" : "ContactManager-Entities",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"cname",
+		"manager",
+		"country",
+		"isCustomer",
+		"isPartner"
+	],
+	"name" : "Company",
+	"type" : "normal"
+}

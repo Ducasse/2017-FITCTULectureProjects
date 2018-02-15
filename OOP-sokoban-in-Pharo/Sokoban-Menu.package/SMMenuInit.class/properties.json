@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "MichalCerny 12/30/2017 09:28",
+	"super" : "Object",
+	"category" : "Sokoban-Menu",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"model",
+		"grid"
+	],
+	"name" : "SMMenuInit",
+	"type" : "normal"
+}

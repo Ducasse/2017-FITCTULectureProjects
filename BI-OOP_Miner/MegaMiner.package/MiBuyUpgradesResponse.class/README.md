@@ -1,0 +1,1 @@
+I take care of miner interacting in shop.

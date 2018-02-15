@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "sochomi4 12/28/2017 00:09",
+	"super" : "Scene",
+	"category" : "Pharo-Miner-Engine",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"cellsize"
+	],
+	"name" : "GridScene",
+	"type" : "normal"
+}

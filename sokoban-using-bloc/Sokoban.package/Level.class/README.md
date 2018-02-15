@@ -1,0 +1,1 @@
+A Sokoban level. Contains the map, player and a goal counter.

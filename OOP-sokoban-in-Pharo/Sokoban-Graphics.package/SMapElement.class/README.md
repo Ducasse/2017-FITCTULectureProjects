@@ -1,0 +1,1 @@
+I represent a single map in the Sokoban game. I encapsulate all the graphical objects, and provide API for redrawing elements when actions occur.

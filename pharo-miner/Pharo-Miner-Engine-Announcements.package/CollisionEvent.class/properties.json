@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "sochomi4 12/20/2017 13:44",
+	"super" : "Announcement",
+	"category" : "Pharo-Miner-Engine-Announcements",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"collider",
+		"normal",
+		"depth"
+	],
+	"name" : "CollisionEvent",
+	"type" : "normal"
+}

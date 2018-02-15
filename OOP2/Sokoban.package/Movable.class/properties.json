@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "MariaKarzhenkova 11/14/2017 08:59",
+	"super" : "Cell",
+	"category" : "Sokoban-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"x",
+		"y"
+	],
+	"name" : "Movable",
+	"type" : "normal"
+}

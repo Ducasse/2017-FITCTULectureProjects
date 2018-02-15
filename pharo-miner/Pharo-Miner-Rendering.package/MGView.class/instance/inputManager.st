@@ -1,0 +1,3 @@
+accessing
+inputManager
+	^ model input

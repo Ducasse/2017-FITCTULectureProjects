@@ -1,0 +1,1 @@
+Abstract class that is for the urposes of changing stats.

@@ -1,0 +1,3 @@
+testing
+isUp
+	^ self subclassResponsibility

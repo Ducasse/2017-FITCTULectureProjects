@@ -1,0 +1,15 @@
+{
+	"classtraitcomposition" : "TBlExample classTrait",
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MiMegaMiner",
+	"commentStamp" : "rodlukas 12/23/2017 08:40",
+	"super" : "Object",
+	"traitcomposition" : "TBlExample",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [
+		"MiConstants"
+	],
+	"category" : "MegaMiner"
+}

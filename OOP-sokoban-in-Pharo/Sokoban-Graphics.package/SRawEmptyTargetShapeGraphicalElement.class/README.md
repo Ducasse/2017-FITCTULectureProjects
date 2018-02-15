@@ -1,0 +1,1 @@
+I am a graphical element representing a Bloc shape version of an empty target tile.

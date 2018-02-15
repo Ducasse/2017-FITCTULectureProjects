@@ -1,0 +1,1 @@
+I serve as a background for the game window.

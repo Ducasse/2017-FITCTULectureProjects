@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "brychon1 1/4/2018 19:38",
+	"super" : "TestCase",
+	"category" : "TwitterAnalyzer-Test",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AnalysisTest",
+	"type" : "normal"
+}

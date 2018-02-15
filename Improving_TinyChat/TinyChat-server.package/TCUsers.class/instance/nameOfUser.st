@@ -1,0 +1,3 @@
+action
+nameOfUser
+	^ nameOfUser.

@@ -1,0 +1,3 @@
+accessing
+analysisOutputWindow
+	^ analysisOutputWindow

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "MariaKarzhenkova 12/21/2017 16:07",
+	"super" : "RawInfoElement",
+	"category" : "Sokoban-View",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RawOptimalScoreElement",
+	"type" : "normal"
+}

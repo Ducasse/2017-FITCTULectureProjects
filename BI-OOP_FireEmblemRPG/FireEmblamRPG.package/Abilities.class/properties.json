@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "polivpe 11/21/2017 23:38",
+	"super" : "Object",
+	"category" : "FireEmblamRPG",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"abilities"
+	],
+	"name" : "Abilities",
+	"type" : "normal"
+}

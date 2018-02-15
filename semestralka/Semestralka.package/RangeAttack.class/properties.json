@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Attack",
+	"category" : "Semestralka-Unused",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"range"
+	],
+	"name" : "RangeAttack",
+	"type" : "normal"
+}

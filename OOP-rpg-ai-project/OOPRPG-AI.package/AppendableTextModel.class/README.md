@@ -1,0 +1,1 @@
+TextModel subclass based on String stream  to simplify appending new messages to previous TextModel content.

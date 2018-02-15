@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "tokarvit 12/30/2017 14:37",
+	"super" : "ComposableModel",
+	"category" : "ContactManagerUI-Widgets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"listLabel",
+		"listView",
+		"listTools",
+		"addButton",
+		"deleteButton",
+		"myAnnouncer"
+	],
+	"name" : "ContactList",
+	"type" : "normal"
+}

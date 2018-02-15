@@ -1,0 +1,4 @@
+operations
+reverse
+
+	^ Down new.

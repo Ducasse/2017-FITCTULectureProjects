@@ -1,0 +1,3 @@
+testing
+canGoThroughGhostDoor
+	self subclassResponsibility 

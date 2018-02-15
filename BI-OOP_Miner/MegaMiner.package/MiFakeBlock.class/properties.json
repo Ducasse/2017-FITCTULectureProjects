@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "rodlukas 12/23/2017 08:42",
+	"super" : "MiBlock",
+	"category" : "MegaMiner-View",
+	"classinstvars" : [ ],
+	"pools" : [
+		"MiConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MiFakeBlock",
+	"type" : "normal"
+}

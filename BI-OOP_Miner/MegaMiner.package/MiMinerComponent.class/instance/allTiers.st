@@ -1,0 +1,3 @@
+initialization
+allTiers
+	self subclassResponsibility.

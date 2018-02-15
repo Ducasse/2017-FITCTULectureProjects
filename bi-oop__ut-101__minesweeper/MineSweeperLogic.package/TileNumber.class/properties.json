@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "Sergey 11/13/2017 16:35",
+	"super" : "Tile",
+	"category" : "MineSweeperLogic",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"number"
+	],
+	"name" : "TileNumber",
+	"type" : "normal"
+}

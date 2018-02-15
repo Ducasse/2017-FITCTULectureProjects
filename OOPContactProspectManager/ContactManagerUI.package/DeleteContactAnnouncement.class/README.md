@@ -1,0 +1,1 @@
+Announce when user click delete contact button.

@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "AlgorithmInterface",
+	"category" : "Miniworld-Algorithms",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"stack",
+		"cur",
+		"lastProcessed"
+	],
+	"name" : "DFS",
+	"type" : "normal"
+}

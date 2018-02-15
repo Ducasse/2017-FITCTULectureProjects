@@ -1,0 +1,24 @@
+{
+	"commentStamp" : "JakubHynek 12/11/2017 23:33",
+	"super" : "BlElement",
+	"category" : "MineSweeperUI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"clicked",
+		"flagged",
+		"mine",
+		"size",
+		"edge",
+		"color",
+		"numColors",
+		"shadeColor",
+		"lightColor",
+		"pxSize",
+		"coord",
+		"number"
+	],
+	"name" : "UITile",
+	"type" : "normal"
+}

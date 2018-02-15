@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "MichalCvach 12/30/2017 19:08",
+	"super" : "Object",
+	"category" : "Sokoban-Game",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Instance",
+		"Opened"
+	],
+	"instvars" : [
+		"window"
+	],
+	"name" : "SGame",
+	"type" : "normal"
+}

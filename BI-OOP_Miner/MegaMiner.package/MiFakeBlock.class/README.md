@@ -1,0 +1,1 @@
+I am a block that is used in boardview. I am placed on edge of map , forming border that should never be drawen. My purpose is to allow whole map to move (map is drawn with 1 extra block on each side so i am on places that would othervise be empty or had if for null)

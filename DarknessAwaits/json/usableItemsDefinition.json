@@ -1,0 +1,38 @@
+{
+	"u001" : {
+		"name" : "Goblin swordsman",
+		"loot" : [
+			{
+				"percent" : 10,
+				"itemId" : 1
+			},
+			{
+				"percent" : 15,
+				"itemId" : 2
+			}
+		],
+		"attributes" : {
+			"agility" : 5,
+			"dexterity" : 20
+		},
+		"movementSpeed" : 1	
+	},
+	"u002" : {
+		"name" : "Goblin archer",
+		"loot" : [
+			{
+				"percent" : 10,
+				"itemId" : 2
+			},
+			{
+				"percent" : 15,
+				"itemId" : 3
+			}
+		],
+		"attributes" : {
+			"agility" : 11,
+			"dexterity" : 12
+		},
+		"movementSpeed" : 2		
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "MarekBelohoubek 12/31/2017 13:40",
+	"super" : "Object",
+	"category" : "PathFinding-Algorithms",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"map",
+		"start",
+		"end",
+		"collection",
+		"path"
+	],
+	"name" : "FindingPathAlgorithm",
+	"type" : "normal"
+}

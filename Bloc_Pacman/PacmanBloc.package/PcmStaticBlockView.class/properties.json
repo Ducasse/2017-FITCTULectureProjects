@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "PcmBlockView",
+	"category" : "PacmanBloc",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"itemView"
+	],
+	"name" : "PcmStaticBlockView",
+	"type" : "normal"
+}

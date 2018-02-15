@@ -1,0 +1,1 @@
+Class representated UI for field of Sokoban game.

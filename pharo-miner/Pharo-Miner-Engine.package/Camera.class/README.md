@@ -1,0 +1,1 @@
+I represent a Camera to which a window can be centered

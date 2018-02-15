@@ -1,0 +1,3 @@
+initialization
+mapTile
+	^ mapTile.

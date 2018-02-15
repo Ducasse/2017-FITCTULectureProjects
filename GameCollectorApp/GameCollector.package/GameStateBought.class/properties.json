@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "kartol 11/30/2017 17:32",
+	"super" : "GameState",
+	"category" : "GameCollector",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"place",
+		"time"
+	],
+	"name" : "GameStateBought",
+	"type" : "normal"
+}

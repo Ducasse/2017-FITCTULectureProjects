@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "BlElement",
+	"category" : "Miniworld-Utility",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"baseColor",
+		"rippleColor",
+		"textElement",
+		"dynamicSize"
+	],
+	"name" : "BlButton",
+	"type" : "normal"
+}

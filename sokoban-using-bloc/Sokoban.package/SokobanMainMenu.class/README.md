@@ -1,0 +1,1 @@
+Representation of the main menu screen when the game is started.

@@ -1,0 +1,3 @@
+tests
+testGetObjectFromXY
+	self testMap 

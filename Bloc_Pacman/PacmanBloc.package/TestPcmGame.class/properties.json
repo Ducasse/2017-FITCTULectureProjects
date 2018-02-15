@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "PacmanBloc",
+	"classinstvars" : [
+		"game"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"game"
+	],
+	"name" : "TestPcmGame",
+	"type" : "normal"
+}

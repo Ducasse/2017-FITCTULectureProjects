@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "GameState",
+	"category" : "DarknessAwaitsGameModels",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AttackState",
+	"type" : "normal"
+}

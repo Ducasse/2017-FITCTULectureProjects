@@ -1,0 +1,3 @@
+actions
+onRelocation
+	self refreshPosition

@@ -1,0 +1,1 @@
+An empty path cell, can contain nothing, a box or a player.

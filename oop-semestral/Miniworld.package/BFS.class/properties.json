@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "AlgorithmInterface",
+	"category" : "Miniworld-Algorithms",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"queue",
+		"cur",
+		"lastProcessed"
+	],
+	"name" : "BFS",
+	"type" : "normal"
+}

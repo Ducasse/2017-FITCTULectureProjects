@@ -1,0 +1,3 @@
+properties
+fuelConsumption
+	self subclassResponsibility

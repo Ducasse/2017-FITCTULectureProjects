@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Semestralka-Unused",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"gameBoard",
+		"players",
+		"playerOnTurn"
+	],
+	"name" : "GameRPG",
+	"type" : "normal"
+}

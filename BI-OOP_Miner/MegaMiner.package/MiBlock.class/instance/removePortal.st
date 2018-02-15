@@ -1,0 +1,3 @@
+visiting
+removePortal
+	^ self

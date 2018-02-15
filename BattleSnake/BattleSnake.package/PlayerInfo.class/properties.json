@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "nymsapet 12/5/2017 15:09",
+	"super" : "Object",
+	"category" : "BattleSnake",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"color",
+		"name",
+		"head_url",
+		"taunt",
+		"head_type",
+		"tail_type",
+		"secondary_color"
+	],
+	"name" : "PlayerInfo",
+	"type" : "normal"
+}

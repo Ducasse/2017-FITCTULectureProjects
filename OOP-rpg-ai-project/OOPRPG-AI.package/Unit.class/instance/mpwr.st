@@ -1,0 +1,3 @@
+accessing
+mpwr
+	^ mpwr

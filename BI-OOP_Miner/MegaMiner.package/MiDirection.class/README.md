@@ -1,0 +1,2 @@
+I am a representation of possible movements of miner. So movements can be abstracted for better design.  
+When user wants to perform a movement with miner, than i represent the direction of that move. Once the logic is performed, I can be used to change the miners position if all conditions are met.

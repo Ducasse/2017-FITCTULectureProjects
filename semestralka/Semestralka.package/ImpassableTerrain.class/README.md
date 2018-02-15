@@ -1,0 +1,1 @@
+A class representing blocks of terrain, which units can't pass/walk through.

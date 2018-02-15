@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "OnWalkableState",
+	"category" : "Miniworld-Tiles",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "StartState",
+	"type" : "normal"
+}

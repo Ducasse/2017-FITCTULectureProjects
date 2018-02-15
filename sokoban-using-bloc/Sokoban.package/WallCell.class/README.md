@@ -1,0 +1,1 @@
+Solid impassable wall cell. 

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "JakubHynek 12/19/2017 14:29",
+	"super" : "Object",
+	"category" : "MineSweeperUI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "UIColors",
+	"type" : "normal"
+}

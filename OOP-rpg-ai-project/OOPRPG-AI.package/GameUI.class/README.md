@@ -1,0 +1,1 @@
+This is class used to control and interact with game user interface.

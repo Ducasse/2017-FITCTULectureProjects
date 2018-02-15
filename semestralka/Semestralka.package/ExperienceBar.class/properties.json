@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "Anonymous 12/4/2017 22:48",
+	"super" : "Bar",
+	"category" : "Semestralka-Unused",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"level"
+	],
+	"name" : "ExperienceBar",
+	"type" : "normal"
+}

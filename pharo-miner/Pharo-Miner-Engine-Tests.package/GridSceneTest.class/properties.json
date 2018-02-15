@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SceneTest",
+	"category" : "Pharo-Miner-Engine-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GridSceneTest",
+	"type" : "normal"
+}

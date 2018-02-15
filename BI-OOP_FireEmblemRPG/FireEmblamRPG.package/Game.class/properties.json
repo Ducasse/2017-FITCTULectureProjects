@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "StephanKrtecek 11/28/2017 02:07",
+	"super" : "Object",
+	"category" : "FireEmblamRPG-example",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"x",
+		"y",
+		"dimension"
+	],
+	"name" : "Game",
+	"type" : "normal"
+}

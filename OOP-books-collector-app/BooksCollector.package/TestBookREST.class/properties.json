@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "BichPhuongPhamova 11/24/2017 00:27",
+	"super" : "TestCase",
+	"category" : "BooksCollector",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TestBookREST",
+	"type" : "normal"
+}

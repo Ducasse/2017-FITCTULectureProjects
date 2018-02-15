@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "VitCerny 12/12/2017 12:45",
+	"super" : "TBScreenComponent",
+	"category" : "GameCollector",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MyForm",
+	"type" : "normal"
+}

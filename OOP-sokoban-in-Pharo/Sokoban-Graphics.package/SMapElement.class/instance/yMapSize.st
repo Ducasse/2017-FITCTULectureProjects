@@ -1,0 +1,3 @@
+accesing
+yMapSize
+	^ yMapSize 

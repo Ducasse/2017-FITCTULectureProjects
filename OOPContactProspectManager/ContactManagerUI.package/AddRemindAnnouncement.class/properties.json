@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "tokarvit 1/3/2018 03:04",
+	"super" : "Announcement",
+	"category" : "ContactManagerUI-Announcements",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"notification"
+	],
+	"name" : "AddRemindAnnouncement",
+	"type" : "normal"
+}

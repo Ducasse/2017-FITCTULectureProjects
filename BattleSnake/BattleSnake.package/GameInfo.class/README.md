@@ -1,0 +1,1 @@
+Class representing the whole game state received from client.

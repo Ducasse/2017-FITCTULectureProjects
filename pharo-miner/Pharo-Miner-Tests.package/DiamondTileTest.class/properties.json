@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "TileTest",
+	"category" : "Pharo-Miner-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DiamondTileTest",
+	"type" : "normal"
+}

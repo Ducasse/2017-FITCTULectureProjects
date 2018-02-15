@@ -1,0 +1,3 @@
+testing
+isPressed
+	^ self subclassResponsibility

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "rurabori 1/4/2018 12:30",
+	"super" : "DatabaseSettingsDefault",
+	"category" : "ContactManagerModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"username",
+		"password"
+	],
+	"name" : "DatabaseSettingsFull",
+	"type" : "normal"
+}

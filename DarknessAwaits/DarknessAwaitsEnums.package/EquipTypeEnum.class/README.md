@@ -1,0 +1,1 @@
+Enumeration  with specified equipment types.

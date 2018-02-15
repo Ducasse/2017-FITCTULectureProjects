@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "BattleSnake-Algorithm",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"possibleMoves"
+	],
+	"instvars" : [
+		"tiles",
+		"sizeX",
+		"sizeY"
+	],
+	"name" : "Map",
+	"type" : "normal"
+}

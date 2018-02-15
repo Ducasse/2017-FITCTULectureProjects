@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "Anonymous 11/27/2017 17:08",
+	"super" : "Object",
+	"category" : "GameCollector-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"GenreStrings"
+	],
+	"instvars" : [
+		"genre"
+	],
+	"name" : "GameGenre",
+	"type" : "normal"
+}

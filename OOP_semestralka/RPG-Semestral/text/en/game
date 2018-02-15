@@ -1,0 +1,9 @@
+MONSTER_DEALT_DAMAGE;? dealt ? damage to ?.
+MONSTERS_PERISHED;? ? perished.
+MONSTER_HEAL;? healed himself by ?.
+MONSTER_RISEN_FROM_DEAD;? have risen from the dead.
+INVALID_MOVE;Invalid move
+NECROMANCER_SUMMONED_ZOMBIE;? summoned a ?.
+NEXT_TURN;Next turn begins.
+NOW_PLAYS;Now plays
+WIN;Game over

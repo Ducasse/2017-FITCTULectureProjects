@@ -1,0 +1,3 @@
+parameters
+backgroundColor
+	^Color lightGray

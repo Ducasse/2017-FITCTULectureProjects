@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "MichalCvach 12/21/2017 00:30",
+	"super" : "SRawFloorGraphicalElement",
+	"category" : "Sokoban-Graphics-View",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SRawBoxOnFloorGraphicalElement",
+	"type" : "normal"
+}

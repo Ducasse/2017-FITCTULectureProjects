@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "MichalCvach 11/11/2017 20:31",
+	"super" : "BlElement",
+	"category" : "Sokoban-Graphics-View",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "STileGraphicalElement",
+	"type" : "normal"
+}

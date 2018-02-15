@@ -1,0 +1,1 @@
+Collection of Traits for DPS class characters.

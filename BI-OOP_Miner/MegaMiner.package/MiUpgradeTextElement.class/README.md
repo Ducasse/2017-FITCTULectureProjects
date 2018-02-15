@@ -1,0 +1,1 @@
+I am text element with names of miner components modelled by Miner component names from ==MinerComponents==

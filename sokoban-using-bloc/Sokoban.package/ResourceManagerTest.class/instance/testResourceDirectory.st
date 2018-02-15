@@ -1,0 +1,3 @@
+tests
+testResourceDirectory
+	self assert: ResourceManager instance resourceDirectory exists

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "bobotjan 11/27/2017 23:01",
+	"super" : "ComposableModel",
+	"category" : "Sokoban-GUI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"buttonStart",
+		"buttonExit"
+	],
+	"name" : "SokobanMainMenu",
+	"type" : "normal"
+}

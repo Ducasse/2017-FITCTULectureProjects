@@ -1,0 +1,3 @@
+rendering
+style
+    ^ super style

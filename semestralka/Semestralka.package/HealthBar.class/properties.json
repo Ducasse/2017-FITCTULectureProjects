@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Bar",
+	"category" : "Semestralka-Unused",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "HealthBar",
+	"type" : "normal"
+}

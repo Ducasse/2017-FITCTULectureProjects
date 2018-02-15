@@ -1,0 +1,3 @@
+states
+lendTo: aPerson
+	^ self 

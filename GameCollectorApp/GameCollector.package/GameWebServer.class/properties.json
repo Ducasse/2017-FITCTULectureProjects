@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "kartol 11/23/2017 15:01",
+	"super" : "Object",
+	"category" : "GameCollector",
+	"classinstvars" : [
+		"uniqueInstance"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GameWebServer",
+	"type" : "normal"
+}

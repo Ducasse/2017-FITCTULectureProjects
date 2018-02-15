@@ -1,0 +1,1 @@
+I am a Bloc Graphical Element representing a background tile in a Sokoban game. Background tile is a tile on the side of the wall, where the player can never go.

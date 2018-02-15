@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "MichalCerny 12/30/2017 09:38",
+	"super" : "BlElementEventListener",
+	"category" : "Sokoban-Menu",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"buttons"
+	],
+	"name" : "SMButtonListener",
+	"type" : "normal"
+}

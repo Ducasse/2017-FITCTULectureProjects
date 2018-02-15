@@ -1,0 +1,1 @@
+I am abstract class representing state of a game instance.

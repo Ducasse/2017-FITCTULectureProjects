@@ -1,0 +1,1 @@
+Announce when the sign out button was pressed.

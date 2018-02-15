@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "rodlukas 12/5/2017 01:27",
+	"super" : "MiElement",
+	"category" : "MegaMiner-View",
+	"classinstvars" : [ ],
+	"pools" : [
+		"MiConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MiMenuElement",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "BlElementEventListener",
+	"category" : "FireEmblamRPG-Menu-Elements",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"gModel"
+	],
+	"name" : "ChCNextButtonEventListener",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DominikSivak 11/7/2017 12:11",
+	"super" : "Game",
+	"category" : "GameCollector-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PCGame",
+	"type" : "normal"
+}

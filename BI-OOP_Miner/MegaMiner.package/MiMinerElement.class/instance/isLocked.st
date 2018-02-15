@@ -1,0 +1,3 @@
+drawing
+isLocked
+	^lock

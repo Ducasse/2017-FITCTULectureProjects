@@ -1,0 +1,3 @@
+drawing
+getBackground
+	self subclassResponsibility

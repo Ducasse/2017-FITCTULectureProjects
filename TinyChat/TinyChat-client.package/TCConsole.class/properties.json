@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "StephaneDucasse 3/19/2015 09:21",
+	"super" : "ComposableModel",
+	"category" : "TinyChat-client",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"chat",
+		"list",
+		"input",
+		"screen",
+		"button"
+	],
+	"name" : "TCConsole",
+	"type" : "normal"
+}

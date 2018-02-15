@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "MiDirection",
+	"category" : "MegaMiner-Game-Core",
+	"classinstvars" : [ ],
+	"pools" : [
+		"MiConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MiDirectionLeft",
+	"type" : "normal"
+}

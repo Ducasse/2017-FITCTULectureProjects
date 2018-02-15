@@ -1,0 +1,3 @@
+drawing
+defaultTextSize
+	^ 19

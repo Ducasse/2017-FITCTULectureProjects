@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "nymsapet 12/28/2017 15:24",
+	"super" : "AbstractHandler",
+	"category" : "BattleSnake",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"algorithm"
+	],
+	"name" : "MoveHandler",
+	"type" : "normal"
+}

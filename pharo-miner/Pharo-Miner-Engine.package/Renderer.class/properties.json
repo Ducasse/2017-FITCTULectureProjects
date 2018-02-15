@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "sochomi4 1/1/2018 16:42",
+	"super" : "Behaviour",
+	"category" : "Pharo-Miner-Engine",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"offset"
+	],
+	"name" : "Renderer",
+	"type" : "normal"
+}

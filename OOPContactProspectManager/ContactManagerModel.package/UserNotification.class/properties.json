@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "rurabori 1/4/2018 01:19",
+	"super" : "Object",
+	"category" : "ContactManagerModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"data",
+		"date"
+	],
+	"name" : "UserNotification",
+	"type" : "normal"
+}

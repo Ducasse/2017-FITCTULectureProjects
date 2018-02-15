@@ -1,0 +1,3 @@
+class initialization
+resourcesPath 
+ ^resourcesPath.

@@ -1,0 +1,3 @@
+constants
+scoreValue
+	^ self subclassResponsibility 

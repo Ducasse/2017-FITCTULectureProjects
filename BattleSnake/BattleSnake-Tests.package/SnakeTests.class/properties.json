@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "nymsapet 11/15/2017 18:11",
+	"super" : "TestCase",
+	"category" : "BattleSnake-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SnakeTests",
+	"type" : "normal"
+}

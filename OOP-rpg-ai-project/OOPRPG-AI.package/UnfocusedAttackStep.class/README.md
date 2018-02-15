@@ -1,0 +1,1 @@
+AI behaviour class. Every time attack random enemy, but never the same one twice in  a row.

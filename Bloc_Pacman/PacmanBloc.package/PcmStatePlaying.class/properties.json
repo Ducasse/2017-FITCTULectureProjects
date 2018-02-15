@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PcmGameState",
+	"category" : "PacmanBloc",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PcmStatePlaying",
+	"type" : "normal"
+}

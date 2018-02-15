@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "brychon1 12/16/2017 19:41",
+	"super" : "Object",
+	"category" : "TwitterAnalyzer",
+	"classinstvars" : [
+		"tweets"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"tweets"
+	],
+	"name" : "Analysis",
+	"type" : "normal"
+}

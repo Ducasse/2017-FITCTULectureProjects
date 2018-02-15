@@ -1,0 +1,23 @@
+{
+	"commentStamp" : "MarekAnda 12/30/2017 17:12",
+	"super" : "Object",
+	"category" : "PathFinding-Model",
+	"classinstvars" : [
+		"mapModel"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"x",
+		"y",
+		"found",
+		"mapTile",
+		"blocked",
+		"onPath",
+		"ending",
+		"starting",
+		"costToCross"
+	],
+	"name" : "MapTileModel",
+	"type" : "normal"
+}

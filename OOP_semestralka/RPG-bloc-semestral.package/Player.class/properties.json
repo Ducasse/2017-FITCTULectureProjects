@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "RPG-bloc-semestral",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"monsterQueue",
+		"currentlyPlayingMonster",
+		"gameBoard",
+		"color"
+	],
+	"name" : "Player",
+	"type" : "normal"
+}

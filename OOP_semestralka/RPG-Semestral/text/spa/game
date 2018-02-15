@@ -1,0 +1,9 @@
+MONSTER_DEALT_DAMAGE;? hizo ? daños a ?.
+MONSTERS_PERISHED;? ? perecieron.
+MONSTER_HEAL;? se curó por ?.
+MONSTER_RISEN_FROM_DEAD;? levantaron de la muerte.
+INVALID_MOVE;movimiento inválido
+NECROMANCER_SUMMONED_ZOMBIE;? invocó un ?.
+NEXT_TURN;El siguiente turno comienza.
+NOW_PLAYS;Ahora juega
+WIN;Juego está terminado

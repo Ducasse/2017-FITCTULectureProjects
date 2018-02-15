@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "JanHolan 12/5/2017 10:06",
+	"super" : "AIUnitStep",
+	"category" : "OOPRPG-AI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"lastTarget"
+	],
+	"name" : "UnfocusedAttackStep",
+	"type" : "normal"
+}

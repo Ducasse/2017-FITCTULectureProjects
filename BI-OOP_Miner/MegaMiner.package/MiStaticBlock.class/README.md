@@ -1,0 +1,1 @@
+I contain static block models that don't provide any way of interaction.

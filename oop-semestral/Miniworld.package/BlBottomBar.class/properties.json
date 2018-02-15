@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "BlButtonGroup",
+	"category" : "Miniworld-Utility",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BlBottomBar",
+	"type" : "normal"
+}

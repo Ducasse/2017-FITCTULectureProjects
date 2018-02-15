@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "rodlukas 12/10/2017 22:11",
+	"super" : "Object",
+	"category" : "MegaMiner-Game-Core",
+	"classinstvars" : [ ],
+	"pools" : [
+		"MiConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [
+		"map",
+		"miner",
+		"announcer",
+		"moveCodeOnHold",
+		"moveCode"
+	],
+	"name" : "MiGame",
+	"type" : "normal"
+}

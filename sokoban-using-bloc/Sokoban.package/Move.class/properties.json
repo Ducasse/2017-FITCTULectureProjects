@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "MartinTaibr 1/2/2018 09:22",
+	"super" : "Action",
+	"category" : "Sokoban-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"direction"
+	],
+	"name" : "Move",
+	"type" : "normal"
+}

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "Anonymous 1/3/2018 21:09",
+	"super" : "Object",
+	"category" : "Sokoban-Map",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"dir",
+		"mapSuffix"
+	],
+	"name" : "MapHandler",
+	"type" : "normal"
+}

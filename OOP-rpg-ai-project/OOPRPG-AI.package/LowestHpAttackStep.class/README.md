@@ -1,0 +1,1 @@
+AI behaviour class. Every time attack enemy with lowest HP.

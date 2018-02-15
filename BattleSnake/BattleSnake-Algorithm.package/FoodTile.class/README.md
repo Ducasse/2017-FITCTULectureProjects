@@ -1,0 +1,1 @@
+Food tile class

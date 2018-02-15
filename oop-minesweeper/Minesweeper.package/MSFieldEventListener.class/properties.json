@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "MarekReimer 12/8/2017 06:20",
+	"super" : "BlElementEventListener",
+	"category" : "Minesweeper-Event handling",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"grid",
+		"announcer"
+	],
+	"name" : "MSFieldEventListener",
+	"type" : "normal"
+}

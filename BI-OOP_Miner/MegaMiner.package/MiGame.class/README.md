@@ -1,0 +1,1 @@
+I am the most important of the game. I provide basic logic for all objects, i keep all subparts (miner, map...) inside of me and i let responses perform actions for me (move response will manipulate miner, so that i don't take too much burden on myself). Each game has its unique instance. Nothing is shared.

@@ -1,0 +1,3 @@
+initialization
+damage
+	self subclassResponsibility

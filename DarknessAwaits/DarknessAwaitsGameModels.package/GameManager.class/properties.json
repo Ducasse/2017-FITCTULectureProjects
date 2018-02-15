@@ -1,0 +1,26 @@
+{
+	"commentStamp" : "JakubRathousky 11/26/2017 16:11",
+	"super" : "Object",
+	"category" : "DarknessAwaitsGameModels",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"globalSettings",
+		"monsters",
+		"globalSettingsPath",
+		"battleMap",
+		"player",
+		"monstersDB",
+		"weaponsDB",
+		"defenseDB",
+		"tileCharInfo",
+		"fightOrderQueue",
+		"level",
+		"gameLog",
+		"gameStateManager",
+		"battleManager"
+	],
+	"name" : "GameManager",
+	"type" : "normal"
+}

@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "PacmanBloc",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"columnsCnt",
+		"rowsCnt",
+		"blocks"
+	],
+	"name" : "PcmMap",
+	"type" : "normal"
+}

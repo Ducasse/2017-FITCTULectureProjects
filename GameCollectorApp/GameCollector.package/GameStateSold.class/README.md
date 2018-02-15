@@ -1,0 +1,1 @@
+I am active when user sold the game

@@ -1,0 +1,3 @@
+accessing
+destFilename
+	^ self destFilename

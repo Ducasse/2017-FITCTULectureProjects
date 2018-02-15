@@ -1,0 +1,3 @@
+helper methods
+getArrayOfSpells
+	self subclassResponsibility.

@@ -1,0 +1,3 @@
+accessing
+gameNameText
+	^ gameNameText.

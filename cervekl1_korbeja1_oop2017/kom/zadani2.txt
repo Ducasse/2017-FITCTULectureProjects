@@ -1,0 +1,176 @@
+Problém:
+	1. Pro účely nákupu a vaření je potřeba znát, jaké potraviny jsou ve spíži.
+	2. Při nákupu je třeba vědět, jak je nabízená cena výhodná.
+	3. Ze zájmu chceme vědět, kolik DPH museli obchodníci odvést na daních z potravin, které máme aktuálně ve spíži.
+	4. Objeví-li se na trhu závadná potravina, potřebujeme umět rychle zkontrolovat, zda potravinu této šarže nemáme ve spíži.
+	5. Pro účely vaření potřebujeme umět vyhledat balení dané potraviny s nejbližším datem spotřeby, resp. nejbližším minimálním datem trvanlivosti.
+	6. Před příjezdem hladové návštěvy je třeba znát celkovou cenu potravin ve spíži.
+	7. Častými hosty jsou osoby celiaci a osoby vegetariáni a chceme mít přehled o tom, jaké máme pro ně ve spíži potraviny,
+	aby odpovídaly nárokům bezlepkové diety či vegetariánskému způsobu stravování.
+	8. Návštěvy bývají i vybíravé a chceme-li jim uvařit podle chuti, chceme mít rychlý seznam potravin dané chuti, ze kterého se nám lépe vybere. 
+	9. Pro uhlídání váhy strávníků chceme umět porovnat, která potravina má větší výživnost. 
+	10. Spíž nesmí ohrozit statiku domu, a proto je třeba znát celkovou hmotnost všech potravin ve spíži.
+	11. Požadujeme pomoc při hlídání, aby naskladněné potraviny neměly prošlý datum spotřeby. 
+	12. Chceme si nechat poradit, jestli se daná potravina dá použít jako hlavní část jídla či jeho příloha, a v kladném případě k čemu se hodí, a to podle receptů z kuchařské knihy.
+	13. Jednoduše zjistit, zda máme ingredience potřebné pro daný recept a pokud je nemáme dostat seznam ingrediencí, které pro daný recept chybí.
+	14. Chceme umět rychle zjistit, zda daná potravina je zpracovatelná určitým postupem vaření (vaření, pečení, ...) a nabídne recepty, které je možné využít.
+	 
+	
+
+Funkční požadavky:
+	Systém bude evidovat potraviny podle druhů, a to po jednotlivých kusech konkrétního balení dané potraviny, 
+	přičemž musí být schopen rozlišit potraviny na ty s minimální dobou trvanlivosti a na ty s datem spotřeby. Samotné naskladnění potraviny udělá osoba
+	až po úspěšném přidání nové potraviny do systému.
+	Při přidávání potravin se zadává její cena - bez DPH a zvlášť DPH, šarže balení, datum spotřeby, resp. minimální datum trvanlivosti.
+	U potravin systém eviduje dále jejich chuť, hmotnost přidávaného balení.
+	Systém eviduje u potraviny, jestli je vegetariánská a jestli je vhodná pro celiaky. Zadávající osoba na základě údajů z obalu, případně po dohledání 
+	na internetu, spočítá a zaeviduje její výživnost na jednu porci.	
+	Systém umožní odebrat potraviny ze spíže, tedy po samotném vyskladnění potraviny dotyčná osoba vyhledá v systému vyskladňovanou potravinu - nebo systéme napíše, že potravina naskladněná není, 
+	a systému zadá, aby potravinu zrušil, případně aby ji ještě z databáze neodstraňoval. 
+	Nejméně jednou za měsíc si nechá pověřená osoba vypsat systémem seznam potravin ve spíži (druh a množství). Taktéž si nechá zobrazit seznam potravin
+	s prošlým datem spotřeby, prošlé potraviny ve spíži dohledá, zlikviduje a ze systému nechá odepsat.
+	Dále si nechá systémem vypsat naskladněné vegetariánské potraviny a potraviny vhodné pro celiaky, nejsou-li tyto naskladněny, dokoupí je.
+	Jednou měsíčně dále pověřená osoba kontroluje celkovou cenu potravin ve spíži a celkový součet DPH podle údajů předložených systémem a dále systém vrací celkovou hmotnost 
+	zaevidovaných potravin.
+	Před větším nákupem se porovnají maximální, minimální a průměrné ceny naskladněných potravin s cenami z letáků, zda je akční cena opravdu výhodná.	
+	Do systému jsou dále zadány recepty z kuchařské knihy, s vyznačením hlavní potraviny receptu a jeho přílohy a způsobu zpracování.
+	Systém zjistí, zda spíž obsahuje potřebné ingredience, a to v dostatečném množství pro vybraný recept. A zobrazí nejstarší potraviny jednotlivých ingrediencí,
+	které jsou ve spíži, aby si kuchař vybíral balení od nejstaršího.
+	Objeví-li někdo zprávu o uvedení nebezpečných potravin na trh, nechá si systémem zjistit, zda balení zadané šarže je umístěno do spíže. Pokud ano, potravinu
+	dané šarže ve spíži vyhledá, zlikviduje a ze systému nechá odepsat.
+	Systém vypisuje seznam umístěných potravin dané chuti.
+	Systém určí, která ze dvou zadaných potravin má větší výživnou hodnotu, popř. že mají stejnou výživnou hodnotu.
+	Systém na dotaz, zda lze danou potravinu využít jako hlavní jídlo, resp. přílohu, vrátí seznam hodících se příloh, resp. hlavních částí jídla, popřípadě napíše, že danou 	
+	potravinu nelze jako hlavní jídlo, resp. přílohu využít - podle zadaných receptů.
+	Pro vybraný recept systém zjistí, zda jsou zaevidovány potřebné potraviny v dostatečném množství, případně vypíše, kolik kterých potravin chybí.
+	Po zadání potraviny a způsobu úpravy systém vrátí informaci, zda je zaevidován recept, v rámci jehož ingrediencí se zadaná potravina nachází a zpracovává se zadanou úpravou, v 
+	kladném případě vrátí seznam takovýchto receptů.
+	 
+	
+
+Obecné požadavky
+	Systém při vkládání kontroluje u potraviny s datem spotřeby toto datum a nedovolí přidat již prošlou potravinu.
+	Potraviny jsou buď s datem minimální trvanlivosti nebo s datem spotřeby.
+	Nesmí jít přidat balení potraviny se zápornou cenou nebo hmotností.
+	Systém nedovolí přidat do spíže potravinu, po jejímž přidání by celková hmotnost zaevidovaných potravin přesáhla 1000 kg.
+	
+	
+	
+	
+OCL
+	1.	context datumTrvanlivostiASpotřeby
+		def: potravinaSDatemSpotreby:Set(Potravina) = self.potraviny->select(p | p.maDatumSpotreby)
+		def: potravinaSDatemTrvanlivosti:Set(Potravina) = self.potraviny->select(p | p.maDatumTrvanlivosti)
+		inv: potravinaSDatemSpotreby->intersection(potravinaSDatemTrvanlivosti)->isEmpty()
+
+	2.	context nezapornaCastkaHmotnost
+		self.castka >= 0 and self.hmotnost >=0
+
+
+	Konstrukt	Vyskyt								Pocet
+-	Kind		Potravina, BaleniPotraviny, Kus, Ingredience, Postup, Uzivatel	6
+0.5	Subkind		PotravinaSDatemSpotreby, PotravinaSDatemTrvanlivosti, ZeleninovySalat, Ryze, Testoviny, Jogurt, Ryze
+0.5	Role		Vegerarianske, Bezlepkove, Vegetarian, Celiak, Priloha, Zaklad
+0.5	Phase		PredDatemSpotreby, PoDatuSpotreby
+-	Category	-
+1.0	RoleMixin	SoucastPokrmu
+-	Mixin		-
+-	Whole		-
+-	Parts		-
+0.5	Quantity	Cena, CenaBezDPH, DPH
+0.5	Collective	KucharskaKniha
+0.5	Quality		Hmotnost, EAN
+0.5	Mode		Chut
+	Relator		Recept
+0.5	Formal Relator	vetsiVyzivnostNez
+-	Event		-
+--------------------
+5.0
+
+
+TPT+
+
+	ID transakce 1:
+	Název transakce:
+	Produkt: Přidání potraviny do systému
+		Request: Osoba chce do systému přidat zapsanou potravinu.
+		Promise: Systém napíše, že požadavek zpracovává.
+		State: Systém napíše, že potravinu přidal, zda má změnu uložit.
+		Accept: Osoba potvrdí, že mají být změny uloženy.
+		...
+		Decline: Systém zjistí, že přidáním potraviny by byla překročena nosnost podlahy (1 000kg) a odmítne potravinu zaevidovat.
+		Reject: Osoba nechce potvrdit uložení změn.
+		...
+		Revoke request
+		Revoke promise
+		Revoke statement
+		Revoke acceptance
+
+	ID transakce 2:
+	Název transakce:
+	Produkt: Odebrání potraviny ze systému.
+		Request: Osoba požaduje, aby systém odstranil z evidence danou potravinu.
+		Promise: Systém hlásí, že má potravinu zaevidovanou a odebírá ji z databáze.
+		State: Systém se dotazuje, zda má provedenou akci uložit.
+		Accept:	Osoba souhlasí s uložením změn.
+		...
+		Decline: Systém hlásí, že danou potravinu v databázi nemá.
+		Reject: Osoba nesouhlasí s uložením změn.
+		...
+		Revoke request
+		Revoke promise
+		Revoke statement
+		Revoke acceptance
+
+	ID transakce 3:
+	Název transakce:
+	Produkt: Odebrání potravin s prošlým datem spotřeby.
+		Request: Osoba požaduje od systému odevidování potravin s prošlým datem spotřeby.
+		Promise: Systém napíše, že prohledá databázi.
+		State: Systém vrací seznam potravin, které mají prošlý datum spotřeby s dotazem, zda má tyto potraviny z databáze odstranit.
+		Accept: Osoba dohledala a zlikvidovala potraviny a souhlasí s jejich vyřazením z databáze.
+		...
+		Decline: Systém nenašel žádnou potravinu, která by měla prošlý datum spotřeby.
+		Reject: Osoba prozatím nechává potraviny ve spíži a nechce je z databáze odstraňovat.
+		...
+		Revoke request
+		Revoke promise
+		Revoke statement
+		Revoke acceptance
+
+	ID transakce 4:
+	Název transakce:
+	Produkt: Odebrání potravin potřebných k danému receptu.
+		Request: Osoba určuje systému recept, jehož ingredience má ze systému odebrat.
+		Promise: Systém napíše, že požadavek zpracovává.
+		State: Systém vrací seznam potravin - ingrediencí, s dotazem, zda je má z databáze odebrat.
+		Accept: Osoba potraviny dohledá ve spíži a potvrdí odebrání.
+		...
+		Decline: Systém vrací seznam potravin - ingrediencí, které chybí.
+		Reject: Osobě se nezdá stáří nalezených potravin, prozatím vařit nebude a nechce potraviny odebírat.
+		...
+		Revoke request
+		Revoke promise
+		Revoke statement
+		Revoke acceptance
+
+	ID transakce 5:
+	Název transakce:
+	Produkt: Kontrola uskladnění nebezpečné potraviny podle šarže.
+		Request: Osoba požaduje po systému, aby našel potravinu dané šarže.
+		Promise: Systém odpovídá, že vyhledává potravinu dané šarže.
+		State: Systém vrací odpověď, zda potravinu eviduje.
+		Accept: Osoba ukončuje dialog.
+		...
+		Decline:
+		Reject:
+		...
+		Revoke request
+		Revoke promise
+		Revoke statement
+		Revoke acceptance
+
+
+
+
+

@@ -1,0 +1,1 @@
+This class represents direction null object  in our game

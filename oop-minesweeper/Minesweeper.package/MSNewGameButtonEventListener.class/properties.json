@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "MarekReimer 12/11/2017 21:01",
+	"super" : "BlElementEventListener",
+	"category" : "Minesweeper-Event handling",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"announcer",
+		"gameView",
+		"space"
+	],
+	"name" : "MSNewGameButtonEventListener",
+	"type" : "normal"
+}

@@ -1,0 +1,1 @@
+I am seaside html component. I render all games on one page.

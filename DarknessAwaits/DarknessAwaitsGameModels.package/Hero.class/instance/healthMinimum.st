@@ -1,0 +1,3 @@
+initialization
+healthMinimum
+	^ 10

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "FK 12/27/2017 23:01",
+	"super" : "Object",
+	"category" : "PacmanBloc",
+	"classinstvars" : [
+		"instance"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PcmDirection",
+	"type" : "normal"
+}

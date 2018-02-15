@@ -1,0 +1,3 @@
+getSet
+attack
+	^attack

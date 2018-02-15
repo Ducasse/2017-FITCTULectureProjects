@@ -1,0 +1,3 @@
+tests
+testPush
+	self testPop

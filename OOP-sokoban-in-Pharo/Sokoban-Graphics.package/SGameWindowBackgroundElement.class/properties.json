@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "MichalCvach 12/1/2017 23:15",
+	"super" : "BlElement",
+	"category" : "Sokoban-Graphics-View",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SGameWindowBackgroundElement",
+	"type" : "normal"
+}

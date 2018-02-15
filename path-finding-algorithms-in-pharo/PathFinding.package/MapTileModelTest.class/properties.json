@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "MarekBelohoubek 12/31/2017 11:56",
+	"super" : "TestCase",
+	"category" : "PathFinding-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MapTileModelTest",
+	"type" : "normal"
+}

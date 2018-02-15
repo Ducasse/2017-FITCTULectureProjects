@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "BaseValidator",
+	"category" : "ContactManager-Validation",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"msg"
+	],
+	"name" : "RemoveCompanyValidator",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+actions
+solve
+ ^self subclassResponsibility 

@@ -1,0 +1,47 @@
+Reports of Semestral Project - OOP
+Topic of Semestral Project: Information System for Safe
+Team: Klára Červenková, Jan Korbel 
+
+
+20180108
+- submit the project
+
+20180107
+- small changes of the model
+- improved code coverage by tests
+- granted lecturers access to the repository
+
+20180106
+- written down a concise description of the application
+
+20180105
+- deadline changed - use the opportunity to make next changes to provide better clarity, including writting down a documentation
+
+20180104
+- since the last record - made a change - extract the package of gui from the main package
+- plan: control functionality of the model, gui and tests
+
+20180103
+- since the last record - made tests of clearing items (in the model)
+- plan: prepare materials to the submission - deadline 05.01.2018
+
+20180101
+- since the last record - made running model - gui - for editing food, their classify (by coloring) and arranging in alphabetical order (in ascending and in descending order)
+- plan: prepare package for tests
+
+20171209
+- since the last record - a draft of a submission created
+- plan: in Pharo establish a new package and make classes, metods, ... according to the description
+
+20171202
+- since the last record - separated the description of OOP and of KOM; OOP kept as a frame
+- plan: until the next lab session - control requirements for the project in comparison with the kept description
+
+20171111
+- since the last record - decided that the topic of our semestral project is the same like the topic of the semestral project of another school subject KOM (because of the same team)
+- plan: during the next week - elaborate analysis of the topic of the semestral project of KOM
+
+20171104
+- 1st lab session - OOP - found a team, selected a topic - written names and topic to the system Moodle
+- plan: during the next week (until next lab session) - write down a detailed description of the choosen topic
+

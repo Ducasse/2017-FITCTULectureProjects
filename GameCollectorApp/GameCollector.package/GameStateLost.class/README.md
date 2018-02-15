@@ -1,0 +1,1 @@
+I am active when user lost the game

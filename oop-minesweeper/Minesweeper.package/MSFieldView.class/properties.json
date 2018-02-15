@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "BlElement",
+	"category" : "Minesweeper-View",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"field",
+		"coveredColor",
+		"fieldSize",
+		"uncoveredColor"
+	],
+	"name" : "MSFieldView",
+	"type" : "normal"
+}

@@ -1,0 +1,4 @@
+NullObjectPattern
+amIUnit
+	^true
+	

@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "FK 12/27/2017 23:31",
+	"super" : "Object",
+	"category" : "PacmanBloc",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"running",
+		"delay",
+		"block",
+		"events"
+	],
+	"name" : "PcmTicker",
+	"type" : "normal"
+}

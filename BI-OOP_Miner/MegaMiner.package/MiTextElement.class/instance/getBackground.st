@@ -1,0 +1,3 @@
+drawing
+getBackground
+	^ Color paleYellow

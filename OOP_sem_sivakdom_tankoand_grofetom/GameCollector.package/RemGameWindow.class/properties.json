@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "ComposableModel",
+	"category" : "GameCollector-View",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"text",
+		"yesButton",
+		"noButton",
+		"game"
+	],
+	"name" : "RemGameWindow",
+	"type" : "normal"
+}

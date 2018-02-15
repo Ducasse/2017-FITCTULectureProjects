@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "MarekErben 1/3/2018 13:50",
+	"super" : "FindingPathAlgorithm",
+	"category" : "PathFinding-Algorithms",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"distances",
+		"distances2"
+	],
+	"name" : "AlgorithmWithCostToCross",
+	"type" : "normal"
+}

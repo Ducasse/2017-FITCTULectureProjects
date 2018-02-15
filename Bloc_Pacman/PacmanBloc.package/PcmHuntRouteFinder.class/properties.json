@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PcmRouteFinder",
+	"category" : "PacmanBloc",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PcmHuntRouteFinder",
+	"type" : "normal"
+}

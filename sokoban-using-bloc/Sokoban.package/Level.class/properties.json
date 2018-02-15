@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "MartinTaibr 12/11/2017 10:27",
+	"super" : "Object",
+	"category" : "Sokoban-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"map",
+		"width",
+		"height",
+		"goalCount",
+		"player",
+		"history",
+		"announcer"
+	],
+	"name" : "Level",
+	"type" : "normal"
+}

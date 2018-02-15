@@ -1,0 +1,1 @@
+I am a graphical element representing an image version of an empty target tile.

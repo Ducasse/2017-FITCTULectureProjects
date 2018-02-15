@@ -1,0 +1,1 @@
+This class represents enumeration of weapon types. Those types have effect on damage calculation.

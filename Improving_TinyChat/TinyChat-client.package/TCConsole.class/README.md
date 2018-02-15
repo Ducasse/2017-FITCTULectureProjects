@@ -1,0 +1,1 @@
+(TinyChat connect: 'localhost' port: 8080 login: 'olivier' ) 

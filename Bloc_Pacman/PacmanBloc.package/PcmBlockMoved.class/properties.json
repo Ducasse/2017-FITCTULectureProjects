@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PcmAnnouncement",
+	"category" : "PacmanBloc",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PcmBlockMoved",
+	"type" : "normal"
+}

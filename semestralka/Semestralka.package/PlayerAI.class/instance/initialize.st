@@ -1,0 +1,3 @@
+AImethods
+initialize
+	super initialize.

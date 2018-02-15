@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "MarekAnda 12/30/2017 17:15",
+	"super" : "MapTile",
+	"category" : "PathFinding-View",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MapTileWater",
+	"type" : "normal"
+}

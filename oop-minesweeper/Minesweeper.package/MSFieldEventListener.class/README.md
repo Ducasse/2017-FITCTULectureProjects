@@ -1,0 +1,1 @@
+This class handles event listening for the game grid.

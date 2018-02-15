@@ -1,0 +1,1 @@
+AI Behavior mage class. Every round heals frindly unit with most HP, thus creating a golem.

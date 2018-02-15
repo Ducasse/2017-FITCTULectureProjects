@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "rodlukas 12/9/2017 23:03",
+	"super" : "Object",
+	"category" : "MegaMiner-Game-Miner",
+	"classinstvars" : [ ],
+	"pools" : [
+		"MiConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [
+		"price",
+		"effect"
+	],
+	"name" : "MiComponentTier",
+	"type" : "normal"
+}

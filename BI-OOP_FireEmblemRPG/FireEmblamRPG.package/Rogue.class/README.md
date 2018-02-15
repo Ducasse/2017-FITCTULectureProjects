@@ -1,0 +1,1 @@
+Class  represents child of class Champion with class rogue

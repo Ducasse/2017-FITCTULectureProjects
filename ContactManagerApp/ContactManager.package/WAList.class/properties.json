@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "WAScreenCurrent",
+	"category" : "ContactManager-WAComponent",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "WAList",
+	"type" : "normal"
+}

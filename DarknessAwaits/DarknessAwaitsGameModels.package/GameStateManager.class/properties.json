@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "DarknessAwaitsGameModels",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"gameState",
+		"announcer",
+		"gameManager",
+		"newLevel"
+	],
+	"name" : "GameStateManager",
+	"type" : "normal"
+}

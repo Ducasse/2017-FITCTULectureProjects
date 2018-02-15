@@ -1,0 +1,1 @@
+AI behaviour class. Defends himself all the time. Attack only when it is last one standing on his own team.

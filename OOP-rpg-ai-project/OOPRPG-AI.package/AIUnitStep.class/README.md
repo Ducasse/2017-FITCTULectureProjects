@@ -1,0 +1,1 @@
+Subclass of UnitStep. Got methods with code for AI that was repeated often.

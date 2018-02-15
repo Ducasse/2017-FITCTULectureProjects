@@ -1,0 +1,3 @@
+setter
+getTerrain
+	^ terrain

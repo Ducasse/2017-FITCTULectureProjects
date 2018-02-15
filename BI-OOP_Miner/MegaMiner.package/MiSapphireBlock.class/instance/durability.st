@@ -1,0 +1,3 @@
+properties
+durability
+	^ 30

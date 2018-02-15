@@ -1,0 +1,7 @@
+5 5 12
+w w w w w
+w f f p f
+w f b b f
+w f t t w
+w w w w w
+

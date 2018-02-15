@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "Anonymous 12/7/2017 18:57",
+	"super" : "Terrain",
+	"category" : "Semestralka-Terrain",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ImpassableTerrain",
+	"type" : "normal"
+}

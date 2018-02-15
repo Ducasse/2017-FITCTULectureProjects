@@ -1,0 +1,1 @@
+This panel contains contact list and profile panel.

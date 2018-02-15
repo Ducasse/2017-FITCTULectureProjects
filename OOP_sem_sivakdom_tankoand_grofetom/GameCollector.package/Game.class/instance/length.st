@@ -1,0 +1,3 @@
+initialization
+length
+	^length.

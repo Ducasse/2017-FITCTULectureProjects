@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "MSFieldView",
+	"category" : "Minesweeper-View",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"drawnColor",
+		"warningColor"
+	],
+	"name" : "MSNumberFieldView",
+	"type" : "normal"
+}

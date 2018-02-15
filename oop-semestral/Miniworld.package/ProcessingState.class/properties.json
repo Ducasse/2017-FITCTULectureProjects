@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "OnAnyState",
+	"category" : "Miniworld-Tiles",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ProcessingState",
+	"type" : "normal"
+}

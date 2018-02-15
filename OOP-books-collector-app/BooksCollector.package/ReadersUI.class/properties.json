@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "vutungan 12/30/2017 19:37",
+	"super" : "ComposableModel",
+	"category" : "BooksCollector",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"readersList",
+		"refreshButton",
+		"deleteButton",
+		"url",
+		"opened"
+	],
+	"name" : "ReadersUI",
+	"type" : "normal"
+}

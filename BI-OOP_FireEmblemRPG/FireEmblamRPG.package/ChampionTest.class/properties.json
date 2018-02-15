@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "polivpe3 11/30/2017 12:51",
+	"super" : "TestCase",
+	"category" : "FireEmblamRPG",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ChampionTest",
+	"type" : "normal"
+}

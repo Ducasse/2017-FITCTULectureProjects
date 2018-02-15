@@ -1,0 +1,1 @@
+Zakladni take damage delegat, ktery proste odecte dmg od hp.

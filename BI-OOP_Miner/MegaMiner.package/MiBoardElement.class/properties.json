@@ -1,0 +1,21 @@
+{
+	"commentStamp" : "kuzmajin 12/19/2017 23:36",
+	"super" : "MiElement",
+	"category" : "MegaMiner-View",
+	"classinstvars" : [ ],
+	"pools" : [
+		"MiConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [
+		"currentCenter",
+		"relativeCenter",
+		"cornerPosition",
+		"viewCollection",
+		"fakeBlockHolder",
+		"absoluteMinerDifference",
+		"translationAnimation"
+	],
+	"name" : "MiBoardElement",
+	"type" : "normal"
+}

@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "MichalCerny 12/30/2017 09:38",
+	"super" : "Object",
+	"category" : "Sokoban-Menu",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"text",
+		"id",
+		"isClickable",
+		"alignment",
+		"announcer",
+		"size",
+		"location"
+	],
+	"name" : "SMButtonModel",
+	"type" : "normal"
+}

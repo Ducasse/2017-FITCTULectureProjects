@@ -1,0 +1,1 @@
+Holder class for searching games

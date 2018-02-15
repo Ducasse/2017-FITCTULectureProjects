@@ -1,0 +1,1 @@
+Protect damage delegat, ktery zraneni odecte tomu, kdo jednotku brani, misto toho aby ji odecetla primo ze zivotu.

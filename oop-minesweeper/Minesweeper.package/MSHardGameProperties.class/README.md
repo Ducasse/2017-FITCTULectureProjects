@@ -1,0 +1,1 @@
+Represents hard game properties

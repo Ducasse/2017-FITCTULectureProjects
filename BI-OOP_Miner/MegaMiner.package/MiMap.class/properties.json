@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "JanTomanek 12/9/2017 13:44",
+	"super" : "Object",
+	"category" : "MegaMiner-Game-Core",
+	"classinstvars" : [
+		"generator",
+		"buildings"
+	],
+	"pools" : [
+		"MiConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [
+		"portal",
+		"blocks"
+	],
+	"name" : "MiMap",
+	"type" : "normal"
+}

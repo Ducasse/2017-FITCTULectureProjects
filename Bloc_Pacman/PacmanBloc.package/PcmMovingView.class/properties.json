@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "PcmBlockView",
+	"category" : "PacmanBloc",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"tick",
+		"maxTick",
+		"lastDirection"
+	],
+	"name" : "PcmMovingView",
+	"type" : "normal"
+}

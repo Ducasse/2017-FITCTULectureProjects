@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "Anonymous 12/4/2017 23:45",
+	"super" : "TestCase",
+	"category" : "GameCollector-ModelTests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GameStateTest",
+	"type" : "normal"
+}

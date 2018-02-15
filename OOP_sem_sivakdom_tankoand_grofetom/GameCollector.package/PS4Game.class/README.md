@@ -1,0 +1,1 @@
+Game subclass specific for PS4.

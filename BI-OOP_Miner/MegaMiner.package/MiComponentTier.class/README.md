@@ -1,0 +1,1 @@
+I am a template for storing miner upgrading info. Each part has its initial state that has some effect on miner and better states on higher tiers that cost some price. Each of the miner part should say with my help what tiers (with some effect and price) has. Than I'm able to provide to each of the part ability to apply the upgrade on itself.

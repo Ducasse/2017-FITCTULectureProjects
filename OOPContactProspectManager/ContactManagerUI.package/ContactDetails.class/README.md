@@ -1,0 +1,1 @@
+This panel holds all information about particular contact. Such as history of calls, email etc.

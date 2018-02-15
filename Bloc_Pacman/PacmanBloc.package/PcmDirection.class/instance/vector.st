@@ -1,0 +1,3 @@
+accessing
+vector
+	self subclassResponsibility 

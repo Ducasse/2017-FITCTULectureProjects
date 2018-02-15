@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "RPG-bloc-semestral",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"UniqueInstance"
+	],
+	"instvars" : [
+		"background",
+		"isLoaded",
+		"resourcesPathDir"
+	],
+	"name" : "TextureDatabase",
+	"type" : "normal"
+}

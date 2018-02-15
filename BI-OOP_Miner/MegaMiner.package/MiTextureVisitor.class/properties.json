@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "rodlukas 12/9/2017 22:32",
+	"super" : "Object",
+	"category" : "MegaMiner-View-Support",
+	"classinstvars" : [
+		"singleton"
+	],
+	"pools" : [
+		"MiConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [
+		"dictionary"
+	],
+	"name" : "MiTextureVisitor",
+	"type" : "normal"
+}

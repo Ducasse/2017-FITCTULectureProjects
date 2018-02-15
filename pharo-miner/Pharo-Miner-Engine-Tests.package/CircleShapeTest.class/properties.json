@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Shape2DTest",
+	"category" : "Pharo-Miner-Engine-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CircleShapeTest",
+	"type" : "normal"
+}

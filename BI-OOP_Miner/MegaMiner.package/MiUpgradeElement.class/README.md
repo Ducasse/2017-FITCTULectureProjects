@@ -1,0 +1,1 @@
+I am a visual popup window for upgrade center building modelled by ==Miner==

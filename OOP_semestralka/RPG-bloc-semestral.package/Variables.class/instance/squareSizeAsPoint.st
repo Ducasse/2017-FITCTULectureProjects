@@ -1,0 +1,3 @@
+getSet
+squareSizeAsPoint
+	^(squareSize)@(squareSize) 

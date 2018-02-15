@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "MariaKarzhenkova 11/14/2017 21:13",
+	"super" : "MapElement",
+	"category" : "Sokoban-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"isFilled"
+	],
+	"name" : "Target",
+	"type" : "normal"
+}

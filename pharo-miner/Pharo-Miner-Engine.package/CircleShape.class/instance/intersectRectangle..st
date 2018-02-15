@@ -1,0 +1,3 @@
+intersection
+intersectRectangle: aRectangle
+	self shouldBeImplemented

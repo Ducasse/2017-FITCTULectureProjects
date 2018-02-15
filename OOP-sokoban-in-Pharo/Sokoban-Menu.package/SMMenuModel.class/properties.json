@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "MichalCerny 12/30/2017 09:36",
+	"super" : "Object",
+	"category" : "Sokoban-Menu",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"buttons",
+		"selectedLevel",
+		"gameInstance",
+		"actLevelNumber",
+		"levelsArray",
+		"boxCnt"
+	],
+	"name" : "SMMenuModel",
+	"type" : "normal"
+}

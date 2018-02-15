@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PcmGhostView",
+	"category" : "PacmanBloc",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PcmBlinkyView",
+	"type" : "normal"
+}

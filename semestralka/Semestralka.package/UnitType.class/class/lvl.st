@@ -1,0 +1,3 @@
+accessing
+lvl
+	^self subclassResponsibility.

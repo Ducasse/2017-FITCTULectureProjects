@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "Sergey 1/4/2018 12:59",
+	"super" : "Object",
+	"category" : "MineSweeperGame",
+	"classinstvars" : [
+		"instance"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"board",
+		"ui",
+		"time",
+		"restart"
+	],
+	"name" : "MineSweeper",
+	"type" : "normal"
+}

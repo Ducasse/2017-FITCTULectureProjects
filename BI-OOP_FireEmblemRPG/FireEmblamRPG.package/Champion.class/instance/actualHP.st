@@ -1,0 +1,3 @@
+accessing
+actualHP
+	^ actualHP

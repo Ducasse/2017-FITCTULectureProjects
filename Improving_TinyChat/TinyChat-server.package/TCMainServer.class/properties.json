@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "TomasBohuslav 1/22/2018 08:25",
+	"super" : "Object",
+	"category" : "TinyChat-server",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"uniqueInstance"
+	],
+	"instvars" : [
+		"teapotServer",
+		"servers",
+		"port"
+	],
+	"name" : "TCMainServer",
+	"type" : "normal"
+}

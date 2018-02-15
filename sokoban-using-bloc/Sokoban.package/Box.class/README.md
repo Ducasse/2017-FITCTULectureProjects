@@ -1,0 +1,1 @@
+A box that can be pushed by the player but not by other boxes. A new instance is created when it's pushed. Interacts with GoalCells to increment or decrement the level's goal counter.

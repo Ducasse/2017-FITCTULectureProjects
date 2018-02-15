@@ -1,0 +1,3 @@
+mining
+mineBy: aMiningMachine
+	^ self

@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "JakubRathousky 11/26/2017 16:49",
+	"super" : "BlElement",
+	"category" : "DarknessAwaitsUIElements",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"gameManager",
+		"battleField",
+		"battleLog",
+		"optionTab",
+		"infoTab"
+	],
+	"name" : "GameManagerElement",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+actions
+onRemoval
+	self remove

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "GroundTile",
+	"category" : "Miniworld-Tiles",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Sand",
+	"type" : "normal"
+}

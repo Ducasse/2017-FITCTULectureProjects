@@ -1,0 +1,1 @@
+I am a visual miner modelled by ==Miner==

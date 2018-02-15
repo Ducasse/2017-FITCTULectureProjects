@@ -1,0 +1,1 @@
+I am text element with stats of miner modelled by ==Miner==

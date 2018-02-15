@@ -1,0 +1,3 @@
+accessing
+newOptionElement
+	^ OptionElement new.

@@ -1,0 +1,1 @@
+Implementation of this class will be provided in Sokoban ver 1.1.

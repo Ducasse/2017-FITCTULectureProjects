@@ -1,0 +1,1 @@
+AI behaviour class. Focus random enemy and attack him, until he is dead. Then choose another one and repeat.
